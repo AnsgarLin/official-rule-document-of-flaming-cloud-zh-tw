@@ -1,0 +1,8 @@
+{
+    "plugins":["github"],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/AnsgarLin/official-rule-document-of-flaming-cloud-zh-tw"
+        }
+    }
+}
