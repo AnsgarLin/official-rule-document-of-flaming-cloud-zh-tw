@@ -11,7 +11,6 @@ Traditional Chinese**](https://www.gitbook.com/book/ansgarlin/official-rule-docu
 
 <video id="whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005" width="760" height="360" controls="">
 <source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWTG41Rk9fT19qUXc/whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005.webm" type="video/webm">
-<source src="//material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWSGQycHdwcTdyRk0/whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005.mp4" type="video/mp4">
 </video>
 
 <br><br>Copyright © 2015 Flaming Cloud Inc. All rights reserved
