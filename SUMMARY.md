@@ -2,5 +2,4 @@
 
 * [簡介](README.md)
 * [設計法則](design_pattern.md)
-   * [Android](androidmd.md)
 
