@@ -2,5 +2,5 @@
 
 * [簡介](README.md)
 * [設計法則](design_pattern/README.md)
-   * [Android](design_pattern/android/android.md)
+   * [Android](design_pattern/android/README.md)
 
