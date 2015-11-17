@@ -4,4 +4,5 @@
 * [設計法則](design_pattern/README.md)
    * [Android](design_pattern/android/README.md)
        * [概念](design_pattern/android/concept.md)
+       * 動畫
 
