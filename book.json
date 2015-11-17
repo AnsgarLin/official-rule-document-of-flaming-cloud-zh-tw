@@ -1,5 +1,5 @@
 {
-    "plugins":["github", "video"],
+    "plugins":["github", "youtube"],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/AnsgarLin/official-rule-document-of-flaming-cloud-zh-tw"
