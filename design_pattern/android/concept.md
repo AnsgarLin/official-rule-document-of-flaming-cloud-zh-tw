@@ -11,5 +11,3 @@
 ![](../../assets/concept_shadow.png)
 
 陰影等同是Z座標的表徵，物件在基底上產生的陰影，將直接對應到其與基底的距離。
-
-![](https://material-design.storage.googleapis.com/publish/v_1/quantumexternal/0B0NGgBg38lWWTG41Rk9fT19qUXc/whatismaterial-materialprop-physicalprop-020201_InkDisplay_xhdpi_005.webm)
