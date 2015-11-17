@@ -13,4 +13,4 @@
 陰影等同是Z座標的表徵，物件在基底上產生的陰影，將直接對應到其與基底的距離。
 
 
-{% video %}https://www.youtube.com/watch?v=Oru-qw-Faac {% endvideo %}
+{% video %} https://www.youtube.com/watch?v=Oru-qw-Faac {% endvideo %}
