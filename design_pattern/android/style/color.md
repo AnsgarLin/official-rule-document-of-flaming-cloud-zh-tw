@@ -20,7 +20,9 @@ Google官方色票的每一色系皆是由主要色調(50 ~ 900)和次要色調(
 
 * 選擇一色系，主要色票中的500色調為主題色，再選擇最多三個不同色調的顏色。<br>
 
+<div align="center">
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7eDg3bGdRcy12Mm8/style_color_uiapplication_palette1.png" style="max-width: 50%"/>
+</div>
 
 * 選擇另一色系，從次要色票中選擇一強調色。
 
