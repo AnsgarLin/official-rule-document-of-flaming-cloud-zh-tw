@@ -66,16 +66,37 @@
 在物件產生或是畫面轉換時，動畫是以使用者碰觸的點為中心點向外擴散，讓使用者可以明確知道碰觸位置，以及提示當前畫面的閱讀方向。
 <div align="center">
 <video height="auto" width="50%" preload="metadata" loop="" controls>
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaDBfZWtha0RwNGM/animation-responsiveinteraction-materialresponse-PointOfOrigin_DO_003.webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaDBfZWtha0RwNGM/animation-responsiveinteraction-materialresponse-PointOfOrigin_DO_003.webm" type="video/webm">
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaDBfZWtha0RwNGM/animation-responsiveinteraction-materialresponse-PointOfOrigin_DO_003.mp4" type="video/mp4">
 </video>
 <p style="font-size:12px">碰觸左下方選單，物件由左下方向右上產生，提示碰觸點為左下</p>
 </div>
 
+## 有意義的動畫
+由前面的章節可以知道，一個動畫不只是單純的效果，也具有隱含的提示功能。因此，一個良好的動畫設計，必須要考慮以下三點：
+* 如何引導使用者的注意力
+<p></p>
 <div align="center">
 <video height="auto" width="50%" preload="metadata" loop="" controls>
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsVHE4SmRKb3huVXM/animation_responsiveinteraction_radialreaction_xhdpi_003.webm" type="video/webm">
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsVHE4SmRKb3huVXM/animation_responsiveinteraction_radialreaction_xhdpi_003.mp4" type="video/mp4">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3RXRFb0tRZEZDUUU/animation_meaninfultransitions_considerations_do.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3RXRFb0tRZEZDUUU/animation_meaninfultransitions_considerations_do.mp4" type="video/mp4">
 </video>
-<p style="font-size:12px">碰觸左上方選單，物件由左上方向右下產生，提示閱讀方向為左上至右下</p>
+<p style="font-size:12px">展開中心為點擊的物件，並且動畫內容只包含內容而不包含上方按鈕，引導使用者的注意力從列表上的單一選項，進入至下一畫面的圖片</p>
 </div>
+* 動畫之間的連續性
+<div align="center">
+<video height="auto" width="50%" preload="metadata" loop="" controls>
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNTGRLb2Zud2RUNFE/animation-meaningfultransitions-hierarchicaltiming-4do_large_xhdpi.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNTGRLb2Zud2RUNFE/animation-meaningfultransitions-hierarchicaltiming-4do_large_xhdpi.mp4" type="video/mp4">
+</video>
+<p style="font-size:12px">每個物件的動畫是接連著啟動，提醒使用者物件之間的權重，也代表閱讀方向</p>
+</div>
+* 動畫效果必須要一致
+<div align="center">
+<video height="auto" width="50%" preload="metadata" loop="" controls>
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNT2dLWHE1NG8tV00/animation-meaningfultransitions-consistentchoreography-do1_large_xhdpi.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNT2dLWHE1NG8tV00/animation-meaningfultransitions-consistentchoreography-do1_large_xhdpi.mp4" type="video/mp4">
+</video>
+<p style="font-size:12px">一致的動畫效果，才不至於打亂連續性，讓使用者可以更注意在畫面的流程，而不會使使用者分心，迷失在動畫過程中</p>
+</div>
+
