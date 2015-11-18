@@ -26,6 +26,7 @@ Google官方色票的每一色系皆是由主要色調(50 ~ 900)和次要色調(
 
 * 選擇另一色系，從次要色票中選擇一強調色。
 
+<div align="center">
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7NUJzYWNoVGp2SGc/style_color_uiapplication_palette2.png" style="max-width: 50%"/>
 
 ## 文字顏色
@@ -34,10 +35,12 @@ Google官方色票的每一色系皆是由主要色調(50 ~ 900)和次要色調(
 文字顏色可大分為以下兩種情境：
 * 主題色為亮色系
 
+<div align="center">
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3Z21kckdVNjFiN2c/style_color_uiapplication_alpha1.png" style="max-width: 50%"/>
 
 * 主題色為暗色系
 
+<div align="center">
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3dnF5cTktSjdTajA/style_color_uiapplication_alpha2.png" style="max-width: 50%">
 
 ## 圖標顏色
@@ -45,11 +48,13 @@ Google官方色票的每一色系皆是由主要色調(50 ~ 900)和次要色調(
 
 ## 狀態欄和工具列
 大型色塊如工具列底色應為主題色；狀態欄則應為同一色系且色調700。
+<div align="center">
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsMkFyRTBqX0RfMVU/style_color_uiapplication_primary1.png" style="max-width: 50%">
 
 ## 強調色
 通常用於主要按鈕、切換元件等需要強調的部份。
 
+<div align="center">
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsNVB5WmpuQXJhSlE/style_color_uiapplication_accent1.png" style="max-width: 50%">
 <p style="font-size: 12px">主要按鈕</p>
 
@@ -57,6 +62,7 @@ Google官方色票的每一色系皆是由主要色調(50 ~ 900)和次要色調(
 <p style="font-size: 12px">切換元件</p>
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsUklUeG9sRTdTOEk/style_color_uiapplication_accent3.png" style="max-width: 50%">
+</div>
 
 強調色如果不足以明顯表示出重點部份，則可以調整其深淺程度來達到目的。如果強調色完全不適用，則在白底時可以使用主題色代替；在主題色為底時用全白或是54%黑色代替。
 
