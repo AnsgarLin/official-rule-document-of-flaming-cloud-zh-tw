@@ -21,3 +21,7 @@ Google官方色票的每一色系皆是由主要色調(50 ~ 900)和次要色調(
 * 選擇另一色系，從次要色票中選擇一強調色。<br>
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7NUJzYWNoVGp2SGc/style_color_uiapplication_palette2.png" height="224" width="360">
 
+### 字體顏色
+運用透明度來進行文字的顏色，透過深淺不同來呈現各文字區塊的權重。
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3Z21kckdVNjFiN2c/style_color_uiapplication_alpha1.png" height="408" width="360">
+
