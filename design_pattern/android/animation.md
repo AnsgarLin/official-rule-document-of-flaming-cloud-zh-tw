@@ -75,6 +75,7 @@
 ## 有意義的動畫
 由前面的章節可以知道，一個動畫不只是單純的效果，也具有隱含的提示功能。因此，一個良好的動畫設計，必須要考慮以下三點：
 * 如何引導使用者的注意力
+
 <p></p>
 <div align="center">
 <video height="auto" width="50%" preload="metadata" loop="" controls>
@@ -83,7 +84,9 @@
 </video>
 <p style="font-size:12px">展開中心為點擊的物件，並且動畫內容只包含內容而不包含上方按鈕，引導使用者的注意力從列表上的單一選項，進入至下一畫面的圖片</p>
 </div>
+
 * 動畫之間的連續性
+
 <div align="center">
 <video height="auto" width="50%" preload="metadata" loop="" controls>
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNTGRLb2Zud2RUNFE/animation-meaningfultransitions-hierarchicaltiming-4do_large_xhdpi.webm" type="video/webm">
@@ -91,7 +94,9 @@
 </video>
 <p style="font-size:12px">每個物件的動畫是接連著啟動，提醒使用者物件之間的權重，也代表閱讀方向</p>
 </div>
+
 * 動畫效果必須要一致
+
 <div align="center">
 <video height="auto" width="50%" preload="metadata" loop="" controls>
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNT2dLWHE1NG8tV00/animation-meaningfultransitions-consistentchoreography-do1_large_xhdpi.webm" type="video/webm">
