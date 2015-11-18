@@ -11,17 +11,31 @@ Google官方色票的每一色系皆是由主要色調(50 ~ 900)和次要色調(
 
 ## 顏色搭配
 ### 自訂色票
-色票應包含主題色和強調色，並且被設計成彼此可以和諧的相容。
+自訂色票應包含主題色和強調色，並且被設計成彼此可以和諧的相容。
 
 [**Google 官方範例**](http://developer.android.com/training/material/theme.html#ColorPalette)
 
+色票挑選步驟如下：
+
 * 選擇一色系，主要色票中的500色調為主題色，再選擇最多三個不同色調的顏色。
+
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7eDg3bGdRcy12Mm8/style_color_uiapplication_palette1.png" height="224" width="360">
 
 * 選擇另一色系，從次要色票中選擇一強調色。<br>
+
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7NUJzYWNoVGp2SGc/style_color_uiapplication_palette2.png" height="224" width="360">
 
-### 字體顏色
+### 文字顏色
 運用透明度來進行文字的顏色，透過深淺不同來呈現各文字區塊的權重。
+
+文字顏色可大分為以下兩種情境：
+* 主題色為亮色系
+
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3Z21kckdVNjFiN2c/style_color_uiapplication_alpha1.png" height="408" width="360">
 
+* 主題色為暗色系
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3dnF5cTktSjdTajA/style_color_uiapplication_alpha2.png" height="408" width="360">
+
+### 圖標顏色
+圖標通常位於表題列、工具列、按鈕等不同顏色區塊中，因此單純套用黑或白的顏色，可使得圖標適用於各種不同顏色的色塊。
