@@ -7,4 +7,5 @@
        * [動畫](design_pattern/android/animation.md)
        * 風格
            * [顏色](design_pattern/android/style/color.md)
+           * 圖標
 
