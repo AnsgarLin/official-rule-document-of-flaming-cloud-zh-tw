@@ -7,5 +7,5 @@
 
 Google建議以500色票為主題色，其他作為強調色。下圖以紅色為例。
 
-<img src="../../../assets/color_plate_red.png" height="586" width="360">
+<div style="align: center;"><img src="../../../assets/color_plate_red.png" height="586" width="360"></div>
 
