@@ -7,7 +7,7 @@ Google官方色票的每一色系皆是由主要色調(50 ~ 900)和次要色調(
 
 下圖以紅色為例，上方為主要色調，下方為次要色調，最上方的500色調為Google建議的主題色調。
 
-<img src="../../../assets/color_plate_red.png" height="775" width="360" style="padding: 100px;">
+<img src="../../../assets/color_plate_red.png" height="auto" width="100%" style="padding: 5%;">
 
 ## 顏色搭配
 ### 自訂色票
