@@ -40,7 +40,7 @@ http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_
 ### 漣漪
 多用於物件表層，讓使用者明確知道目前觸控的中心，以及碰觸到的物件
 <div align="center">
-<video height="auto" width="50%" preload="metadata" loop="" controls>
+<video height="auto" width="40%" preload="metadata" loop="" controls>
   <source src="
 https://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-touchripplepressandrelease_large_xhdpi.webm" type="video/webm">
   <source src="
@@ -50,11 +50,11 @@ https://material-design.storage.googleapis.com/videos/animation-responsiveintera
 </div>
 
 <div align="center">
-<video height="auto" width="50%" preload="metadata" loop="" controls>
+<video height="auto" width="40%" preload="metadata" loop="" controls>
   <source src="
 https://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-touchrippledragindragout_large_xhdpi.webm" type="video/webm">
   <source src="
 https://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-touchrippledragindragout_large_xhdpi.mp4" type="video/mp4">
 </video>
 <p style="font-size:12px">碰觸產生漣漪</p>
-  </div>
+ </div>
