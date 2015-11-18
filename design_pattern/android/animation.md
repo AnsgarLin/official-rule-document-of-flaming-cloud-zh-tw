@@ -37,7 +37,7 @@
 ### 漣漪
 用於物件表層，讓使用者明確知道目前觸控的中心，以及碰觸到的物件。
 <div align="center">
-<video height="auto" width="40%" preload="metadata" loop="" controls>
+<video height="auto" width="50%" preload="metadata" loop="" controls>
   <source src="https://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-touchripplepressandrelease_large_xhdpi.webm" type="video/webm">
   <source src="https://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-touchripplepressandrelease_large_xhdpi.mp4" type="video/mp4">
 </video>
@@ -45,7 +45,7 @@
 </div>
 
 <div align="center">
-<video height="auto" width="40%" preload="metadata" loop="" controls>
+<video height="auto" width="50%" preload="metadata" loop="" controls>
   <source src="https://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-touchrippledragindragout_large_xhdpi.webm" type="video/webm">
   <source src="https://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-touchrippledragindragout_large_xhdpi.mp4" type="video/mp4">
 </video>
@@ -55,7 +55,7 @@
 ### 抬升
 用於按鈕類物件，從Z方向的移動改變高度和陰影，讓使用者明確知道目前物件的狀態。
 <div align="center">
-<video height="auto" width="100%" preload="metadata" loop="" controls>
+<video height="auto" width="50%" preload="metadata" loop="" controls>
   <source src="https://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-notouchripplepressandrelease_large_xhdpi.webm" type="video/webm">
   <source src="https://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-notouchripplepressandrelease_large_xhdpi.mp4" type="video/mp4">
 </video>
@@ -65,7 +65,7 @@
 ### 放射式
 在物件產生或是畫面轉換時，動畫是以使用者碰觸的點為中心點向外擴散，讓使用者可以明確知道碰觸位置，以及提示當前畫面的閱讀方向。
 <div align="center">
-<video height="auto" width="100%" preload="metadata" loop="" controls>
+<video height="auto" width="50%" preload="metadata" loop="" controls>
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaDBfZWtha0RwNGM/animation-responsiveinteraction-materialresponse-PointOfOrigin_DO_003.webm">
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaDBfZWtha0RwNGM/animation-responsiveinteraction-materialresponse-PointOfOrigin_DO_003.mp4" type="video/mp4">
 </video>
@@ -73,7 +73,7 @@
 </div>
 
 <div align="center">
-<video height="auto" width="100%" preload="metadata" loop="" controls>
+<video height="auto" width="50%" preload="metadata" loop="" controls>
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsVHE4SmRKb3huVXM/animation_responsiveinteraction_radialreaction_xhdpi_003.webm" type="video/webm">
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsVHE4SmRKb3huVXM/animation_responsiveinteraction_radialreaction_xhdpi_003.mp4" type="video/mp4">
 </video>
