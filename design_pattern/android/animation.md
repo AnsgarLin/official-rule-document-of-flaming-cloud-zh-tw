@@ -100,3 +100,18 @@
 <p style="font-size:12px">一致的動畫效果，才不至於打亂連續性，讓使用者可以更注意在畫面的流程，而不會使使用者分心，迷失在動畫過程中</p>
 </div>
 
+## 圖標
+以動畫來呈現圖標的轉變，可使畫面更加生動活潑。
+<div align="center">
+<video height="auto" width="50%" preload="metadata" loop="" controls>
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFbFRfT196SWRyS2s/animation_delightfuldetails_wellcrafted.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFbFRfT196SWRyS2s/animation_delightfuldetails_wellcrafted.mp4" type="video/mp4">
+</video>
+</div>
+
+<div align="center">
+<video height="auto" width="50%" preload="metadata" loop="" controls>
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B2wX4iIvu8L6ZHZfV1NfRHdCZHM/animation-delightfuldetails-030401_Status_Change_xhdpi_003.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B2wX4iIvu8L6ZHZfV1NfRHdCZHM/animation-delightfuldetails-030401_Status_Change_xhdpi_003.mp4" type="video/mp4">
+</video>
+</div>
