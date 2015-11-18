@@ -10,9 +10,8 @@ Traditional Chinese**](https://www.gitbook.com/book/ansgarlin/official-rule-docu
 * **設計指南**將針對**Android**、**iOS**和**網頁端**。包含**顏色 (color)**、**元件 (component)**、**佈局 (layout)**、**圖片大小 (image size)**、**圖檔命名規則 (image file naming rule)**、**檔案格式 (file formatting)**以及**檔案組織規則 (file arrangement rule)**.
 
 <video width="400" controls>
-  <source src="mov_bbb.mp4" type="video/mp4">
-  <source src="mov_bbb.ogg" type="video/ogg">
-  Your browser does not support HTML5 video.
+  <source src="https://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm" type="video/webm">
+  <source src="https://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.mp4" type="video/mp4">
 </video>
 
 <br><br>Copyright © 2015 Flaming Cloud Inc. All rights reserved
