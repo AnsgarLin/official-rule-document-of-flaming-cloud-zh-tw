@@ -41,7 +41,7 @@
   <source src="https://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-touchripplepressandrelease_large_xhdpi.webm" type="video/webm">
   <source src="https://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-touchripplepressandrelease_large_xhdpi.mp4" type="video/mp4">
 </video>
-<p style="font-size:12px"> 點擊產生漣漪</p>
+<p style="font-size:12px">點擊產生漣漪</p>
 </div>
 
 <div align="center">
