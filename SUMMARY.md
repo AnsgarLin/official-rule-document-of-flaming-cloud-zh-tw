@@ -6,5 +6,5 @@
        * [概念](design_pattern/android/concept.md)
        * [動畫](design_pattern/android/animation.md)
        * 風格
-           * 顏色
+           * [顏色](design_pattern/android/style/color.md)
 
