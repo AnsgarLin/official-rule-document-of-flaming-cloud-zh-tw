@@ -37,8 +37,8 @@
 ## 響應式互動
 由於手機設備的特性，其顯示在螢幕上的物件並不具有實際的形體，讓使用者可以直覺的感受出目前碰觸的物體。因此，響應式動畫能主動提示使用者其目前碰觸位置，以及物件當前的狀態。
 
-不同類型的物件有不同的響應式動畫，但主要可分為漣漪、抬升和放射式：
-### 漣漪
+不同類型的物件有不同的響應式動畫，但主要可分為以下三種：
+* 漣漪  
 用於物件表層，讓使用者明確知道目前觸控的中心，以及碰觸到的物件。
 
 <video height="auto" width="50%" preload="metadata" loop="" controls>
@@ -55,9 +55,9 @@
 
 > <p style="font-size:12px">碰觸產生漣漪</p>
 
-### 抬升
-用於按鈕類物件，從Z方向的移動改變高度和陰影，讓使用者明確知道目前物件的狀態。
-<div align="center">
+* 抬升  
+用於按鈕類物件，從Z方向的移動改變高度和陰影，讓使用者明確知道目前物件的狀態
+
 <video height="auto" width="50%" preload="metadata" loop="" controls>
   <source src="https://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-notouchripplepressandrelease_large_xhdpi.webm" type="video/webm">
   <source src="https://material-design.storage.googleapis.com/videos/animation-responsiveinteraction-inkreactions-notouchripplepressandrelease_large_xhdpi.mp4" type="video/mp4">
@@ -65,7 +65,7 @@
 
 > <p style="font-size:12px">碰觸產生抬升</p>
 
-### 放射式
+* 放射式  
 在物件產生或是畫面轉換時，動畫是以使用者碰觸的點為中心點向外擴散，讓使用者可以明確知道碰觸位置，以及提示當前畫面的閱讀方向。
 
 <video height="auto" width="50%" preload="metadata" loop="" controls>
