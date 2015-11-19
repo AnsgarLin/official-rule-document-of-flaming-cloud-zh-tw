@@ -64,7 +64,7 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 1. 完成圖
 2. 背景
 3. 前景
-4. 色彩
+4. 色塊
 5. 陰影
 
 <div align="center">
@@ -75,6 +75,47 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 <div align="center">
 <img src="https://wcc723.gitbooks.io/google_design_translate/content/images/style/style_logos_product_anatomy_components_perspective.png" style="max-width: 50%"/>
 <p style="font-size: 12px">側面圖</p>
+</div>
+
+<div align="center">
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7YkhGUlV5U1pUbFk/style_logos_product_anatomy_material_background.png" style="max-width: 50%"/>
+<p style="font-size: 12px">背景</p>
+</div>
+
+<div align="center">
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7TEg1WjhLa0VDRFE/style_logos_product_anatomy_material_foreground.png" style="max-width: 50%"/>
+<p style="font-size: 12px">前景</p>
+</div>
+
+<div align="center">
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7UzdCZ0MtOEpybGM/style_logos_product_anatomy_edges_tinted.png" style="max-width: 50%"/>
+<p style="font-size: 12px">上緣</p>
+</div>
+
+<div align="center">
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7RW5GbWN2Z2pNcGc/style_logos_product_anatomy_edges_shaded.png" style="max-width: 50%"/>
+<p style="font-size: 12px">下緣</p>
+</div>
+
+<div align="center">
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7MEtzZUxkM0tzeGs/style_logos_product_lighting_shadow.png" style="max-width: 50%"/>
+<p style="font-size: 12px">前景陰影，偏重在下方和右方，並且隨著前景形狀變化。<br>
+透明度：20%<br>
+X偏移: 0dp<br>
+Y偏移: 4dp<br>
+模糊距離: 6dp<br>
+顏色: 根據上緣或下緣
+</p>
+</div>
+
+<div align="center">
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7Uy1Vc2c5TGEtOGs/style_logos_product_anatomy_color_spot.png" style="max-width: 50%"/>
+<p style="font-size: 12px">色塊</p>
+</div>
+
+<div align="center">
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7eWI1WGdhcE9xTEU/style_logos_product_lighting_lighting_45.png" style="max-width: 50%"/>
+<p style="font-size: 12px">光源</p>
 </div>
 
 ## 系統圖示
