@@ -190,16 +190,7 @@ http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_
 > <p style="font-size: 12px">在某些情況，細微調整可以提升清晰度，但只能調整如上述這些其他圖示也會遵守的規則，不可扭曲或傾斜圖示</p>
 
 ### 著色表
-系統圖示通常位於工具列、按鈕等不同顏色區塊中，因此單純套用黑或白的顏色，可使得圖標適用於各種不同顏色的色塊。
-
-顏色可分別使用於以下兩種情境：
-* 主題色為亮色系
-
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7STNoWnkzTjZuMGc/style_icons_system_color1.png" style="max-width: 50%"/>
-
-* 主題色為亮色系
-
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7STNoWnkzTjZuMGc/style_icons_system_color1.png" style="max-width: 50%"/>
+同[顏色](/color/)章節中的[圖示顏色](color.html#圖示顏色)
 
 ## 繪製
 <img src="https://wcc723.gitbooks.io/google_design_translate/content/images/style/style_icons_system_color2.png" style="max-width: 50%"/>
