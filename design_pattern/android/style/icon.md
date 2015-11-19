@@ -89,12 +89,20 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 
 <div align="center">
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7UzdCZ0MtOEpybGM/style_logos_product_anatomy_edges_tinted.png" style="max-width: 50%"/>
-<p style="font-size: 12px">上緣</p>
+<p style="font-size: 12px">上緣，前背景屬於物件的一種，同屬於3D環境，因此有固定高度1dp。<br>
+高：1dp<br>
+透明度：20%<br>
+顏色：白
+</p>
 </div>
 
 <div align="center">
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7RW5GbWN2Z2pNcGc/style_logos_product_anatomy_edges_shaded.png" style="max-width: 50%"/>
-<p style="font-size: 12px">下緣</p>
+<p style="font-size: 12px">下緣，前背景屬於物件的一種，同屬於3D環境，因此有固定高度1dp。<br>
+高：1dp<br>
+透明度：20%<br>
+顏色：參考陰影、暗處著色表
+</p>
 </div>
 
 <div align="center">
@@ -117,6 +125,30 @@ Y偏移: 4dp<br>
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7eWI1WGdhcE9xTEU/style_logos_product_lighting_lighting_45.png" style="max-width: 50%"/>
 <p style="font-size: 12px">光源</p>
 </div>
+
+###陰影、暗處著色表
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7c2QtTjZJcEhQNWc/style_logos_product_lighting_values_cool.png)
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7VnJwcWFWNy1Ed0E/style_logos_product_lighting_values_fresh.png)
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7V0s3TGdGRVlXM0k/style_logos_product_lighting_values_warm.png)
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZVVyVnhNcG9pVkk/style_logos_product_lighting_values_hot.png)
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZGVnX1FaLTlYWVk/style_logos_product_lighting_values_neutral.png)
+
+### 主體設計規則
+透過物理素材和色彩，組合出各種不同的獨特效果。
+
+* 色彩
+<div>任何顏色皆平面化至同一表面，不會擁有邊緣和陰影。</div>
+
+<div align="center">
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aTFQSWlWdGQ4M0E/style_logos_product_patterns_color_do.png" style="max-width: 50%"/>
+<p style="font-size: 12px">光源</p>
+</div>
+
+
 
 ## 系統圖示
 用於產品中的按鈕物件
