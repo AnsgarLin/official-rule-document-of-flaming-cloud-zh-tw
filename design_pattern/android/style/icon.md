@@ -188,3 +188,19 @@ http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7d2dfbW56UkJYRms/style_icons_system_anatomy_optical_complex.png" style="max-width: 50%"/>
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7VkNYYzJBZjMtY3M/style_icons_system_anatomy_optical_small.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">在某些情況，細微調整可以提升清晰度，但只能調整如上述這些其他圖示也會遵守的規則，不可扭曲或傾斜圖示</p>
+
+### 著色表
+系統圖示通常位於工具列、按鈕等不同顏色區塊中，因此單純套用黑或白的顏色，可使得圖標適用於各種不同顏色的色塊。
+
+顏色可分別使用於以下兩種情境：
+* 主題色為亮色系
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7STNoWnkzTjZuMGc/style_icons_system_color1.png" style="max-width: 50%"/>
+
+* 主題色為亮色系
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7STNoWnkzTjZuMGc/style_icons_system_color1.png" style="max-width: 50%"/>
+
+## 繪製
+<img src="https://wcc723.gitbooks.io/google_design_translate/content/images/style/style_icons_system_color2.png" style="max-width: 50%"/>
+> <p style="font-size: 12px">任何圖示的繪製，都必須要貼齊座標，而不是像素本身</p>
