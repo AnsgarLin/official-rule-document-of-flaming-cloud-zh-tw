@@ -19,7 +19,7 @@ This is a normal paragraph:
 [design_pattern/android/style/color.md](#自訂色票)
 
 This is [an example](http://example.com/ "Title") inline link.
-See my [About](/../concept/) page for details.   
+See my [About](/../concept#疊加性/) page for details.   
 [This link](http://example.net/) has no title attribute.
 ## 色票
 Google官方色票的每一色系皆是由主要色調(50 ~ 900)和次要色調(A100 ~ A700)組成。
