@@ -7,7 +7,6 @@
 > [狀態欄和工具列](#狀態欄和工具列)  
 > [強調色](#強調色)  
 > [主題模板](#主題模板)  
-> [系統圖示](/icon#系統圖示)
 
 ## 色票
 Google官方色票的每一色系皆是由主要色調(50 ~ 900)和次要色調(A100 ~ A700)組成。
@@ -46,7 +45,8 @@ Google官方色票的每一色系皆是由主要色調(50 ~ 900)和次要色調(
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3dnF5cTktSjdTajA/style_color_uiapplication_alpha2.png" style="max-width: 50%">
 
 ## 圖示顏色
-此處表示位於工具列、按鈕等不同顏色區塊中的系統圖示，因此單純套用黑或白的顏色，可使得圖標適用於各種不同顏色的色塊。
+此處表示位於工具列、按鈕等不同顏色區塊中的[系統圖示](/icon.html#系統圖示)
+，因此單純套用黑或白的顏色，可使得圖標適用於各種不同顏色的色塊。
 
 顏色可分別使用於以下兩種情境：
 * 主題色為亮色系
