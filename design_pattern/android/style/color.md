@@ -36,7 +36,7 @@ Google官方色票的每一色系皆是由主要色調(50 ~ 900)和次要色調(
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3dnF5cTktSjdTajA/style_color_uiapplication_alpha2.png" style="max-width: 50%">
 
-## 圖標顏色
+## 圖示顏色
 圖標通常位於工具列、按鈕等不同顏色區塊中，因此單純套用黑或白的顏色，可使得圖標適用於各種不同顏色的色塊。
 
 ## 狀態欄和工具列
