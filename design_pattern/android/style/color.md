@@ -1,26 +1,5 @@
 # 顏色
 
-I get 10 times more traffic from [Google][] than from
-[Yahoo][] or [MSN][].
-
-  [google]: http://google.com/        "Google"
-  [yahoo]:  http://search.yahoo.com/  "Yahoo Search"
-  [msn]:    http://search.msn.com/    "MSN Search"
-
-This is a normal paragraph:
-
-    This is a code block.
-
-*   A list item with a blockquote:
-
-    > This is a blockquote
-    > inside a list item.
-
-[design_pattern/android/style/color.md](#自訂色票)
-
-This is [an example](http://example.com/ "Title") inline link.
-See my [About](/../concept/#疊加性) page for details.   
-[This link](http://example.net/) has no title attribute.
 ## 色票
 Google官方色票的每一色系皆是由主要色調(50 ~ 900)和次要色調(A100 ~ A700)組成。
 
