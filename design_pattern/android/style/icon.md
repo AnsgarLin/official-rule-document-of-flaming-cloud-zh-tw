@@ -172,17 +172,17 @@ Y偏移: 4dp<br>
 
 <div align="center">
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZGdQTk9uMlRIRnM/style_logos_product_patterns_overlap_do.png" style="max-width: 50%"/>
-<p style="font-size: 12px">重疊可以創造特殊的剪影，但僅限於重疊的範圍，也不要多於兩個物件</p>
+<p style="font-size: 12px">重疊可以創造特殊的剪影，但僅限於重疊的範圍，同時物件不要多於兩個物件</p>
 </div>
 
 * 手風琴
 
 <div align="center">
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZGdQTk9uMlRIRnM/style_logos_product_patterns_overlap_do.png" style="max-width: 50%"/>
-<p style="font-size: 12px">手風琴可以增加單一物件的維度</p>
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7S2FaUk9sSjVGMWs/style_logos_product_patterns_accordian_do.png" style="max-width: 50%"/>
+<p style="font-size: 12px">手風琴可以增加單一物件的維度，但不要超過兩折</p>
 </div>
 
 ## 系統圖示
-用於產品中的按鈕物件
+用於產品中的按鈕物件，或是圖像化指令、檔案、或是資料夾，也可以表示一個動作像是刪除、列印和儲存。
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7OFZFR1ZOUmFWTEE/style_icons_system_intro.png" style="max-width: 70%"/>
