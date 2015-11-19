@@ -190,7 +190,7 @@ http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_
 > <p style="font-size: 12px">在某些情況，細微調整可以提升清晰度，但只能調整如上述這些其他圖示也會遵守的規則，不可扭曲或傾斜圖示</p>
 
 ### 著色表
-同[顏色](/color/)章節中的[圖示顏色](color.html#圖示顏色)
+同[顏色](./color/)章節中的[圖示顏色](color.html#圖示顏色)
 
 ## 繪製
 <img src="https://wcc723.gitbooks.io/google_design_translate/content/images/style/style_icons_system_color2.png" style="max-width: 50%"/>
