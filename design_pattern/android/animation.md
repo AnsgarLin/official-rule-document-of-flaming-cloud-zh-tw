@@ -3,13 +3,12 @@
 物件有重量，且必須倚靠外力移動，因此在設計一個物件移動的軌跡時，必須要考慮現實的物理狀況。每種不同的移動軌跡會帶來不同的感覺，因此一個動畫的設計除了必須要滿足物理現象外，也要帶給使用者一個舒適而非急躁的感覺。
 
 基於上述原因，**漸進式加速或減速**可使物體移動不會像固定速度般的枯燥，但又比隨意增減速來的有規律。
-<div align="center">
 <video height="auto" width="100%" preload="metadata" loop="" controls>
   <source src="https://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.webm" type="video/webm">
   <source src="https://material-design.storage.googleapis.com/videos/animation-authentic-motion-authenticMotion_massAndWeight_ex1_large_xhdpi.mp4" type="video/mp4">
 </video>
-<p style="font-size:12px"> 漸進式加減速</p>
-</div>
+
+> <p style="font-size:12px"> 漸進式加減速</p>
 
 <div align="center">
 <video height="auto" width="100%" preload="metadata" loop="" controls>
