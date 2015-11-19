@@ -25,8 +25,10 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 ### 主體基準線
 定義各種基本形狀，作為圖示設計的基本外框。以下圖示數值皆為最高解析度時。
 
+* 圓形
+
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7QklSbXpmcjRSTlU/style_logos_product_grid_shapes_circle.png" style="max-width: 50%"/>
-> <p style="font-size: 12px">圓形<br>直徑：176 px</p>
+> <p style="font-size: 12px">直徑：176 px</p>
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ckxmSW90dlY4NGM/style_logos_product_grid_shapes_square.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">正方形<br>寬：152 px<br>高：152 px</p>
