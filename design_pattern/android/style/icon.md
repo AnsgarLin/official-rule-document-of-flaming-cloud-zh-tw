@@ -59,8 +59,8 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7QkU2bEVFYk9odGs/style_logos_product_grid_geometry2.png" style="max-width: 50%"/>
 </div>
 
-### 圖層
-圖示設計可以分成數個圖層，通過相同的圖層設計，可以使各種產品圖示具有相同的象徵語言。熟悉這些圖層可以幫助了解每種產品圖示間的差異和結構，也可以理解如何用正確的圖示進行表達。
+### 剖面圖
+圖示設計可以分成數個部份，通過相同的設計，可以使各種產品圖示具有相同的象徵語言。熟悉各個部份可以幫助了解每種產品圖示間的差異和結構，也可以理解如何用正確的圖示進行表達。
 1. 完成圖
 2. 背景
 3. 前景
@@ -141,14 +141,46 @@ Y偏移: 4dp<br>
 透過物理素材和色彩，組合出各種不同的獨特效果。
 
 * 色彩
-<div>任何顏色皆平面化至同一表面，不會擁有邊緣和陰影。</div>
 
 <div align="center">
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aTFQSWlWdGQ4M0E/style_logos_product_patterns_color_do.png" style="max-width: 50%"/>
-<p style="font-size: 12px">光源</p>
+<p style="font-size: 12px">任何顏色皆平面化至同一表面，不會擁有邊緣和陰影</p>
 </div>
 
+* 圖層
 
+<div align="center">
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7THNBbDd1MUFobHM/style_logos_product_patterns_layer_do.png" style="max-width: 50%"/>
+<p style="font-size: 12px">圖層只有前景和背景</p>
+</div>
+
+* 刻痕
+
+<div align="center">
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7REh5NnRCWUFkYVU/style_logos_product_patterns_score_do.png" style="max-width: 50%"/>
+<p style="font-size: 12px">刻痕能產生層次感，但必須通過中心點且只能有一條</p>
+</div>
+
+* 折疊
+
+<div align="center">
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7NUdvcXNfcW85QnM/style_logos_product_patterns_fold_do.png" style="max-width: 50%"/>
+<p style="font-size: 12px">折疊能提供更多維度的變化，但不要折疊到任何色塊</p>
+</div>
+
+* 重疊
+
+<div align="center">
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZGdQTk9uMlRIRnM/style_logos_product_patterns_overlap_do.png" style="max-width: 50%"/>
+<p style="font-size: 12px">重疊可以創造特殊的剪影，但僅限於重疊的範圍，也不要多於兩個物件</p>
+</div>
+
+* 手風琴
+
+<div align="center">
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZGdQTk9uMlRIRnM/style_logos_product_patterns_overlap_do.png" style="max-width: 50%"/>
+<p style="font-size: 12px">手風琴可以增加單一物件的維度</p>
+</div>
 
 ## 系統圖示
 用於產品中的按鈕物件
