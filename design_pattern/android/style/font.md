@@ -107,7 +107,11 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
 ### 單字及字元間距
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3LUZGWGdtZmFfUU0/style_typography_styles_tracking.png)
 
-### 行長
+### 單行長
+適當的長度可以提高一段文字的可讀性。單行長度如果太短，會打斷使用者閱讀節奏，且造成壓力；太長則會讓使用者難以抓到重點。
+
+以下提供兩種情境下的適當長度：
+
 * 主要內文
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsVDdtU1NfU3Jtdlk/style_typography_styles_linelengths1.png)
