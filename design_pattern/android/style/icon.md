@@ -121,7 +121,7 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 
 ![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZVVyVnhNcG9pVkk/style_logos_product_lighting_values_hot.png)
 
-![](httsp://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZGVnX1FaLTlYWVk/style_logos_product_lighting_values_neutral.png)
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZGVnX1FaLTlYWVk/style_logos_product_lighting_values_neutral.png)
 
 ### 主體設計規則
 透過物理素材和色彩，組合出各種不同的獨特效果。
@@ -175,16 +175,16 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 ### 主體基準線
 定義各種基本形狀，作為圖示設計的基本外框。以下圖示數值皆為最高解析度時。
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bUlaTVBxVkVkYk0/style_icons_system_grid_shapes_circle.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bUlaTVBxVkVkYk0/style_icons_system_grid_shapes_circle.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">圓形<br>直徑：80 px</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7SV9JODh5azZzR3c/style_icons_system_grid_shapes_square.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7SV9JODh5azZzR3c/style_icons_system_grid_shapes_square.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">正方形<br>寬：72 px<br>高：72 px</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7REk3c0tnQm5QV2M/style_icons_system_grid_shapes_vert_rectangle.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7REk3c0tnQm5QV2M/style_icons_system_grid_shapes_vert_rectangle.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">正方形<br>寬：64 px<br>高：80 px</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7cWxzWnotamNZamM/style_icons_system_grid_shapes_hori_rectangle.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7cWxzWnotamNZamM/style_icons_system_grid_shapes_hori_rectangle.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">正方形<br>寬：80 px<br>高：64 px</p>
 
 ### 幾何圖形
@@ -201,29 +201,30 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 5. 筆畫單位
 6. 繪製範圍
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aDZaOWJhTlhrMm8/style_icons_system_anatomy_strokes_terminal.png" style="max-width: 50%"/>
+<img src="
+https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aDZaOWJhTlhrMm8/style_icons_system_anatomy_strokes_terminal.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">筆畫末端為方形</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7alFGeDJYR1RlRDQ/style_icons_system_anatomy_corner_exterior.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7alFGeDJYR1RlRDQ/style_icons_system_anatomy_corner_exterior.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">外轉角為1/4圓<br>直徑：2dp</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7Z0JuRk9LaVhjazA/style_icons_system_anatomy_corner_interior.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7Z0JuRk9LaVhjazA/style_icons_system_anatomy_corner_interior.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">內轉角為直角<br>寬高：大於等於2dp</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7MFU1VmI2WjNMcEE/style_icons_system_anatomy_strokes_curves.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7MFU1VmI2WjNMcEE/style_icons_system_anatomy_strokes_curves.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">筆畫單位<br>寬：2dp</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7d2dfbW56UkJYRms/style_icons_system_anatomy_optical_complex.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7d2dfbW56UkJYRms/style_icons_system_anatomy_optical_complex.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">在某些情況，調整筆畫寬度可以提升清晰度</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7d2dfbW56UkJYRms/style_icons_system_anatomy_optical_complex.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7d2dfbW56UkJYRms/style_icons_system_anatomy_optical_complex.png" style="max-width: 50%"/>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7VkNYYzJBZjMtY3M/style_icons_system_anatomy_optical_small.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7VkNYYzJBZjMtY3M/style_icons_system_anatomy_optical_small.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">在某些情況，細微調整可以提升清晰度，但只能調整如上述這些其他圖示也會遵守的規則，不可扭曲或傾斜圖示</p>
 
 ### 著色表
 同[顏色](color.html)章節中的[圖示顏色](color.html#圖示顏色)
 
 ## 繪製
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7TlMzRTJkZTVsQTg/style_icons_system_best_do6.png" style="max-width: 50%"/>
+<img src="https://wcc723.gitbooks.io/google_design_translate/content/images/style/style_icons_system_color2.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">任何圖示的繪製，都必須要貼齊座標，而不是像素本身</p>
