@@ -22,7 +22,6 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 
     px = 像素比例 * dp
     
-有關像素比例與螢幕解析度的關係，請查看[TBD]()。
 
 <img src="https://wcc723.gitbooks.io/google_design_translate/content/images/style/style_logos_product_grid_unit_1to1.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">1dp : 1px</p>
