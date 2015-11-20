@@ -118,6 +118,7 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
 > <p style="font-size: 12px">理想長度：60字元</p>
 
 * 短句
+<br>
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsMzYxcGowWTE5NW8/style_typography_styles_linelengths2.png)
 > <p style="font-size: 12px">理想長度：30字元</p>
