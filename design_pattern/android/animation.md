@@ -17,8 +17,8 @@
 > <p style="font-size:12px"> 漸進式加減速</p>
 
 <video height="auto" width="100%" preload="metadata" loop="" controls>
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFVk5Lc195M3c4a28/animation-authenticmotion-massandweight-linear.webm" type="video/webm">
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFVk5Lc195M3c4a28/animation-authenticmotion-massandweight-linear.mp4" type="video/mp4">
+  <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFVk5Lc195M3c4a28/animation-authenticmotion-massandweight-linear.webm" type="video/webm">
+  <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFVk5Lc195M3c4a28/animation-authenticmotion-massandweight-linear.mp4" type="video/mp4">
 </video>
 
 > <p style="font-size:12px"> 線性和非對稱加減速</p>
@@ -26,8 +26,8 @@
 物件的**進出場動畫**就屬於一種漸進式加減速，在進場後降速可引起使用者注意；在出場時加速可快速移出使用者視線，降低注意力。
 
 <video height="auto" width="100%" preload="metadata" loop="" controls>
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFS2hrd3dPVVFfdHM/animation-authenticmotion-massandweight-do.webm" type="video/webm">
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFS2hrd3dPVVFfdHM/animation-authenticmotion-massandweight-do.mp4" type="video/mp4">
+  <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFS2hrd3dPVVFfdHM/animation-authenticmotion-massandweight-do.webm" type="video/webm">
+  <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFS2hrd3dPVVFfdHM/animation-authenticmotion-massandweight-do.mp4" type="video/mp4">
 </video>
 
 > <p style="font-size:12px"> 進出場動畫</p>
@@ -69,8 +69,8 @@
 在物件產生或是畫面轉換時，動畫是以使用者碰觸的點為中心點向外擴散，讓使用者可以明確知道碰觸位置，以及提示當前畫面的閱讀方向。
 
 <video height="auto" width="50%" preload="metadata" loop="" controls>
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaDBfZWtha0RwNGM/animation-responsiveinteraction-materialresponse-PointOfOrigin_DO_003.webm" type="video/webm">
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaDBfZWtha0RwNGM/animation-responsiveinteraction-materialresponse-PointOfOrigin_DO_003.mp4" type="video/mp4">
+  <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaDBfZWtha0RwNGM/animation-responsiveinteraction-materialresponse-PointOfOrigin_DO_003.webm" type="video/webm">
+  <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaDBfZWtha0RwNGM/animation-responsiveinteraction-materialresponse-PointOfOrigin_DO_003.mp4" type="video/mp4">
 </video>
 
 > <p style="font-size:12px">碰觸左下方選單，物件由左下方向右上產生，提示碰觸點為左下</p>
@@ -89,8 +89,8 @@
 * 動畫之間的連續性
 
 <video height="auto" width="50%" preload="metadata" loop="" controls>
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNTGRLb2Zud2RUNFE/animation-meaningfultransitions-hierarchicaltiming-4do_large_xhdpi.webm" type="video/webm">
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNTGRLb2Zud2RUNFE/animation-meaningfultransitions-hierarchicaltiming-4do_large_xhdpi.mp4" type="video/mp4">
+  <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNTGRLb2Zud2RUNFE/animation-meaningfultransitions-hierarchicaltiming-4do_large_xhdpi.webm" type="video/webm">
+  <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNTGRLb2Zud2RUNFE/animation-meaningfultransitions-hierarchicaltiming-4do_large_xhdpi.mp4" type="video/mp4">
 </video>
 
 > <p style="font-size:12px">每個物件的動畫是接連著啟動，提醒使用者物件之間的權重，也代表閱讀方向</p>
@@ -98,8 +98,8 @@
 * 動畫效果必須要一致
 
 <video height="auto" width="50%" preload="metadata" loop="" controls>
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNT2dLWHE1NG8tV00/animation-meaningfultransitions-consistentchoreography-do1_large_xhdpi.webm" type="video/webm">
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNT2dLWHE1NG8tV00/animation-meaningfultransitions-consistentchoreography-do1_large_xhdpi.mp4" type="video/mp4">
+  <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNT2dLWHE1NG8tV00/animation-meaningfultransitions-consistentchoreography-do1_large_xhdpi.webm" type="video/webm">
+  <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNT2dLWHE1NG8tV00/animation-meaningfultransitions-consistentchoreography-do1_large_xhdpi.mp4" type="video/mp4">
 </video>
 
 > <p style="font-size:12px">一致的動畫效果，才不至於打亂連續性，讓使用者可以更注意在畫面的流程，而不會使使用者分心，迷失在動畫過程中</p>
@@ -108,11 +108,11 @@
 以動畫來呈現圖標的轉變，可使畫面更加生動活潑。
 
 <video height="auto" width="50%" preload="metadata" loop="" controls>
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFbFRfT196SWRyS2s/animation_delightfuldetails_wellcrafted.webm" type="video/webm">
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFbFRfT196SWRyS2s/animation_delightfuldetails_wellcrafted.mp4" type="video/mp4">
+  <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFbFRfT196SWRyS2s/animation_delightfuldetails_wellcrafted.webm" type="video/webm">
+  <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFbFRfT196SWRyS2s/animation_delightfuldetails_wellcrafted.mp4" type="video/mp4">
 </video>
 
 <video height="auto" width="50%" preload="metadata" loop="" controls>
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B2wX4iIvu8L6ZHZfV1NfRHdCZHM/animation-delightfuldetails-030401_Status_Change_xhdpi_003.webm" type="video/webm">
-  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B2wX4iIvu8L6ZHZfV1NfRHdCZHM/animation-delightfuldetails-030401_Status_Change_xhdpi_003.mp4" type="video/mp4">
+  <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B2wX4iIvu8L6ZHZfV1NfRHdCZHM/animation-delightfuldetails-030401_Status_Change_xhdpi_003.webm" type="video/webm">
+  <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B2wX4iIvu8L6ZHZfV1NfRHdCZHM/animation-delightfuldetails-030401_Status_Change_xhdpi_003.mp4" type="video/mp4">
 </video>
