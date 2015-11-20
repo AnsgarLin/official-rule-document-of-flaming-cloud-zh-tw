@@ -226,5 +226,5 @@ https://material-design.storage.googleapis.com/publish/material_v_4/material_ext
 同[顏色](color.html)章節中的[圖示顏色](color.html#圖示顏色)
 
 ## 繪製
-<img src="https://wcc723.gitbooks.io/google_design_translate/content/images/style/style_icons_system_color2.png" style="max-width: 50%"/>
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7TlMzRTJkZTVsQTg/style_icons_system_best_do6.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">任何圖示的繪製，都必須要貼齊座標，而不是像素本身</p>
