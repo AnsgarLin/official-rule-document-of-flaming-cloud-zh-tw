@@ -34,6 +34,8 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
 
 > <p style="font-size: 12sp">一個基本的字體大小組合為12、14、16、20和34</p>
 
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsV3BnOGFxOWkzSHc/style_typography_styles_04_headline2.png" style="max-width:25%"/>
+> <p style="font-size: 12sp">標題的使用範例</p>
 
 
 ## 文字類型
