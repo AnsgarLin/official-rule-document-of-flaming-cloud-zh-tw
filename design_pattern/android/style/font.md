@@ -5,6 +5,7 @@
 
 ## 字體
 Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)使用：
+
 * Roboto
 
 > [Roboto 字型下載](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B0J8hsRkk91LRjU4U1NSeXdjd1U/RobotoTTF.zip)  
@@ -27,6 +28,11 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
 > <p style="font-size: 12sp">粗斜體</p>
 
 ## 文字風格選用
+過多的文字風格會破壞任何畫面，字體大小必須要在一個有限的範圍內，且使用sp為單位來向上相容於更大的畫面。
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3alhXZ2pPWGk3Zjg/style_typography_styles_scale.png)
+
+> <p style="font-size: 12sp">一個基本的字體大小組合為12、14、16、20和34</p>
 
 ## 文字類型
 依照文字的型態，文字和其可以分為以下三類：
