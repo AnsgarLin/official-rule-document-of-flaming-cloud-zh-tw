@@ -30,6 +30,7 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
 
 ## 文字類型
 依照文字的型態，文字和其可以分為以下三類：
+
 * 英文和類英文語系  
 泛指拉丁、希臘和西里爾語系，適用Roboto和Noto字型。
 * 高字體語系
@@ -47,8 +48,10 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
     
 有關像素比例與螢幕解析度的關係，請查看[TBD]()。
 
-### 英文和類英文語系    
+### 英文和類英文語系   
+
 * 大小
+
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3alhXZ2pPWGk3Zjg/style_typography_styles_scale.png)
 
 > <p style="font-size: 12px">一個基本的字體大小組合為12、14、16、20和34</p>
@@ -56,8 +59,18 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsV3BnOGFxOWkzSHc/style_typography_styles_04_headline2.png" style="max-width:50%"/>
 > <p style="font-size: 12px">更多範例請查看[官方文件](http://www.google.com/design/spec/style/typography.html#typography-styles)
 
+* 行高
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3Q1VaNVBsdFozUTg/style_typography_styles_lineheight1.png)
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3S0hlSFBQRVE0QlU/style_typography_styles_lineheight2.png)
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsSDJtU2ZnVDZhTGM/style_typography_styles_lineheight3.png)
+
 ### 高字體語系
+
 * 大小
+
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3ek5vUE41WjNOSmM/style_typography_style3.png)
 
 > <p style="font-size: 12px">避免使用粗體，會造成文字視覺上過粗。內文到標題部分會比英文語系多1sp</p>
@@ -66,9 +79,14 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
 > <p style="font-size: 12px">更多範例請查看[官方文件](http://www.google.com/design/spec/style/typography.html#typography-styles)
 
 * 行高
+
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3bW9GQUFPTXlTbWc/style_typography_lineheight_tall1.png)
 
 > <p style="font-size: 12px">整體比英文語系多0.1em</p>
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzX05ldDZtZ3VXRGs/style_typography_lineheight_tall2.png)
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzUXJONTc0Y0ZWZ2s/style_typography_lineheight_dense2.png)
 
 ### 密集字體語系  
 * 大小
@@ -81,4 +99,4 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
 
 * 行高
 
-同高字體語系
+同[高字體語系](高字體語系)
