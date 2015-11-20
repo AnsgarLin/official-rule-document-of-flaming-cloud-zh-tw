@@ -7,13 +7,13 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 ## 產品圖示
 為產品標誌，用於商城。
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7YTRHMzFLb3FFOEk/style_logos_product_intro_material_color.png" style="max-width:25%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7YTRHMzFLb3FFOEk/style_logos_product_intro_material_color.png" style="max-width:25%"/>
 
 產品圖示有主要分成圖示主體和外框兩部分，彼此的中心點互相交會。
 
-> [Google 官方產品圖示模板](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0BwigBDH8AFrsQ3Jya3RIMTdHWmM/Product_Icon_StickerSheet.zip)
+> [Google 官方產品圖示模板](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0BwigBDH8AFrsQ3Jya3RIMTdHWmM/Product_Icon_StickerSheet.zip)
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7RGQxNmZlUWdBTWc/style_logos_product_grid_logo_grid.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7RGQxNmZlUWdBTWc/style_logos_product_grid_logo_grid.png" style="max-width: 50%"/>
 
 ### 外框大小
 固定為 **48dp**，在低解析度時，網格與像素比為1比1，而在目前最高解析度時，則為1比4。
@@ -35,12 +35,12 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 
 * 圓形
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7QklSbXpmcjRSTlU/style_logos_product_grid_shapes_circle.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7QklSbXpmcjRSTlU/style_logos_product_grid_shapes_circle.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">直徑：176 px</p>
 
 * 正方形
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ckxmSW90dlY4NGM/style_logos_product_grid_shapes_square.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ckxmSW90dlY4NGM/style_logos_product_grid_shapes_square.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">寬：152 px<br>高：152 px</p>
 
 * 直長方形
@@ -50,7 +50,7 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 
 * 橫長方形
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZDVOaW9oaEpXSHM/style_logos_product_grid_shapes_hori_rectangle.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZDVOaW9oaEpXSHM/style_logos_product_grid_shapes_hori_rectangle.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">寬：176 px<br>高：128 px</p>
 
 ### 幾何圖形
@@ -58,14 +58,14 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 
 <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7czBRWVhQUGRUZFk/style_logos_product_grid_geometry4.png" style="max-width: 50%"/>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7QkU2bEVFYk9odGs/style_logos_product_grid_geometry2.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7QkU2bEVFYk9odGs/style_logos_product_grid_geometry2.png" style="max-width: 50%"/>
 
 ### 解剖圖
 圖示設計可以分成數個部份，通過相同的設計，可以使各種產品圖示具有相同的象徵語言。熟悉各個部份可以幫助了解每種產品圖示間的差異和結構，也可以理解如何用正確的圖示進行表達。
 
 * 鳥瞰圖
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7eDY4dkFETnIwTHM/style_logos_product_anatomy_components.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7eDY4dkFETnIwTHM/style_logos_product_anatomy_components.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">1. 完成圖<br>2. 背景<br>3. 前景<br>4. 色塊<br>5. 陰影</p>
 
 * 側面圖
@@ -75,60 +75,60 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 
 * 背景
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7YkhGUlV5U1pUbFk/style_logos_product_anatomy_material_background.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7YkhGUlV5U1pUbFk/style_logos_product_anatomy_material_background.png" style="max-width: 50%"/>
 
 * 前景
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7TEg1WjhLa0VDRFE/style_logos_product_anatomy_material_foreground.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7TEg1WjhLa0VDRFE/style_logos_product_anatomy_material_foreground.png" style="max-width: 50%"/>
 
 * 上緣  
 前景和背景屬於物件的一種，同屬於3D環境，因此有固定高度
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7UzdCZ0MtOEpybGM/style_logos_product_anatomy_edges_tinted.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7UzdCZ0MtOEpybGM/style_logos_product_anatomy_edges_tinted.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">高：1dp<br>透明度：20%<br>顏色：白
 </p>
 
 * 下緣  
 前景和背景屬於物件的一種，同屬於3D環境，因此有固定高度
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7RW5GbWN2Z2pNcGc/style_logos_product_anatomy_edges_shaded.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7RW5GbWN2Z2pNcGc/style_logos_product_anatomy_edges_shaded.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">高：1dp<br>透明度：20%<br>顏色：參考陰影、暗處著色表
 </p>
 
 * 前景陰影  
 偏重在下方和右方，並且隨著前景形狀變化
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7MEtzZUxkM0tzeGs/style_logos_product_lighting_shadow.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7MEtzZUxkM0tzeGs/style_logos_product_lighting_shadow.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">透明度：20%<br>X偏移: 0dp<br>Y偏移: 4dp<br>模糊距離: 6dp<br>顏色: 根據上緣或下緣
 </p>
 
 * 色塊
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7Uy1Vc2c5TGEtOGs/style_logos_product_anatomy_color_spot.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7Uy1Vc2c5TGEtOGs/style_logos_product_anatomy_color_spot.png" style="max-width: 50%"/>
 
 * 光源
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ejNBS3NuRklaNHc/style_logos_product_lighting_finish.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ejNBS3NuRklaNHc/style_logos_product_lighting_finish.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">類型: 放射<br>角度: 45º<br>色彩: 白<br>中心點位置: 33%<br><br>顏色 1<br>透明度: 10%<br>位置: 0%<br><br>顏色 2<br>透明: 0%<br>位置: 100%
 </p>
 
 ###陰影、暗處著色表
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7c2QtTjZJcEhQNWc/style_logos_product_lighting_values_cool.png)
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7c2QtTjZJcEhQNWc/style_logos_product_lighting_values_cool.png)
 
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7VnJwcWFWNy1Ed0E/style_logos_product_lighting_values_fresh.png)
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7VnJwcWFWNy1Ed0E/style_logos_product_lighting_values_fresh.png)
 
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7V0s3TGdGRVlXM0k/style_logos_product_lighting_values_warm.png)
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7V0s3TGdGRVlXM0k/style_logos_product_lighting_values_warm.png)
 
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZVVyVnhNcG9pVkk/style_logos_product_lighting_values_hot.png)
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZVVyVnhNcG9pVkk/style_logos_product_lighting_values_hot.png)
 
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZGVnX1FaLTlYWVk/style_logos_product_lighting_values_neutral.png)
+![](httsp://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZGVnX1FaLTlYWVk/style_logos_product_lighting_values_neutral.png)
 
 ### 主體設計規則
 透過物理素材和色彩，組合出各種不同的獨特效果。
 
 * 色彩
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aTFQSWlWdGQ4M0E/style_logos_product_patterns_color_do.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aTFQSWlWdGQ4M0E/style_logos_product_patterns_color_do.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">任何顏色皆平面化至同一表面，不會擁有邊緣和陰影</p>
 
 * 圖層
@@ -138,22 +138,22 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 
 * 刻痕
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7REh5NnRCWUFkYVU/style_logos_product_patterns_score_do.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7REh5NnRCWUFkYVU/style_logos_product_patterns_score_do.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">刻痕能產生層次感，但必須通過中心點且只能有一條</p>
 
 * 折疊
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7NUdvcXNfcW85QnM/style_logos_product_patterns_fold_do.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7NUdvcXNfcW85QnM/style_logos_product_patterns_fold_do.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">折疊能提供更多維度的變化，但不要折疊到任何色塊</p>
 
 * 重疊
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZGdQTk9uMlRIRnM/style_logos_product_patterns_overlap_do.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZGdQTk9uMlRIRnM/style_logos_product_patterns_overlap_do.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">重疊可以創造特殊的剪影，但僅限於重疊的範圍，同時物件不要多於兩個物件</p>
 
 * 手風琴
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7S2FaUk9sSjVGMWs/style_logos_product_patterns_accordian_do.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7S2FaUk9sSjVGMWs/style_logos_product_patterns_accordian_do.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">手風琴可以增加單一物件的維度，但不要超過兩折</p>
 
 ## 系統圖示
@@ -161,13 +161,13 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 
 > [Google 官方系統圖示](https://www.google.com/design/icons/)
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7OFZFR1ZOUmFWTEE/style_icons_system_intro.png" style="max-width: 70%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7OFZFR1ZOUmFWTEE/style_icons_system_intro.png" style="max-width: 70%"/>
 
 系統圖示有主要分成和結構與產品圖示相同。
 
-> [Google 官方系統圖示模板](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0BwigBDH8AFrsS291eGVLWUdUaGM/System_Icon_StickerSheet.ai)
+> [Google 官方系統圖示模板](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0BwigBDH8AFrsS291eGVLWUdUaGM/System_Icon_StickerSheet.ai)
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7V1BlX2wxZ3UxRjA/style_icons_system_grid_icongrid_grid.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7V1BlX2wxZ3UxRjA/style_icons_system_grid_icongrid_grid.png" style="max-width: 50%"/>
 
 ### 外框大小
 固定為 **24dp**，各解析度下的網格與像素比和產品圖示相同。
@@ -175,16 +175,16 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 ### 主體基準線
 定義各種基本形狀，作為圖示設計的基本外框。以下圖示數值皆為最高解析度時。
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bUlaTVBxVkVkYk0/style_icons_system_grid_shapes_circle.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bUlaTVBxVkVkYk0/style_icons_system_grid_shapes_circle.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">圓形<br>直徑：80 px</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7SV9JODh5azZzR3c/style_icons_system_grid_shapes_square.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7SV9JODh5azZzR3c/style_icons_system_grid_shapes_square.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">正方形<br>寬：72 px<br>高：72 px</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7REk3c0tnQm5QV2M/style_icons_system_grid_shapes_vert_rectangle.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7REk3c0tnQm5QV2M/style_icons_system_grid_shapes_vert_rectangle.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">正方形<br>寬：64 px<br>高：80 px</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7cWxzWnotamNZamM/style_icons_system_grid_shapes_hori_rectangle.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7cWxzWnotamNZamM/style_icons_system_grid_shapes_hori_rectangle.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">正方形<br>寬：80 px<br>高：64 px</p>
 
 ### 幾何圖形
@@ -202,23 +202,24 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 6. 繪製範圍
 
 <img src="
-http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aDZaOWJhTlhrMm8/style_icons_system_anatomy_strokes_terminal.png" style="max-width: 50%"/>
+https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aDZaOWJhTlhrMm8/style_icons_system_anatomy_strokes_terminal.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">筆畫末端為方形</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7alFGeDJYR1RlRDQ/style_icons_system_anatomy_corner_exterior.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7alFGeDJYR1RlRDQ/style_icons_system_anatomy_corner_exterior.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">外轉角為1/4圓<br>直徑：2dp</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7Z0JuRk9LaVhjazA/style_icons_system_anatomy_corner_interior.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7Z0JuRk9LaVhjazA/style_icons_system_anatomy_corner_interior.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">內轉角為直角<br>寬高：大於等於2dp</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7MFU1VmI2WjNMcEE/style_icons_system_anatomy_strokes_curves.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7MFU1VmI2WjNMcEE/style_icons_system_anatomy_strokes_curves.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">筆畫單位<br>寬：2dp</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7d2dfbW56UkJYRms/style_icons_system_anatomy_optical_complex.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7d2dfbW56UkJYRms/style_icons_system_anatomy_optical_complex.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">在某些情況，調整筆畫寬度可以提升清晰度</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7d2dfbW56UkJYRms/style_icons_system_anatomy_optical_complex.png" style="max-width: 50%"/>
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7VkNYYzJBZjMtY3M/style_icons_system_anatomy_optical_small.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7d2dfbW56UkJYRms/style_icons_system_anatomy_optical_complex.png" style="max-width: 50%"/>
+
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7VkNYYzJBZjMtY3M/style_icons_system_anatomy_optical_small.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">在某些情況，細微調整可以提升清晰度，但只能調整如上述這些其他圖示也會遵守的規則，不可扭曲或傾斜圖示</p>
 
 ### 著色表
