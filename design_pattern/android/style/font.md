@@ -38,6 +38,8 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
 * 密集字體語系
 泛指中國、日本和韓國，一樣需要較高的行高來容納較大的字體，適用Noto。
 
+各語言和其所屬分類的對照表，請查看[官方文件](http://www.google.com/design/spec/style/typography.html#typography-language-categories-reference)。
+
 ## 文字風格選用
 過多的文字風格會破壞任何畫面，以下將以三種文字型態分別描述。
 
@@ -100,3 +102,18 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
 * 行高
 
 同[高字體語系](高字體語系)
+
+## 其他通用規範
+### 單字及字元間距
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3LUZGWGdtZmFfUU0/style_typography_styles_tracking.png)
+
+### 行長
+* 主要內文
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsVDdtU1NfU3Jtdlk/style_typography_styles_linelengths1.png)
+> <p style="font-size: 12px">理想長度：60字元</p>
+
+* 短句
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsMzYxcGowWTE5NW8/style_typography_styles_linelengths2.png)
+> <p style="font-size: 12px">理想長度：30字元</p>
