@@ -8,24 +8,24 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
 
 * Roboto
 
-> [Roboto 字型下載](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B0J8hsRkk91LRjU4U1NSeXdjd1U/RobotoTTF.zip)  
-> [Roboto 文件下載](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B0J8hsRkk91LRjU4U1NSeXdjd1U/RobotoTTF.zip)
+> [Roboto 字型下載](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B0J8hsRkk91LRjU4U1NSeXdjd1U/RobotoTTF.zip)  
+> [Roboto 文件下載](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B0J8hsRkk91LRjU4U1NSeXdjd1U/RobotoTTF.zip)
 
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7SW9CUzR4MnRpOTg/style_typography_roboto1.png)
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7SW9CUzR4MnRpOTg/style_typography_roboto1.png)
 
 > <p style="font-size: 12px">使用範例</p>
 
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZHlGSHpsMjU5YmM/style_typography_weights1.png)
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZHlGSHpsMjU5YmM/style_typography_weights1.png)
 > <p style="font-size: 12px">粗斜體</p>
 
 * Noto
 
-> [Noto 字型下載](http://www.google.com/get/noto)
+> [Noto 字型下載](https://www.google.com/get/noto)
 
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzcWkwSW11bkstZEU/style_typography_noto1.png)
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzcWkwSW11bkstZEU/style_typography_noto1.png)
 > <p style="font-size: 12px">使用範例</p>
 
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzdFA4NUh2TG1rT1E/style_typography_weight1.png)
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzdFA4NUh2TG1rT1E/style_typography_weight1.png)
 > <p style="font-size: 12px">粗斜體</p>
 
 ## 文字類型
@@ -56,27 +56,27 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
 
 > <p style="font-size: 12px">一個基本的字體大小組合為12、14、16、20和34</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsV3BnOGFxOWkzSHc/style_typography_styles_04_headline2.png" style="max-width:50%"/>
-> <p style="font-size: 12px">更多範例請查看[官方文件](http://www.google.com/design/spec/style/typography.html#typography-styles)
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsV3BnOGFxOWkzSHc/style_typography_styles_04_headline2.png" style="max-width:50%"/>
+> <p style="font-size: 12px">更多範例請查看[官方文件](https://www.google.com/design/spec/style/typography.html#typography-styles)
 
 * 行高
 
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3Q1VaNVBsdFozUTg/style_typography_styles_lineheight1.png)
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3Q1VaNVBsdFozUTg/style_typography_styles_lineheight1.png)
 
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3S0hlSFBQRVE0QlU/style_typography_styles_lineheight2.png)
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3S0hlSFBQRVE0QlU/style_typography_styles_lineheight2.png)
 
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsSDJtU2ZnVDZhTGM/style_typography_styles_lineheight3.png)
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsSDJtU2ZnVDZhTGM/style_typography_styles_lineheight3.png)
 
 ### 高字體語系
 
 * 大小
 
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3ek5vUE41WjNOSmM/style_typography_style3.png)
+![](https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3ek5vUE41WjNOSmM/style_typography_style3.png)
 
 > <p style="font-size: 12px">避免使用粗體，會造成文字視覺上過粗。內文到標題部分會比英文語系多1sp</p>
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsZ3ktUkF0MTBzTm8/style_typography_example_thai2.png" style="max-width:50%"/>
-> <p style="font-size: 12px">更多範例請查看[官方文件](http://www.google.com/design/spec/style/typography.html#typography-styles)
+> <p style="font-size: 12px">更多範例請查看[官方文件](https://www.google.com/design/spec/style/typography.html#typography-styles)
 
 * 行高
 
@@ -94,8 +94,8 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
 
 > <p style="font-size: 12px">內文到標題部分會比英文語系多1sp</p>
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsSlBlSVdGTUgtYlU/style_typography_example_japanese2.png" style="max-width:50%"/>
-> <p style="font-size: 12px">更多範例請查看[官方文件](http://www.google.com/design/spec/style/typography.html#typography-styles)
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsSlBlSVdGTUgtYlU/style_typography_example_japanese2.png" style="max-width:50%"/>
+> <p style="font-size: 12px">更多範例請查看[官方文件](https://www.google.com/design/spec/style/typography.html#typography-styles)
 
 * 行高
 
