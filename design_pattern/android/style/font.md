@@ -12,33 +12,53 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
 > [Roboto 文件下載](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B0J8hsRkk91LRjU4U1NSeXdjd1U/RobotoTTF.zip)
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7SW9CUzR4MnRpOTg/style_typography_roboto1.png)
-> <p style="font-size: 12sp">使用範例</p>
+
+> <p style="font-size: 12px">使用範例</p>
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZHlGSHpsMjU5YmM/style_typography_weights1.png)
-> <p style="font-size: 12sp">粗斜體</p>
+> <p style="font-size: 12px">粗斜體</p>
 
 * Noto
 
 > [Noto 字型下載](http://www.google.com/get/noto)
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzcWkwSW11bkstZEU/style_typography_noto1.png)
-> <p style="font-size: 12sp">使用範例</p>
+> <p style="font-size: 12px">使用範例</p>
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzdFA4NUh2TG1rT1E/style_typography_weight1.png)
-> <p style="font-size: 12sp">粗斜體</p>
-
-## 文字風格選用
-過多的文字風格會破壞任何畫面，字體大小必須要在一個有限的範圍內，且使用sp為單位來向上相容於更大的畫面。
-
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3alhXZ2pPWGk3Zjg/style_typography_styles_scale.png)
-
-> <p style="font-size: 12sp">一個基本的字體大小組合為12、14、16、20和34</p>
-
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsV3BnOGFxOWkzSHc/style_typography_styles_04_headline2.png" style="max-width:25%"/>
-> <p style="font-size: 12sp">標題的使用範例</p>
-
+> <p style="font-size: 12px">粗斜體</p>
 
 ## 文字類型
 依照文字的型態，文字和其可以分為以下三類：
-* 英文和類英文
-* 高
+* 英文和類英文語系  
+泛指拉丁、希臘和西里爾語系，適用Roboto和Noto字型。
+* 高字體語系
+泛指南亞和中東語系，此類文字需要較高的行高來容納較大的字體，適用Noto字型。
+* 密集字體語系
+泛指中國、日本和韓國，一樣需要較高的行高來容納較大的字體，適用Noto。
+
+## 文字風格選用
+過多的文字風格會破壞任何畫面，以下將以三種文字型態分別描述。
+
+### 大小
+在Google官方的文件中，字體單位為sp，其在低解析度時sp比px為1：1，在最高解析度時為1：4。
+```
+```
+
+### 英文和類英文語系    
+* 大小
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3alhXZ2pPWGk3Zjg/style_typography_styles_scale.png)
+
+> <p style="font-size: 12px">一個基本的字體大小組合為12、14、16、20和34</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsV3BnOGFxOWkzSHc/style_typography_styles_04_headline2.png" style="max-width:50%"/>
+> <p style="font-size: 12px">標題的使用範例，更多範例請查看[官方文件](http://www.google.com/design/spec/style/typography.html#typography-styles)
+
+### 高字體語系
+* 大小
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3N3d4REJ0enZqd2M/style_typography_style1.png)
+
+> <p style="font-size: 12px">內文到標題部分會比英文語系多1sp</p>
+
+### 密集字體語系  
+* 大小
