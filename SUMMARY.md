@@ -10,7 +10,7 @@
            * [顏色](design_pattern/android/style/color.md)
            * [圖示](design_pattern/android/style/icon.md)
            * [文字](design_pattern/android/style/font.md)
-       * 佈局
+       * [佈局](design_pattern/android/layout/README.md)
            * [原則](design_pattern/android/layout/principle.md)
            * [單位](design_pattern/android/layout/unit.md)
 
