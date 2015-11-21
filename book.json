@@ -1,5 +1,5 @@
 {
-    "plugins":["github", "codepen", "infinitescroll", "expandable-chapters"],
+    "plugins":["github", "codepen", "infinitescroll", "expandable-chapters", "book-summary-scroll-position-saver"],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/AnsgarLin/official-rule-document-of-flaming-cloud-zh-tw"
