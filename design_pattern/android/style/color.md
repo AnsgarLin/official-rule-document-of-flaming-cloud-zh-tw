@@ -57,9 +57,9 @@ Google官方色票的每一色系皆是由主要色調(50 ~ 900)和次要色調(
 
 <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7STNoWnkzTjZuMGc/style_icons_system_color1.png" style="max-width: 50%"/>
 
-* 主題色為亮色系
+* 主題色為暗色系
 
-<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7STNoWnkzTjZuMGc/style_icons_system_color1.png" style="max-width: 50%"/>
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7SWpvOVRKOWdHYTQ/style_icons_system_color2.png" style="max-width: 50%"/>
 
 ## 狀態欄和工具列
 大型色塊如工具列底色應為主題色；狀態欄則應為同一色系且色調700。
