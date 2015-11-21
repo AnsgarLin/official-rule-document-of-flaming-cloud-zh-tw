@@ -45,7 +45,7 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 
 * 直長方形
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7c1YteERsbFAtd2c/style_logos_product_grid_shapes_vert_rectangle.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7c1YteERsbFAtd2c/style_logos_product_grid_shapes_vert_rectangle.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">寬：128 px<br>高：176 px</p>
 
 * 橫長方形
@@ -133,7 +133,7 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 
 * 圖層
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7THNBbDd1MUFobHM/style_logos_product_patterns_layer_do.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7THNBbDd1MUFobHM/style_logos_product_patterns_layer_do.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">圖層只有前景和背景</p>
 
 * 刻痕
@@ -190,7 +190,7 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 ### 幾何圖形
 與產品圖示相同，主要元素為幾何圖形。
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7em9MVTRJRlQ2Yjg/style_icons_system_grid_geometry1.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7em9MVTRJRlQ2Yjg/style_icons_system_grid_geometry1.png" style="max-width: 50%"/>
 
 ### 解剖圖
 系統圖示不具有圖層，但其轉角、筆畫和空白皆有固定的規則。
@@ -201,8 +201,7 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 5. 筆畫單位
 6. 繪製範圍
 
-<img src="
-https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aDZaOWJhTlhrMm8/style_icons_system_anatomy_strokes_terminal.png" style="max-width: 50%"/>
+<img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aDZaOWJhTlhrMm8/style_icons_system_anatomy_strokes_terminal.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">筆畫末端為方形</p>
 
 <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7alFGeDJYR1RlRDQ/style_icons_system_anatomy_corner_exterior.png" style="max-width: 50%"/>
