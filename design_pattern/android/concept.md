@@ -6,9 +6,7 @@
 > [穿透性](#穿透性)  
 > [最低高度](#最低高度)  
 > [形變](#形變)  
-> [位移](#位移)  
-> <a class="gweb-smoothscroll-control qp-ui" data-qp-ui="{ 'SmoothScroll': {} }" href="#位移" data-qp-ui-data-id="qp:g">Movement of material
-                </a>
+> [位移](#位移)
 
 ## 3D
 每個物件都是處於一個3D的空間的物件，而空間中代表Z座標的方向軸是朝使用者延伸。每個物件皆用X和Y座標代表長寬，Z代表距離基底的高度，並且都有著固定**1dp**的厚度。
