@@ -48,7 +48,7 @@ style="max-width:50%"/>
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3b1BpT0dRd0tFaUE/components_bottomsheets_modal_do.png"
 style="max-width:50%"/>
-> <p style="font-size: 12px">在深層連結的起點，不可退回上一層</p>
+> <p style="font-size: 12px">在深層連結的起點，不可退回上一層，只可關閉</p>
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3UTB0bG8tYWxVRG8/components_bottomsheets_modal_dont.png"
 style="max-width:50%"/>
@@ -56,4 +56,19 @@ style="max-width:50%"/>
 
 如有必須要退至上一層頁面，則再開啟一起始點是上一層的深層連結。
 
-## 操作方式
+### 操作方式
+模組式開啟後可用以下三種方式關閉：
+* 向下拖移  
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3a3Z2UGZJMkRWamM/components_bottomsheets_behavior1.png"
+style="max-width:50%"/>
+
+* 點擊列表外的範圍  
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3cGt6TlA0ZzNLdDg/components_bottomsheets_behavior2.png"
+style="max-width:50%"/>
+
+* 點擊關閉按鍵  
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3cTdiQWp2TkI0NEE/components_bottomsheets_behavior3.png"
+style="max-width:50%"/>
