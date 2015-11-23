@@ -13,7 +13,8 @@ Google官方對於物件的擺放有制定一套規範，並且依照平台又�
 > <p style="font-size: 12px">手機版各區塊佈局總覽</p>
 
 ### 系統列（System bar）
-位於畫面最上方，用於顯示提示、時間和電力等有關系統的目前狀況，如下圖：
+位於畫面最上方，用於顯示提示、時間和電力等有關系統的目前狀況。
+
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsLUFLM2xkRElVM2s/layout_structure_system_status1.png" style="max-width:50%"/>
 > <p style="font-size: 12px">高：24dp</p>
 
@@ -26,7 +27,8 @@ Google官方對於物件的擺放有制定一套規範，並且依照平台又�
 > <p style="font-size: 12px">顏色：白<br>透明度：70%</p>
 
 ### 導覽列（Android navigation bar）
-可能為實體按鍵，或為虛擬按鍵，並固定於畫面下方，含有退出、回到桌面和應用概觀，如下圖：
+可能為實體按鍵，或為虛擬按鍵，並固定於畫面下方，含有退出、回到桌面和應用概觀。
+
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7RWpaeTZqTmlYOHc/layout_structure_system_android1.png" style="max-width:50%"/>
 > <p style="font-size: 12px">高：48dp（虛擬按鍵）</p>
 
@@ -39,7 +41,7 @@ Google官方對於物件的擺放有制定一套規範，並且依照平台又�
 > <p style="font-size: 12px">透明度：100%</p>
 
 ### 工具列（Toolbar）
-工具列可以泛指任何在畫面或是物件上方，擺放按鈕的區塊。在這只討論屬於應用主程式的工具列，也可以稱為應用列，如下圖：
+工具列可以泛指任何在畫面或是物件上方，擺放按鈕的區塊。在這只討論屬於應用主程式的工具列，也可以稱為應用列。
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7RTFrbmpoWjRrY00/layout_structure_appbar_structure1.png)
 > <p style="font-size: 12px">左側：Nav icon、Title 和 Filter icon<br>右側：Action icons、Menuicon<br>各部分在應用欄的擺放位置是固定的。
