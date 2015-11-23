@@ -65,8 +65,7 @@ Google官方對於物件的擺放有制定一套規範，並且依照平台又�
 * 預設  
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsLUFJUnFlRHVhUVU/layout_structure_appbar_metrics1.png" style="max-width:50%"/>
-> <p style="font-size: 12px>高：56dp（直）、48dp（橫）<br>
-左右間距：16dp<br>圖示上下間距：16dp<br>標題左間距：72dp<br>標題下間距：20dp</p>
+> <p style="font-size: 12px">高：56dp（直）、48dp（橫）<br>左右間距：16dp<br>圖示上下間距：16dp<br>標題左間距：72dp<br>標題下間距：20dp</p>
 
 * 延伸  
 
