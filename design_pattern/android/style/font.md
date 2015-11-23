@@ -100,7 +100,10 @@ Google官方有建議兩種字型來搭配不同的[文字類型](#文字類型)
 同[高字體語系](高字體語系)
 
 ## 其他通用規範
-### 單字及字元間距
+### 行距
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsNzAtNkU0RW1vSVE/layout_metrics_baseline5.png)
+
+### 單字或字元間距
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3LUZGWGdtZmFfUU0/style_typography_styles_tracking.png)
 
 ### 單行長
