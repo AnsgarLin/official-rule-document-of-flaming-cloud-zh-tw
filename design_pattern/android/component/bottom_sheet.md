@@ -60,6 +60,13 @@
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3cTdiQWp2TkI0NEE/components_bottomsheets_behavior3.png" style="max-width:50%"/>
 
 ### 畫面規範
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B7WCemMG6e0VTGwzWTdzNGdyZXM/components_bottomsheets_specs4.png" style="max-width:50%"/>
+> <p style="font-size: 12px">標題<br> 字型字體：Roboto Regular 16sp<br>顏色：黑 <br>透明度：54%</p>
+<p style="font-size: 12px">灰色覆蓋<br>字型字體：Roboto Regular 16sp<br>顏色：黑 <br>透明度：87%</p>
+<p style="font-size: 12px">背景<br>顏色：白</p>
+<p style="font-size: 12px">灰色覆蓋<br>顏色：黑 <br>透明度：20%</p>
+
 模組式在開啟時，預設是依照內容數量決定高度，最高到達高寬比為16:9。
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3VVJVdF9wRG5Iem8/components_bottomsheets_specs9.png" style="max-width:50%"/>
