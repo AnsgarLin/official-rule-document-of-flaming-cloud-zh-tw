@@ -78,3 +78,20 @@ Google官方對於物件的擺放有制定一套規範，並且依照平台又�
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsTW1zb2x5WWg5cDA/layout_structure_appbar_metrics5.png" style="max-width:50%"/>
 > <p style="font-size: 12px">高：56dp（直）、48dp（橫）<br>主要輸入欄位：80dp（直）、72dp（橫）<br>輸入欄位兼具：8dp（直）、0dp（橫）<br>次要輸入欄位：72dp（直）、64dp（橫）<br>次要輸入欄位下空白：16dp（直）、8dp（橫）</p>
+
+### 內文區塊（Content area）
+各個區塊的高度必須要和螢幕寬達成一定比例，官方建議的比例表如下圖：
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ZjBCVzdPOENpT28/layout_metrics_ratiokeylines1.png" style="max-width:50%"/>
+> <p style="font-size: 12px">如寬為 360dp，則3:2對應的高為 240dp</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsS1RKNFQtdy1sYkU/layout_metrics_ratiokeylines2.png" style="max-width:50%"/>
+> <p style="font-size: 12px">套用實例</p>
+
+## 觸控單元
+為了平衡圖示的清晰度和實用性，觸控應該至少48dp見方。
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7eEVhSW1nVjBrZnM/layout_metrics_touchtarget1.png" style="max-width:50%"/>
+> <p style="font-size: 12px">即使圖示大小不同，其觸控範圍相同</p>
+
+
