@@ -14,5 +14,5 @@
            * [原則](design_pattern/android/layout/principle.md)
            * [單位](design_pattern/android/layout/unit.md)
            * [結構](design_pattern/android/layout/structure.md)
-       * 物件
+       * [物件](design_pattern/android/component/README.md)
 
