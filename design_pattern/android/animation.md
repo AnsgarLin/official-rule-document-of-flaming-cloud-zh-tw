@@ -21,7 +21,7 @@
   <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFVk5Lc195M3c4a28/animation-authenticmotion-massandweight-linear.mp4" type="video/mp4">
 </video>
 
-> <p style="font-size:12px"> 線性和非對稱加減速</p>
+> <p style="font-size:12px">線性和非對稱加減速</p>
 
 物件的**進出場動畫**就屬於一種漸進式加減速，在進場後降速可引起使用者注意；在出場時加速可快速移出使用者視線，降低注意力。
 
@@ -30,7 +30,7 @@
   <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFS2hrd3dPVVFfdHM/animation-authenticmotion-massandweight-do.mp4" type="video/mp4">
 </video>
 
-> <p style="font-size:12px"> 進出場動畫</p>
+> <p style="font-size:12px">進出場動畫</p>
 
 基於物理原則，不同重量的物件其受物理現象影響的程度也不同，所以移動軌跡於不同物件也不一定相同。舉例來說，較重的物件其減速的軌跡會比輕的物件長。
 
