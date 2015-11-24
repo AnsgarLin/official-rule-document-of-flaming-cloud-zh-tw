@@ -5,6 +5,7 @@
 * [設計法則](design_pattern/README.md)
    * [Android](design_pattern/android/README.md)
        * [概念](design_pattern/android/concept.md)
+       * [陰影](design_pattern/android/shadow.md)
        * [動畫](design_pattern/android/animation.md)
        * [風格](design_pattern/android/style/README.md)
            * [顏色](design_pattern/android/style/color.md)
@@ -18,5 +19,4 @@
            * [下表](design_pattern/android/component/bottom_sheet.md)
            * [按鈕](design_pattern/android/component/button.md)
            * [卡片](design_pattern/android/component/card.md)
-       * [陰影](design_pattern/android/shadow.md)
 
