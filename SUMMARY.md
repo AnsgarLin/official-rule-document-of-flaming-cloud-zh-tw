@@ -17,5 +17,5 @@
        * [物件](design_pattern/android/component/README.md)
            * [下表](design_pattern/android/component/bottom_sheet.md)
            * [按鈕](design_pattern/android/component/button.md)
-           * 卡片
+           * [卡片](design_pattern/android/component/card.md)
 
