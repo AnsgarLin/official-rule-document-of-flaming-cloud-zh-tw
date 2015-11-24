@@ -16,7 +16,7 @@
 
 > <p style="font-size:12px"> 漸進式加減速</p>
 
-<video height="auto" width="50%" preload="metadata" loop="" controls>
+<video height="auto" width="100%" preload="metadata" loop="" controls>
   <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFVk5Lc195M3c4a28/animation-authenticmotion-massandweight-linear.webm" type="video/webm">
   <source src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFVk5Lc195M3c4a28/animation-authenticmotion-massandweight-linear.mp4" type="video/mp4">
 </video>
