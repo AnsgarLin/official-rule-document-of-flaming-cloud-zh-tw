@@ -13,13 +13,7 @@
 任何一個畫面應盡量以一種類型為主，除非有非用不可的原因
 
 ## 平面化按鈕
-平面化按鈕為權重最低的按鈕，具有以下兩個特性：
-* 文字  
-全部字母皆為大寫，且文字顏色不同於其他內文以利辨識
-* 特效  
-在觸碰、按壓等互動時會進行填色
-
-通常使用在三種地方：
+平面化按鈕為權重最低的按鈕，通常使用在三種地方：
 
 * 對話框  
 
@@ -37,12 +31,22 @@
 > <p style="font-size: 12px">詳細請查看[卡片]()
 
 ### 狀態
+依照情境可分以下兩種：
+
+* 容器底色為亮色系  
+
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7SnA4Umw3S0pfNWs/components_buttons_main13.png" style="max-width:50%"/>
-> <p style="font-size: 12px">碰觸<br>
-顏色：#999999<br>透明度：20%<br>按壓<br>顏色：#999999<br>透明度：40%<br>停用<br>顏色：黑<br>透明度：26%
+> <p style="font-size:  12px">碰觸<br>按鈕底色：#999999<br>透明度：20%</p><p style="font-size: 12px">按壓<br>按鈕底色：#999999<br>透明度：40%</p><p style="font-size: 12px">停用<br>文字顏色：黑<br>透明度：26%
+</p>
+
+* 容器底色為暗色系  
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bEFqalRSeUJkbEU/components_buttons_main14.png" style="max-width:50%"/>
+> <p style="font-size:  12px">碰觸<br>按鈕底色：#CCCCCC<br>透明度：15%</p><p style="font-size: 12px">按壓<br>按鈕底色：#CCCCCC<br>透明度：25%</p><p style="font-size: 12px">停用<br>文字顏色：白<br>透明度：30%
 </p>
 
 ### 設計規範
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsU1A0aDJMMGhQRjQ/components_buttons_keyline1.png" style="max-width:50%"/>
-> <p style="font-size: 12px">按鈕觸控範圍高：48 dp<br>按鈕高：36 dp<br>按鈕寬：至少 64 dp<br>左右內間距：8 dp<br>左右外間距：8 dp
+> <p style="font-size: 12px">文字：全部大寫<br>
+文字顏色：主題色，或與內容文字不同的顏色<br>按鈕觸控範圍高：48 dp<br>按鈕高：36 dp<br>按鈕寬：至少 88 dp（一般），64 dp （對話框）<br>左右內間距：8 dp<br>左右外間距：8 dp<br>底色：同容器底色
 </p>
