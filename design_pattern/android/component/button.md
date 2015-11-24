@@ -1,6 +1,10 @@
 # 按鈕
 
-按鈕有分三種類型，依照權重排列如下圖：
+按鈕有分以下三種類型：
+> [平面化按鈕](#平面化按鈕)    
+
+依照權重排列如下圖：
+
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7RHFUU2dFdmMtcm8/components_buttons_usage_main.png)
 > <p style="font-size: 12px">權重由上至下排序，越上層權重越高</p>
 
@@ -11,6 +15,41 @@
 依照畫面的圖層數量，決定是否需要將按鈕拉升一層，使其容易辨識
 * 限制  
 任何一個畫面應盡量以一種類型為主，除非有非用不可的原因
+
+## 抬升式按鈕
+抬升式按鈕為權重次高的按鈕，通常使用在畫面之中：
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsMF8xdDNDNUc0Zk0/components_buttons_main7.png" style="max-width:50%"/>
+> <p style="font-size: 12px">抬升效果可比平面化按鈕更凸出於畫面之中
+
+### 狀態
+依照情境可分以下兩種：
+
+* 容器底色為亮色系  
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7WlduMk1kbTRzQWc/components_buttons_main15.png" style="max-width:50%"/>
+> <p style="font-size:  12px">停用<br>文字顏色：黑<br>透明度：26%</p><p style="font-size:  12px">按鈕底色：黑<br>透明度：12%
+</p>
+
+* 容器底色為暗色系  
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7UTh2dExpSlRVWVU/components_buttons_main16.png" style="max-width:50%"/>
+> <p style="font-size:  12px">碰觸<br>按鈕底色：600</p><p style="font-size: 12px">按壓<br>按鈕底色：700</p><p style="font-size: 12px">停用<br>文字顏色：白<br>透明度：30%
+</p><p style="font-size: 12px">按鈕底色：白<br>透明度：12%
+</p>
+
+<video height="auto" width="50%" preload="metadata" loop="" controls>
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFRmZDbzdkSEp0ZEk/components-buttons-raisedbuttons.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFRmZDbzdkSEp0ZEk/components-buttons-raisedbuttons.mp4" type="video/mp4">
+</video>
+
+> <p style="font-size:  12px">運用實例</p>
+
+### 設計規範
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsU1A0aDJMMGhQRjQ/components_buttons_keyline1.png" style="max-width:50%"/>
+> <p style="font-size: 12px">文字：全部大寫<br>
+文字顏色：白<br>按鈕底色：500<br>按鈕觸控範圍高：48 dp<br>按鈕高：36 dp<br>按鈕寬：至少 88 dp<br>左右內間距：8 dp<br>左右外間距：8 dp
+</p>
 
 ## 平面化按鈕
 平面化按鈕為權重最低的按鈕，通常使用在三種地方：
@@ -54,6 +93,5 @@
 
 ### 設計規範
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsU1A0aDJMMGhQRjQ/components_buttons_keyline1.png" style="max-width:50%"/>
-> <p style="font-size: 12px">文字：全部大寫<br>
-文字顏色：主題色，或與內容文字不同的顏色<br>按鈕觸控範圍高：48 dp<br>按鈕高：36 dp<br>按鈕寬：至少 88 dp（一般），64 dp （對話框）<br>左右內間距：8 dp<br>左右外間距：8 dp<br>底色：同容器底色
-</p>
+> <p style="font-size: 12px">與抬升式按鈕大致相同，除了以下項目：<br>
+文字顏色：主題色，或與內容文字不同的顏色<br>按鈕底色：同容器底色<br>按鈕寬：至少 88 dp（一般），64 dp （對話框）</p>
