@@ -45,7 +45,7 @@
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsMGF1M0lwX2NEOHc/components-buttons-fab-behavior_05_xhdpi_009.mp4" type="video/mp4">
 </video>
 
-> <p style="font-size:  12px">按鈕應該獨立於畫面的轉場動畫外</p>
+> <br><p style="font-size:  12px">按鈕應該獨立於畫面的轉場動畫外</p>
 
 * 選單
 
