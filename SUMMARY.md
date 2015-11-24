@@ -18,5 +18,5 @@
            * [下表](design_pattern/android/component/bottom_sheet.md)
            * [按鈕](design_pattern/android/component/button.md)
            * [卡片](design_pattern/android/component/card.md)
-       * 陰影
+       * [陰影](design_pattern/android/shadow.md)
 
