@@ -45,6 +45,11 @@
 > <p style="font-size:  12px">碰觸<br>按鈕底色：#CCCCCC<br>透明度：15%</p><p style="font-size: 12px">按壓<br>按鈕底色：#CCCCCC<br>透明度：25%</p><p style="font-size: 12px">停用<br>文字顏色：白<br>透明度：30%
 </p>
 
+<video height="auto" width="100%" preload="metadata" loop="" controls>
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFSTNhRndpWXBwRDA/components-buttons-flatbuttons.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3T7oTWa3HiFSTNhRndpWXBwRDA/components-buttons-flatbuttons.mp4" type="video/mp4">
+</video>
+
 ### 設計規範
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsU1A0aDJMMGhQRjQ/components_buttons_keyline1.png" style="max-width:50%"/>
 > <p style="font-size: 12px">文字：全部大寫<br>
