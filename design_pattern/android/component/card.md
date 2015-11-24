@@ -92,7 +92,12 @@
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3Q3BSMEZNOVNOWU0/components_cards_behavior7.png)
 
+## 狀態
+
 ## 設計規範
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzSG9CdkJzMEJCODQ/components_cards6.png" style="max-width:50%"/>
+> <p style="font-size: 12px">卡片四周圓角：2dp<br>卡片與容器上下左右間距：8dp<br>卡片間間距：8 dp</p>
+
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3bG0tNkIyNDhJZEU/components_cards28.png)
 > <p style="font-size: 12px">標頭<br>圖片高：36 dp<br>圖片寬：36 dp<br>標題字體：14 sp<br>副標字體：14 sp<br>內容上下左右間距：16 dp<br></p>
 > <p style="font-size: 12px">多媒體<br>高：與寬比為 9：16 或 1：1（建議）<br>寬：同螢幕寬<br></p>
