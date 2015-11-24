@@ -13,5 +13,5 @@
 任何一個畫面應盡量以一種類型為主，除非有非用不可的原因
 
 ## 平面化按鈕
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsU1A0aDJMMGhQRjQ/components_buttons_keyline1.png)
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsU1A0aDJMMGhQRjQ/components_buttons_keyline1.png" style="max-width:50%"/>
 > <p style="font-size: 12px">按鈕欄高：52 dp<br>按鈕</p>
