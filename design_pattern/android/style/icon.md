@@ -85,21 +85,21 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 前景和背景屬於物件的一種，同屬於3D環境，因此有固定高度
 
 <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7UzdCZ0MtOEpybGM/style_logos_product_anatomy_edges_tinted.png" style="max-width: 50%"/>
-> <p style="font-size: 12px">高：1dp<br>透明度：20%<br>顏色：白
+> <p style="font-size: 12px">高：1dp<br>不透明度：20%<br>顏色：白
 </p>
 
 * 下緣  
 前景和背景屬於物件的一種，同屬於3D環境，因此有固定高度
 
 <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7RW5GbWN2Z2pNcGc/style_logos_product_anatomy_edges_shaded.png" style="max-width: 50%"/>
-> <p style="font-size: 12px">高：1dp<br>透明度：20%<br>顏色：參考陰影、暗處著色表
+> <p style="font-size: 12px">高：1dp<br>不透明度：20%<br>顏色：參考陰影、暗處著色表
 </p>
 
 * 前景陰影  
 偏重在下方和右方，並且隨著前景形狀變化
 
 <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7MEtzZUxkM0tzeGs/style_logos_product_lighting_shadow.png" style="max-width: 50%"/>
-> <p style="font-size: 12px">透明度：20%<br>X偏移: 0dp<br>Y偏移: 4dp<br>模糊距離: 6dp<br>顏色: 根據上緣或下緣
+> <p style="font-size: 12px">不透明度：20%<br>X偏移: 0dp<br>Y偏移: 4dp<br>模糊距離: 6dp<br>顏色: 根據上緣或下緣
 </p>
 
 * 色塊
@@ -109,7 +109,7 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 * 光源
 
 <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ejNBS3NuRklaNHc/style_logos_product_lighting_finish.png" style="max-width: 50%"/>
-> <p style="font-size: 12px">類型: 放射<br>角度: 45º<br>色彩: 白<br>中心點位置: 33%<br><br>顏色 1<br>透明度: 10%<br>位置: 0%<br><br>顏色 2<br>透明: 0%<br>位置: 100%
+> <p style="font-size: 12px">類型: 放射<br>角度: 45º<br>色彩: 白<br>中心點位置: 33%<br><br>顏色 1<br>不透明度: 10%<br>位置: 0%<br><br>顏色 2<br>不透明: 0%<br>位置: 100%
 </p>
 
 ###陰影、暗處著色表
