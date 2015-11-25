@@ -25,7 +25,7 @@
 * 一般
 
 > <p style="font-size: 12px">文字<br>字型：Roboto Regular<br>字體：13 sp<br></p>
-<p style="font-size: 12px">文字顏色<br>顏色：黑<br>透明度：87 %</p>
+<p style="font-size: 12px">文字顏色<br>顏色：黑<br>不透明度：87 %</p>
 <p style="font-size: 12px">圖示同[系統圖示](../style/icon.html#系統圖示)
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B7WCemMG6e0VTkYxd2hyUXJMdGc/components_acux_chips_deletable_rl.png" style="max-width:50%"/>
@@ -37,7 +37,7 @@
 * 聯絡人
 
 > <p style="font-size: 12px">文字<br>字型：Roboto Regular<br>字體：14 sp<br></p>
-<p style="font-size: 12px">文字顏色<br>顏色：黑<br>透明度：54 %</p>
+<p style="font-size: 12px">文字顏色<br>顏色：黑<br>不透明度：54 %</p>
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7MmdUUVdtcW9SVWM/components_chips_contact_keyline1.png" style="max-width:50%"/>
 > <p style="font-size: 12px">高：32 dp<br>文字上下間距：8 dp<br>文字右間距：12 dp</p>
@@ -48,4 +48,4 @@
 > <p style="font-size: 12px">圖示<br>寬高：40 dp（左側），24 dp（右側）<br>上下左右間距：正中央</p>
 > <p style="font-size: 12px">文字上下間距：16 dp（被選取），20 dp（被選取）<br>文字左右內間距：8 dp<br>文字右間距：4 dp</p>
 <p style="font-size: 12px">被選取文字<br>字體：16 sp（名稱），14 sp（地址）<br></p>
-<p style="font-size: 12px">被選取文字顏色<br>顏色：白<br>透明度：100%（名稱），87%（地址）</p>
+<p style="font-size: 12px">被選取文字顏色<br>顏色：白<br>不透明度：100%（名稱），87%（地址）</p>
