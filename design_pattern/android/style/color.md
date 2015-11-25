@@ -33,7 +33,7 @@ Google官方色票的每一色系皆是由主要色調(50 ~ 900)和次要色調(
 <img src="https://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7NUJzYWNoVGp2SGc/style_color_uiapplication_palette2.png" style="max-width: 50%"/>
 
 ## 文字顏色
-運用透明度來進行文字的顏色，透過深淺不同來呈現各文字區塊的權重。
+運用不透明度來進行文字的顏色，透過深淺不同來呈現各文字區塊的權重。
 
 文字顏色可大分為以下兩種情境：
 * 主題色為亮色系
