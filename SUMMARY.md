@@ -21,4 +21,5 @@
            * [卡片](design_pattern/android/component/card.md)
            * [芯片](design_pattern/android/component/chip.md)
            * [分割線](design_pattern/android/component/divider.md)
+           * 對話框
 
