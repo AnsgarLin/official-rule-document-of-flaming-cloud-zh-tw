@@ -21,10 +21,10 @@ Google官方對於物件的擺放有制定一套規範，並且依照平台又�
 底色預設為比主題色稍重的實體色，詳細可參考[顏色](../layout/color.html)，也可以是半透明的黑或白，如下二圖：
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsLWE2REc4RnVuTWc/layout_structure_system_color2.png" style="max-width:50%"/>
-> <p style="font-size: 12px">顏色：黑<br>透明度：20%</p>
+> <p style="font-size: 12px">顏色：黑<br>不透明度：20%</p>
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B8v7jImPsDi-RmR0RU9hc1MzWGc/layout_structure_system_color6.png" style="max-width:50%"/>
-> <p style="font-size: 12px">顏色：白<br>透明度：70%</p>
+> <p style="font-size: 12px">顏色：白<br>不透明度：70%</p>
 
 ### 導覽列（Android navigation bar）
 可能為實體按鍵，或為虛擬按鍵，並固定於畫面下方，含有退出、回到桌面和應用概觀。
@@ -35,10 +35,10 @@ Google官方對於物件的擺放有制定一套規範，並且依照平台又�
 底色預設為黑色，也可以是半透明的黑或全透明，如下二圖：
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bl93YnVqdWE3NGM/layout_structure_system_android4.png" style="max-width:50%"/>
-> <p style="font-size: 12px">顏色：黑<br>透明度：不定</p>
+> <p style="font-size: 12px">顏色：黑<br>不透明度：不定</p>
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7S2tTVjBjcUNEM00/layout_structure_system_android6.png" style="max-width:50%"/>
-> <p style="font-size: 12px">透明度：100%</p>
+> <p style="font-size: 12px">不透明度：100%</p>
 
 ### 工具列（Toolbar）
 工具列可以泛指任何在畫面或是物件上方，擺放按鈕的區塊。在這只討論屬於應用主程式的工具列，也可以稱為應用列。
