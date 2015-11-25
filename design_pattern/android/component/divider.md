@@ -33,4 +33,4 @@
 
 ## 規範
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzYi1pc290WFRMc1U/components_dividers_specs.png)
-> <p style="font-size: 12px">分割線實體是從元素底部向上延伸<br>高：1 dp<br>顏色：黑<br>不透明度：12%</p>
+> <p style="font-size: 12px">分割線實體是從元素底部向上延伸<br>高：1 dp<br>顏色：黑（亮色系），白（暗色系）<br>不透明度：12%</p>
