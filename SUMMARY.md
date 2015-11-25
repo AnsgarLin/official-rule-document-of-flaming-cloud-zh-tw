@@ -19,7 +19,7 @@
            * [下表](design_pattern/android/component/bottom_sheet.md)
            * [按鈕](design_pattern/android/component/button.md)
            * [卡片](design_pattern/android/component/card.md)
-           * [對話框](design_pattern/android/component/dialog.md)
            * [芯片](design_pattern/android/component/chip.md)
+           * [對話框](design_pattern/android/component/dialog.md)
            * [分割線](design_pattern/android/component/divider.md)
 
