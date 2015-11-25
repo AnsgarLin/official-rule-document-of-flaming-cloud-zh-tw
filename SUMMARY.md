@@ -20,4 +20,5 @@
            * [按鈕](design_pattern/android/component/button.md)
            * [卡片](design_pattern/android/component/card.md)
            * [芯片](design_pattern/android/component/chip.md)
+           * 分割線
 
