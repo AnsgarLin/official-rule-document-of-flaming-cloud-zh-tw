@@ -172,7 +172,7 @@
 
 * 置底按鈕  
 
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7Ukt1TFRVUlgxY1k/components_buttons_keyline2.png" style="max-width:50%"/>
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsdU42S2h4QnJMZVE/components_buttons_usage_buttons1.png" style="max-width:50%"/>
 > <p style="font-size: 12px">如果應用需要一個長駐的按鈕，除了使用懸浮按鈕，也可以使用置底按鈕</p>
 
 * 卡片  
