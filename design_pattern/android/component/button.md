@@ -139,14 +139,14 @@
 * 容器底色為亮色系  
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7WlduMk1kbTRzQWc/components_buttons_main15.png" style="max-width:50%"/>
-> <p style="font-size:  12px">停用<br>文字顏色：黑<br>透明度：26%</p><p style="font-size:  12px">按鈕底色：黑<br>透明度：12%
+> <p style="font-size:  12px">停用<br>文字顏色：黑<br>不透明度：26%</p><p style="font-size:  12px">按鈕底色：黑<br>不透明度：12%
 </p>
 
 * 容器底色為暗色系  
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7UTh2dExpSlRVWVU/components_buttons_main16.png" style="max-width:50%"/>
-> <p style="font-size:  12px">碰觸<br>按鈕底色：600</p><p style="font-size: 12px">按壓<br>按鈕底色：700</p><p style="font-size: 12px">停用<br>文字顏色：白<br>透明度：30%
-</p><p style="font-size: 12px">按鈕底色：白<br>透明度：12%
+> <p style="font-size:  12px">碰觸<br>按鈕底色：600</p><p style="font-size: 12px">按壓<br>按鈕底色：700</p><p style="font-size: 12px">停用<br>文字顏色：白<br>不透明度：30%
+</p><p style="font-size: 12px">按鈕底色：白<br>不透明度：12%
 </p>
 
 <video height="auto" width="50%" preload="metadata" loop="" controls>
@@ -186,13 +186,13 @@
 * 容器底色為亮色系  
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7SnA4Umw3S0pfNWs/components_buttons_main13.png" style="max-width:50%"/>
-> <p style="font-size:  12px">碰觸<br>按鈕底色：#999999<br>透明度：20%</p><p style="font-size: 12px">按壓<br>按鈕底色：#999999<br>透明度：40%</p><p style="font-size: 12px">停用<br>文字顏色：黑<br>透明度：26%
+> <p style="font-size:  12px">碰觸<br>按鈕底色：#999999<br>不透明度：20%</p><p style="font-size: 12px">按壓<br>按鈕底色：#999999<br>不透明度：40%</p><p style="font-size: 12px">停用<br>文字顏色：黑<br>不透明度：26%
 </p>
 
 * 容器底色為暗色系  
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bEFqalRSeUJkbEU/components_buttons_main14.png" style="max-width:50%"/>
-> <p style="font-size:  12px">碰觸<br>按鈕底色：#CCCCCC<br>透明度：15%</p><p style="font-size: 12px">按壓<br>按鈕底色：#CCCCCC<br>透明度：25%</p><p style="font-size: 12px">停用<br>文字顏色：白<br>透明度：30%
+> <p style="font-size:  12px">碰觸<br>按鈕底色：#CCCCCC<br>不透明度：15%</p><p style="font-size: 12px">按壓<br>按鈕底色：#CCCCCC<br>不透明度：25%</p><p style="font-size: 12px">停用<br>文字顏色：白<br>不透明度：30%
 </p>
 
 <video height="auto" width="50%" preload="metadata" loop="" controls>
