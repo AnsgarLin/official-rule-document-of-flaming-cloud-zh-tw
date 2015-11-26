@@ -1,8 +1,12 @@
 # 列表
 
-列表用於呈現一連串內容連續的資料。
+列表用於呈現一連串內容連續的資料，且可依照方塊內容做排序。
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsTEYtcnczU3J5ZEU/components_lists_behavior1.png" style="max-width:50%"/>
 
 > [方塊組成](#方塊組成)
+> [操作](#操作)
+> [規範](#規範)
 
 ## 方塊組成
 
@@ -16,5 +20,27 @@
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsSnBGdWd3WDhPUE0/components_lists_usage3.png" style="max-width:50%"/>
 > <p style="font-size: 12px">在信箱中，寄件者的大頭像和內容比起時間還要重要</p>
 
+相同的，能進行的操作也依照其對應的功能重要性，分成主要操作和次要操作，並由左到右編排。
+
+在整個列表中，所有的主要操作和次要操作都是相同的。
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bTlwblZleHIwU1U/components_lists_content2.png" style="max-width:50%"/>
+> <p style="font-size: 12px">在信箱中，寄件者的大頭像和內容比起時間還要重要</p>
+
 如果文字內容超過三行，使用[卡片](icon.html)代替；如果主要內容是圖片，使用[網格列表](grid_list.html)
 
+
+## 操作
+* 點擊  
+可以開啟一個新的畫面，但某些操作如刪除、播放和選擇等，因為會立刻被執行，所以不會再跳出任何選單。
+
+* 滾動  
+列表僅供垂直滾動
+
+* 滑動
+列表中每一個選項應有一致的滑動動作
+
+## 規範
+主要操作會佔滿大部分空間，因此通常不會只是一個圖案；相反的次要操作通常以圖片表示。
+
+避免在每個選項都放上次要操作的圖示，降低視覺上的干擾。但如星星此類[控制器](control.html)則可，因為其以開關狀態顯示有用的資訊。
