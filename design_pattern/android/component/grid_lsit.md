@@ -2,6 +2,11 @@
 
 網格列表是一般列表的替代方案，通常用於以圖像為主的資訊，因為此種列表可以給圖像提供更好的辨識度。
 
+> [組成](#組成)  
+> [操作](#操作)  
+> [規範](#規範)  
+
+## 組成
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7VGhsOE5idWlJWXM/components_grids_usage3.png" style="max-width:50%"/>
 > <p style="font-size: 12px">網格列表由框和方塊組成</p>
 
@@ -12,7 +17,6 @@
 
 如果每個方塊內需要含有更多的資訊，來提高每個方塊的獨立性，建議使用[列表](#列表)或[卡片](card.html)呈現。
 
-## 方塊組成
 方塊皆由一個主要內容和一個次要內容組成，主要內容功能是區別方塊，通常為圖片；次要內容則可能是一個操作按鈕或是文字。
 
 方塊應以一預設的主要內容來避免沒有來源的情形。
