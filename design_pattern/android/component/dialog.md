@@ -65,15 +65,16 @@
 在有限的空間下使用複雜的對話框時，在手機端應使用全螢幕呈現。多用於設定頁面，並提供關閉和確認按鈕。
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3bWxmZ1M0UTJBR0E/components_dialogs_fullscreen1.png" style="max-width:50%"/>
+> <p style="font-size: 12px">關閉和確認按鈕應置於上方</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3OVBIMmJkVUllWjQ/components_dialogs_fullscreen7.png" style="max-width:50%"/>
+> <p style="font-size: 12px">應用列標題至多2行，如在某些語系下超過，則應放入對話框中</p>
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3OV9CR1NMNnpxN2s/components_dialogs_fullscreen2.png" style="max-width:50%"/>
 > <p style="font-size: 12px">運用全螢幕，將在視覺上把畫面的基準面抬升到與對話框相同，所以可以再開一層對話框</p>
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3Qy04bFg2X0F4UkE/components_dialogs_fullscreen8.png" style="max-width:50%"/>
-> <p style="font-size: 12px">關閉和確認按鈕應置於上方。如果有改變設定，則未存擋就退出時需要進行確認；反之則直接關閉</p>
-
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3OVBIMmJkVUllWjQ/components_dialogs_fullscreen7.png" style="max-width:50%"/>
-> <p style="font-size: 12px">應用列標題應簡短，如在某些語系下會過長，則放入對話框中</p>
+> <p style="font-size: 12px">如果有改變設定，則未存擋就退出時需要進行確認；反之則直接關閉</p>
 
 ## 規範
 > <p style="font-size: 12px">文字<br>同於[卡片](card.html#卡片)
