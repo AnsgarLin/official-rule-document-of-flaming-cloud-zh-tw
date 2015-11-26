@@ -103,6 +103,8 @@
 > <p style="font-size: 12px">多媒體<br>高：與寬比為 9：16 或 1：1（建議）<br>寬：同螢幕寬<br></p>
 > <p style="font-size: 12px">標題<br>標題字體：24 sp<br>副標字體：14 sp<br>上間距：24 dp<br>下間距：24 dp（下方無其他組成），16 dp（下方為內文或操作）高：依內容而定</p>
 > <p style="font-size: 12px">內文<br>字體：14 sp<br>上間距：16 dp<br>下間距：24 dp（下方無其他組成），16 dp (下方為內文或操作）小點左間距：16 dp</p>
+> <p style="font-size: 12px">操作（通用）<br>高：52 dp
+</p>
 > <p style="font-size: 12px">操作（圖示）<br>上下間距：垂直置中左右間距：16 dp<br>圖示間間距：8dp
 </p>
 > <p style="font-size: 12px">操作（按鈕）<br>
