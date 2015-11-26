@@ -168,7 +168,7 @@
 * 對話框  
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsWVJfOVpiVHYtZ00/components_buttons_main9.png" style="max-width:50%"/>
-> <p style="font-size: 12px">詳細請查看[對話框]()
+> <p style="font-size: 12px">詳細請查看[對話框](dialog.html)
 
 * 置底按鈕  
 
@@ -178,7 +178,7 @@
 * 卡片  
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsTDEwRlFpUmZtVm8/components_buttons_main11.png" style="max-width:50%"/>
-> <p style="font-size: 12px">詳細請查看[卡片]()
+> <p style="font-size: 12px">詳細請查看[卡片](card.html)
 
 ### 狀態
 依照情境可分以下兩種：
