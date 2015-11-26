@@ -76,6 +76,7 @@
 > <p style="font-size: 12px">應用列標題應簡短，如在某些語系下會過長，則放入對話框中</p>
 
 ## 規範
+> <p style="font-size: 12px">文字<br>同於[卡片](card.html#卡片)
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3c3htV1IweVNKcFU/components_dialogs_updates1.png)
 
