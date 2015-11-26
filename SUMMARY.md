@@ -23,5 +23,5 @@
            * [對話框](design_pattern/android/component/dialog.md)
            * [分割線](design_pattern/android/component/divider.md)
            * [網格列表](design_pattern/android/component/grid_lsit.md)
-           * 列表
+           * [列表](design_pattern/android/component/list.md)
 
