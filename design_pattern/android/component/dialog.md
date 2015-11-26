@@ -79,16 +79,38 @@
 ## 規範
 > <p style="font-size: 12px">文字<br>同於[卡片](card.html#卡片)
 
+* 警告  
+
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3c3htV1IweVNKcFU/components_dialogs_updates1.png)
+> <p style="font-size: 12px">內容上下左右間距：24 dp<br>標題下間距：20 dp<br>
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsSzE3dEVKNnNTM2c/components_dialogs_updates2.png)
-> <p style="font-size: 12px">按鈕間距：8 dp<br>
-其餘同於[平面化按鈕](button.html#平面化按鈕)
+> <p style="font-size: 12px">同於[平面化按鈕](button.html#平面化按鈕)<br>按鈕間距：8 dp<br>
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3VlYzX2d5TGl5N2s/components_dialogs_consistent_placement3.png)
+> <p style="font-size: 12px">同於[分隔線](divider.html)<br>
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3RS1ESkM1cG5zNjg/components_dialogs_stacked.png)
+> <p style="font-size: 12px">按鈕<br>高：48 dp<br>寬：容器寬<br>內間距：16 dp<br>按鈕欄位下間距：8 dp</p>
+
+* 簡易對話框  
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3OExlLU5oNDhjYW8/components_dialogs_updates5.png)
+> <p style="font-size: 12px">選項高：56 dp<br>左圖欄位寬：80 dp</p>
+> <p style="font-size: 12px">圖示<br>直徑：40 dp<br>左間距：24 dp<br>右間距：16 dp<br>上下間距：8 dp</p>
+> <p style="font-size: 12px">文字<br>字體：16 sp<br>右間距：24dp<br>上下間距：20 dp<br></p>
+
+* 確認對話框  
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3bFJtSEZCdlliM1U/components_dialogs_updates8.png)
+> <p style="font-size: 12px">選項高：48 dp<br>左圖欄位寬：72 dp</p>
+> <p style="font-size: 12px">圖示<br>同[系統圖示](../style/icon.html#系統圖示)<br>左右間距：24 dp<br>上下間距：垂直居中
+> <p style="font-size: 12px">文字<br>字體：16 sp<br>右間距：24 dp<br>上下間距：16 dp
+
+* 全螢幕  
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3clVROTBzOU1hMHM/components_dialogs_updates10.png)
+> <p style="font-size: 12px">高：56 dp（單行），80 dp（兩行）
+> <p style="font-size: 12px">圖示<br>同[系統圖示](../style/icon.html)<br>上下左間距：16 dp<br>右間距： 32 dp 
+> <p style="font-size: 12px">標頭<br>右間距：72 dp<br>上間距：20 dp<br>下間距：與圖示同（官方 20 dp 為錯誤數值）<br>字體：20 sp
+> <p style="font-size: 12px">操作文字<br>左右間距：20 dp<br>下間距：與標頭同<br>字體：14 sp
