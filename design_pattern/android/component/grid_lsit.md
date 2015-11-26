@@ -42,7 +42,7 @@
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzV1lsNXRSX0ROaTg/components_grids_specs22.png)
 > <p style="font-size: 12px">內容<br>上下左間距：16 dp<br>右間距：16 dp（一般），8 dp（圖左文右）<br></p>
-<p style="font-size: 12px">文字<br>字體：16 sp（單行），16sp/12sp（雙行），14sp/14sp（雙行）<br>中間間距：10 dp</p>
+<p style="font-size: 12px">文字<br>字體：16 sp（單行），16sp/12sp（雙行），14sp/14sp（雙行）<br>行間空白：10 dp</p>
 <p style="font-size: 12px">圖示同[系統圖示](../style/icon.html#系統圖示)
 
 * 單行文字  
