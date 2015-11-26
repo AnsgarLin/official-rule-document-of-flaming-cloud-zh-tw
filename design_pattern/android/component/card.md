@@ -119,7 +119,7 @@
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3MXJBM2FCcDVscjg/components_cards34.png)
 > <p style="font-size: 12px">標題<br>
-副標上間距：12 dp
+行間空白：12 dp
 </p>
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3c29HUjIwc19JQlU/components_cards24.png)
