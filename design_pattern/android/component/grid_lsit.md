@@ -3,7 +3,7 @@
 網格列表是一般列表的替代方案，通常用於以圖像為主的資訊，因為此種列表可以給圖像提供更好的辨識度。
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7VGhsOE5idWlJWXM/components_grids_usage3.png" style="max-width:50%"/>
-> <p style="font-size: 12px">網格列表框和方塊組成</p>
+> <p style="font-size: 12px">網格列表由框和方塊組成</p>
 
 方塊順序可依照方塊內容做排序，例如圖片大小或文字。排序的方向為從左至右，由上而下。
 
