@@ -22,4 +22,5 @@
            * [芯片](design_pattern/android/component/chip.md)
            * [對話框](design_pattern/android/component/dialog.md)
            * [分割線](design_pattern/android/component/divider.md)
+           * 網格列表
 
