@@ -44,8 +44,8 @@
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7c3lOMERFblZhOHc/components_chips_contact_keyline2.png" style="max-width:50%"/>
 > <p style="font-size: 12px">抬升高度：8 dp</p>
-<p style="font-size: 12px">高：72 dp（被選取），56 dp（未選取）<br>左圖欄位寬：56 dp<br>右圖欄位寬：52 dp</p>
-> <p style="font-size: 12px">圖示<br>寬高：40 dp（左側），24 dp（右側）<br>上下左右間距：正中央</p>
-> <p style="font-size: 12px">文字上下間距：16 dp（被選取），20 dp（被選取）<br>文字左右內間距：8 dp<br>文字右間距：4 dp</p>
+<p style="font-size: 12px">高：72 dp（被選取），54 dp（未選取）<br>左圖欄位寬：64 dp<br>右圖欄位寬：52 dp</p>
+> <p style="font-size: 12px">圖示<br>寬高：40 dp（左側），24 dp（右側）<br>上下間距：垂直居中<br>左右間距：12 dp（左側），14 dp（右側）</p>
+> <p style="font-size: 12px">文字上下間距：16 dp（被選取），20 dp（被選取）<br>文字左右內間距：8 dp<br>文字右間距：12 dp</p>
 <p style="font-size: 12px">被選取文字<br>字體：16 sp（名稱），14 sp（地址）<br></p>
 <p style="font-size: 12px">被選取文字顏色<br>顏色：白<br>不透明度：100%（名稱），87%（地址）</p>
