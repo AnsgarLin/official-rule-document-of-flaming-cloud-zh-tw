@@ -44,3 +44,44 @@
 主要操作會佔滿大部分空間，因此通常不會只是一個圖案；相反的次要操作通常以圖片表示。
 
 避免在每個選項都放上次要操作的圖示，降低視覺上的干擾。但如星星此類[控制器](control.html)則可，因為其以開關狀態顯示有用的資訊。
+
+* 單行
+
+> <p style="font-size: 12px">列表上間距：8 dp（沒有標頭），0 dp（有標頭）</p>
+> <p style="font-size: 12px">內容左右間距：16 dp</p>
+> <p style="font-size: 12px">文字<br>字體：16 dp<br>左間距：16 dp（左無圖），72 dp（左有圖）<br>上下間距：16 dp（左無圖或系統圖示），20 dp（左大頭圖）</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7Y1FsdElhSlJ1WEU/components_lists_keylines_single2.png" style="max-width:50%"/>
+> <p style="font-size: 12px">欄位高：48 dp</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7eUpZcXJRODJvMXc/components_lists_keylines_single5.png" style="max-width:50%"/>
+> <p style="font-size: 12px">欄位高：48 dp<br></p>
+
+> <p style="font-size: 12px">圖示同[系統圖示](../icon.html#系統圖示)
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bzEta2VMeTQ5QTg/components_lists_keylines_single8.png" style="max-width:50%"/>
+> <p style="font-size: 12px">欄位高：56 dp
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7T2pKUG0teEQycTA/components_lists_keylines_single11.png" style="max-width:50%"/>
+> <p style="font-size: 12px">欄位高：56 dp</p>
+> <p style="font-size: 12px">右圖示<br>左右間距：16 dp<br>其他同[系統圖示](../style/icon.html#系統圖示)
+
+* 雙行
+
+> <p style="font-size: 12px">列表上間距：8 dp（沒有標頭），0 dp（有標頭）</p>
+> <p style="font-size: 12px">欄位高：72 dp<br>內容左右間距：16 dp</p>
+> <p style="font-size: 12px">文字<br>字體：16 dp（第一行），14 sp（第二行）<br>左間距：16 dp（左無圖），72 dp（左有圖）<br>上下間距：16 dp（左無圖或系統圖示），20 dp（左大頭圖）</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7UkNZZk02N3BYazg/components_lists_keylines_two2.png" style="max-width:50%"/>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7RTJvc2pWMnFvQTg/components_lists_keylines_two5.png" style="max-width:50%"/>
+> <p style="font-size: 12px">圖示同[系統圖示](../icon.html#系統圖示)
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bzEta2VMeTQ5QTg/components_lists_keylines_single8.png" style="max-width:50%"/>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7NkI5bzU3Y3BQQzg/components_lists_keylines_two10.png" style="max-width:50%"/>
+> <p style="font-size: 12px">右圖示<br>左右間距：16 dp<br>其他同[系統圖示](../style/icon.html#系統圖示)
+
+* 三行
+
+
