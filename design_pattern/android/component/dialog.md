@@ -112,5 +112,5 @@
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3clVROTBzOU1hMHM/components_dialogs_updates10.png)
 > <p style="font-size: 12px">高：56 dp（單行），80 dp（兩行）
 > <p style="font-size: 12px">圖示<br>同[系統圖示](../style/icon.html)<br>上下左間距：16 dp<br>右間距： 32 dp 
-> <p style="font-size: 12px">標頭<br>右間距：72 dp<br>上間距：20 dp<br>下間距：與圖示同（官方 20 dp 為錯誤數值）<br>字體：20 sp
+> <p style="font-size: 12px">標題<br>右間距：72 dp<br>上間距：20 dp<br>下間距：與圖示同（官方為 20 dp）<br>字體：20 sp
 > <p style="font-size: 12px">操作文字<br>左右間距：20 dp<br>下間距：與標頭同<br>字體：14 sp
