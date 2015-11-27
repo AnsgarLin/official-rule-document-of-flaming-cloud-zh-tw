@@ -54,12 +54,15 @@
 > <p style="font-size: 12px">當選單對話框的任一選項多於單行時，則應改為使用此類型</p>
 
 * 確認對話框  
-列出控制物件給使用者選擇，並提供確認和取消的按鈕。
+列出控制物件或選取氣給使用者選擇，並提供確認和取消的按鈕。
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3aXcyajZDN29jS1k/components_dialogs_confirmation2.png" style="max-width:50%"/>
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3eWhJZmwwdFpob0k/components_dialogs_confirmation5.png" style="max-width:50%"/>
-> <p style="font-size: 12px">同[選取器]()
+> <p style="font-size: 12px">時間選取器
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B3321sZLoP_HOTZoUE1VSGxvRFE/components_pickers_date4.png" style="max-width:50%"/>
+> <p style="font-size: 12px">日期選取器
 
 * 全螢幕  
 在有限的空間下使用複雜的對話框時，在手機端應使用全螢幕呈現。多用於設定頁面，並提供關閉和確認按鈕。
