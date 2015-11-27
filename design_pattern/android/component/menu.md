@@ -3,9 +3,10 @@
 為一個暫時性的物件，由其他物件觸發產生，並擁有至少兩個選項。
 
 > [組成](#組成)  
-> [操作](#操作)   
-> [規範](#規範)  
-> [簡易式選單](#簡易式選單)
+> [操作](#操作)  
+> [簡易式選單](#簡易式選單)  
+> [下拉式選單](#下拉式選單)  
+> [規範](#規範)
 
 有些情況下可以擁有一個選項，例如選取字串後的選單，則只有複製功能。
 
@@ -34,20 +35,6 @@
 
 通常選單會在選擇一個選項後關閉，除非這選單是可以重複選擇多個選項。
 
-## 規範
-選單應永遠存在整個應用的上層，且文字部分應簡短。
-
-不論是靜態或動態的選單，較常使用的功能應該擺在最上面。
-
-> <p style="font-size: 12px">選項<br>上間距：8 dp<br>寬：倍數 * 56 dp（預設）或應用欄高，倍數可以是1.5，2，3，6，7
-> <p style="font-size: 12px">文字<br>字體：16 sp<br>上下間距：16 dp</p>
-
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bEZ2SjJVb195VmM/components_menus_specs1.png)
-> <p style="font-size: 12px">選項高：48 dp</p>
-
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B-Ef4kCjUzkPSmluWU5MSExRWms/components_dialogs_simplemenus9.png" style="max-width:50%"/>
-> <p style="font-size: 12px">選單左右間距：16 dp</p>
-
 ## 簡易式選單
 以列表方式呈現，開關的方式和一般的選單相同，主要提供針對列表中單一方塊的操作。
 
@@ -75,3 +62,17 @@
 > <p style="font-size: 12px">一般<br>不會呈現狀態的變化項，打開為一般選單</p>
 > <p style="font-size: 12px">分段式<br>會依照目前狀態改變高度，打開為一般選單</p>
 > <p style="font-size: 12px">分段式編輯<br>會依照目前狀態改變高度，打開為一般選單，同時也可以編輯當前選項內容</p>
+
+## 規範
+選單應永遠存在整個應用的上層，且文字部分應簡短。
+
+不論是靜態或動態的選單，較常使用的功能應該擺在最上面。
+
+> <p style="font-size: 12px">選項<br>上間距：8 dp<br>寬：倍數 * 56 dp（預設）或應用欄高，倍數可以是1.5，2，3，6，7
+> <p style="font-size: 12px">文字<br>字體：16 sp<br>上下間距：16 dp</p>
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bEZ2SjJVb195VmM/components_menus_specs1.png)
+> <p style="font-size: 12px">選項高：48 dp</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B-Ef4kCjUzkPSmluWU5MSExRWms/components_dialogs_simplemenus9.png" style="max-width:50%"/>
+> <p style="font-size: 12px">選單左右間距：16 dp</p>
