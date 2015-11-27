@@ -26,5 +26,5 @@
            * [列表](design_pattern/android/component/list.md)
            * [控制器](design_pattern/android/component/control.md)
            * [選單](design_pattern/android/component/menu.md)
-           * 讀取條
+           * [讀取條](design_pattern/android/component/progress.md)
 
