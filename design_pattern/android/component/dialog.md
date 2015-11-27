@@ -41,8 +41,8 @@
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3cGUwa0F5ekUwVms/components_dialogs_usage1.png" style="max-width:50%"/>
 > <p style="font-size: 12px">有標頭的對話框用於重要性較高的警告，像是連線問題或刪除檔案，並伴隨著問題說明</p>
 
-* 選單對話框  
-詳細請查看[選單](menu.html)
+* 簡易式選單  
+詳細請查看[選單](menu.html)內的[簡易式選單](menu.html#簡易式選單)
 
 * 簡易對話框  
 列出可點擊的選項，不提供關閉按鈕。
