@@ -39,10 +39,33 @@
 
 不論是靜態或動態的選單，較常使用的功能應該擺在最上面。
 
-> <p style="font-size: 12px">選項<br>上間距：8 dp<br>寬：倍數 * 同應用欄高，倍數可以是1.5，2，3，6，7
+> <p style="font-size: 12px">選項<br>上間距：8 dp<br>寬：倍數 * 56 dp（預設）或應用欄高，倍數可以是1.5，2，3，6，7
 > <p style="font-size: 12px">文字<br>字體：16 sp<br>上下間距：16 dp</p>
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bEZ2SjJVb195VmM/components_menus_specs1.png)
 > <p style="font-size: 12px">選項高：48 dp</p>
 
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B-Ef4kCjUzkPSmluWU5MSExRWms/components_dialogs_simplemenus9.png" style="max-width:50%"/>
+> <p style="font-size: 12px">選單左右間距：16 dp</p>
+
 ## 簡易式選單
+以列表方式呈現，開關的方式和一般的選單相同，主要提供針對列表中單一方塊的操作。
+
+不同於[簡易式對話框](dialog.html#簡易式對話框)，簡易式選單的選項較不會影響畫面內容。
+
+簡意式選單有在開啟時對其當前選項和方塊的特性。
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQscEN4TlItQ1R4d3c/components_dialogs_simplemenus2.png)
+> <p style="font-size: 12px">選單向下偏移來對齊</p>
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsbXpoZkNIcXgxc3M/components_dialogs_simplemenus3.png)
+> <p style="font-size: 12px">選單向上偏移來對齊</p>
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsRmtOT0hySXRMYjg/components_dialogs_simplemenus4.png)
+> <p style="font-size: 12px">選單向下會超過邊界，以後續的選項來對齊</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsM1JlMU1GQlVCajg/components_dialogs_simplemenus10.png" style="max-width:50%"/>
+> <p style="font-size: 12px">選項內容超過單行，使用[簡易式對話框](dialog.html#簡易式選單)代替
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsM3lfVmVsWk9KRUE/components_dialogs_simplemenus12.png" style="max-width:50%"/>
+> <p style="font-size: 12px">簡易式選單永遠會小於螢幕寬高，來預留可點擊的範圍來關閉選單</p>
