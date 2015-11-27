@@ -24,5 +24,5 @@
            * [分割線](design_pattern/android/component/divider.md)
            * [網格列表](design_pattern/android/component/grid_lsit.md)
            * [列表](design_pattern/android/component/list.md)
-           * 控制器
+           * [控制器](design_pattern/android/component/control.md)
 
