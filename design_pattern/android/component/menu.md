@@ -78,8 +78,3 @@
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B-Ef4kCjUzkPSmluWU5MSExRWms/components_dialogs_simplemenus9.png" style="max-width:50%"/>
 > <p style="font-size: 12px">選單左右間距：16 dp</p>
-
-* 下拉式  
-
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3U2VCaGE1YmFtQ1k/components_buttons_dropdown3.png)
-> <p style="font-size: 12px"></p>
