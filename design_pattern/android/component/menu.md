@@ -2,9 +2,9 @@
 
 為一個暫時性的物件，由其他物件觸發產生，並擁有至少兩個選項。
 
-> [組成](#組成)
-> [操作](#操作)
-> [規範](#規範)
+> [組成](#組成)  
+> [操作](#操作)   
+> [規範](#規範)  
 > [簡易式選單](#簡易式選單)
 
 有些情況下可以擁有一個選項，例如選取字串後的選單，則只有複製功能。
@@ -69,3 +69,9 @@
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsM3lfVmVsWk9KRUE/components_dialogs_simplemenus12.png" style="max-width:50%"/>
 > <p style="font-size: 12px">簡易式選單永遠會小於螢幕寬高，來預留可點擊的範圍來關閉選單</p>
+
+## 下拉式選單
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3RklUaGVRbl9tMDg/components_buttons_dropdown2.png)
+> <p style="font-size: 12px">一般<br>不會呈現狀態的變化項，打開為一般選單</p>
+> <p style="font-size: 12px">分段式<br>會依照目前狀態改變高度，打開為一般選單</p>
+> <p style="font-size: 12px">分段式編輯<br>會依照目前狀態改變高度，打開為一般選單，同時也可以編輯當前選項內容</p>
