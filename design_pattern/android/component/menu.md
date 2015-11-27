@@ -69,10 +69,17 @@
 不論是靜態或動態的選單，較常使用的功能應該擺在最上面。
 
 > <p style="font-size: 12px">選項<br>上間距：8 dp<br>寬：倍數 * 56 dp（預設）或應用欄高，倍數可以是1.5，2，3，6，7
-> <p style="font-size: 12px">文字<br>字體：16 sp<br>上下間距：16 dp</p>
+> <p style="font-size: 12px">文字<br>字體：16 sp<br>上下間距：16 dp<br></p>
+
+* 一般  
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7bEZ2SjJVb195VmM/components_menus_specs1.png)
 > <p style="font-size: 12px">選項高：48 dp</p>
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B-Ef4kCjUzkPSmluWU5MSExRWms/components_dialogs_simplemenus9.png" style="max-width:50%"/>
 > <p style="font-size: 12px">選單左右間距：16 dp</p>
+
+* 下拉式  
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3U2VCaGE1YmFtQ1k/components_buttons_dropdown3.png)
+> <p style="font-size: 12px"></p>
