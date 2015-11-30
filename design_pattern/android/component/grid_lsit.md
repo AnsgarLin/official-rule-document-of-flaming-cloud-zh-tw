@@ -42,6 +42,12 @@
 
 ## 規範
 
+* 副標
+
+
+
+* 總覽
+
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B_udO5B8pzrzM3JBazdXUTg2Nmc/components_grids_specs1.png)
 > <p style="font-size: 12px">中間分隔線寬：1 dp 或 4 dp<br>欄位高：48 dp（單行文字），68 dp（雙行文字）<br>文字大小：16 sp（單行），16sp/12sp（雙行），14sp/14sp（雙行）</p>
 
