@@ -40,5 +40,45 @@
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7MTlwWk9tajlPeFE/components_listcontrols_menu2.png)
 > <p style="font-size: 12px">功能說明</p>
 
-## 規範
 不能將控制器圖示並排於其他圖示，而屬於次要操作的控制項應至於右邊。
+
+## 類型
+控制器依照類型分為三種，各種有不同的使用時機：
+* 複選框  
+用於讓使用者可以進行複選，但如果只有一個選項，建議使用開關。
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3cFp4WHdDaWZESmM/components_switches_check3.png)
+> <p style="font-size: 12px">開<br>顏色：主題色</p>
+> <p style="font-size: 12px">關<br>顏色：黑<br>透明度：54 %</p>
+> <p style="font-size: 12px">停用<br>顏色：黑<br>透明度：26 %</p>
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3cy1pRXJxY2dnN28/components_switches_check4.png)
+> <p style="font-size: 12px">開<br>顏色：主題色</p>
+> <p style="font-size: 12px">關<br>顏色：白<br>透明度：70 %</p>
+> <p style="font-size: 12px">停用<br>顏色：白<br>透明度：30 %</p>
+
+* 單選按鈕
+用於讓使用者從一組選項中挑選一個，通常為第二層選單且選單是全部展開，如果不需要使用者可以一次看到所有選項，建議使用下拉式選單。
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3cEVOUmMwZ05tU00/components_switches_radio3.png)
+> <p style="font-size: 12px">開<br>顏色：主題色</p>
+> <p style="font-size: 12px">關<br>顏色：黑<br>透明度：54 %</p>
+> <p style="font-size: 12px">停用<br>顏色：黑<br>透明度：26 %</p>
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3aWtqNWY3NmxJeHc/components_switches_radio4.png)
+> <p style="font-size: 12px">開<br>顏色：主題色</p>
+> <p style="font-size: 12px">關<br>顏色：白<br>透明度：70 %</p>
+> <p style="font-size: 12px">停用<br>顏色：白<br>透明度：30 %</p>
+
+* 開關
+用於讓使用者決定某一個選項的開關狀態
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3Mk55RHlTUi1YaVE/components_switches_switch3.png)
+> <p style="font-size: 12px">開<br>顏色：主題色（控鈕），主題色（橫桿）<br>透明度：100 %（控鈕），50 %（橫桿）</p>
+> <p style="font-size: 12px">關<br>顏色：#FAFAFA（控鈕），黑（橫桿）<br>透明度：100 %（控鈕），26 %（橫桿）</p>
+> <p style="font-size: 12px">關<br>顏色：#BDBDBD（控鈕），黑（橫桿）<br>透明度：100 %（控鈕），12 %（橫桿）</p>
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsTDJPbG5DUjJOYkk/components_switches_switch4.png)
+> <p style="font-size: 12px">開<br>顏色：主題色 200（控鈕），主題色 200（橫桿）<br>透明度：100 %（控鈕），50 %（橫桿）</p>
+> <p style="font-size: 12px">關<br>顏色：#FAFAFA（控鈕），白（橫桿）<br>透明度：100 %（控鈕），30 %（橫桿）</p>
+> <p style="font-size: 12px">關<br>顏色：#424242（控鈕），白（橫桿）<br>透明度：100 %（控鈕），10 %（橫桿）</p>
