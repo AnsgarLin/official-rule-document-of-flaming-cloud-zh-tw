@@ -17,18 +17,3 @@
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7ck5NWGtlRHBCWVE/layout_principles_papercraft_paper2.png)
 > <p style="font-size:12px">物件堆疊時，彼此之間的移動不同時影響彼此狀態</p>
-
-## 漂浮按鈕
-漂浮按鈕是一個從工具列分離出來，且為圓形的按鈕，用於提供單一用於提供單一促進功能。
-
-主要會以下面兩種形式存在：
-
-* 新增
-
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aGcyakNwSW1iR1U/layout_principles_papercraft_actions1.png)
-> <p style="font-size:12px">點擊後新增一物件</p>
-
-* 分離
-
-![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7eVA3azhXVEFabUE/layout_principles_papercraft_actions2.png)
-> <p style="font-size:12px">點擊後分離兩物件</p>
