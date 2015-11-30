@@ -44,6 +44,10 @@
 主要操作會佔滿大部分空間，因此通常不會只是一個圖案；相反的次要操作通常以圖片表示。
 
 避免在每個選項都放上次要操作的圖示，降低視覺上的干擾。但如星星此類[控制器](control.html)則可，因為其以開關狀態顯示有用的資訊。
+* 副標  
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7eThvY2hXZ2JNdkk/components_subheaders1.png" style="max-width:50%"/>
+> <p style="font-size: 12px">在信箱中，寄件者的大頭像和內容比起時間還要重要</p>
 
 * 單行
 
