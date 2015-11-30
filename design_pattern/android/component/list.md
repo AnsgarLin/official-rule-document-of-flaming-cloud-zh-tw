@@ -52,6 +52,11 @@
 > <p style="font-size: 12px">欄高：48 dp<br>左間距：16 dp<br>字體：14 sp<br></p>
 > <p style="font-size: 12px">文字<br>字體：14 sp<br>顏色：黑或主題色<br>不透明度：54 %（非主題色），100 %（主題色）<br></p>
 
+如果有浮動式按鈕，則因與文字對齊
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsMEtuWm42b2lSRkk/components_subheaders4.png" style="max-width:50%"/>
+> <p style="font-size: 12px">左間距：72 dp</p>
+
 * 單行
 
 > <p style="font-size: 12px">列表上間距：8 dp（沒有標頭），0 dp（有標頭）</p>
