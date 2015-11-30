@@ -28,5 +28,5 @@
            * [選單](design_pattern/android/component/menu.md)
            * [讀取條](design_pattern/android/component/progress.md)
            * [滑軌](design_pattern/android/component/slider.md)
-           * 提示欄
+           * [提示欄](design_pattern/android/component/snackbar.md)
 
