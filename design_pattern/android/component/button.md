@@ -20,7 +20,22 @@
 任何一個畫面應盡量以一種類型為主，除非有非用不可的原因
 
 ## 懸浮式按鈕
-懸浮式按鈕為權重最高的按鈕，通常使用為需要常駐的按鈕，其代表的功能為當前畫面的主要功能，且無法由其他的當前畫面的物件代表，所以一個畫面最多只有一個。
+
+懸浮式按鈕為權重最高的按鈕，通常使用為需要常駐的按鈕。
+
+主要會以下面兩種形式存在：
+
+* 新增
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7aGcyakNwSW1iR1U/layout_principles_papercraft_actions1.png)
+> <p style="font-size:12px">點擊後新增一物件</p>
+
+* 分離
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7eVA3azhXVEFabUE/layout_principles_papercraft_actions2.png)
+> <p style="font-size:12px">點擊後分離兩物件</p>
+
+其代表的功能為當前畫面的主要功能，且無法由其他的當前畫面的物件代表，所以一個畫面最多只有一個。
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7S2NiZlNhcDUxSTA/patterns_actions_fab_content2.png" style="max-width:50%"/>
 > <p style="font-size: 12px">此畫面主要用途為新增檔案，任何其他物件都不具有新增功能</p>
