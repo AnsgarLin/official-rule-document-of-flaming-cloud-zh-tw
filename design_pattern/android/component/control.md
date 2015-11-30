@@ -57,7 +57,7 @@
 > <p style="font-size: 12px">關<br>顏色：白<br>透明度：70 %</p>
 > <p style="font-size: 12px">停用<br>顏色：白<br>透明度：30 %</p>
 
-* 單選按鈕
+* 單選按鈕  
 用於讓使用者從一組選項中挑選一個，通常為第二層選單且選單是全部展開，如果不需要使用者可以一次看到所有選項，建議使用下拉式選單。
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3cEVOUmMwZ05tU00/components_switches_radio3.png)
@@ -70,7 +70,7 @@
 > <p style="font-size: 12px">關<br>顏色：白<br>透明度：70 %</p>
 > <p style="font-size: 12px">停用<br>顏色：白<br>透明度：30 %</p>
 
-* 開關
+* 開關  
 用於讓使用者決定某一個選項的開關狀態
 
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3Mk55RHlTUi1YaVE/components_switches_switch3.png)
