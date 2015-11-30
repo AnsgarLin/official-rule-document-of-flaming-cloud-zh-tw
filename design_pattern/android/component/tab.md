@@ -2,6 +2,8 @@
 
 書籤用於將資訊內容做大方向的分類，並可快速的在分類間切換。
 
+> 
+
 以下有幾個是在使用書籤要注意的事項：
 * 僅供大方向  
 書籤只能用於大方向的分類。
@@ -47,3 +49,30 @@
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsY1JuWnJGSHpiQkE/components-tabs-typesoftabs_scrollable_tabs_01_xhdpi_003.mp4" type="video/mp4">
 </video>
 
+## 規範
+> <p style="font-size: 12px">書籤<br>高：48 dp（圖或文字），72 dp（圖文）</p>
+> <p style="font-size: 12px">文字<br>字型：Roboto Medium<br>字體：14 sp（單行），12 sp（雙行）<br>左右間距：至少 12 dp<br>上間距：18 dp（單行），12 dp（雙行）<br>下間距：20 dp（單行），12 dp（雙行）<br>顏色：白或[強調色](../style/color.html#強調色)（選取），白（未選取）<br>不透明度：100 %（選取），70 %（未選取）<br>
+
+> <p style="font-size: 12px">指示符<br>高：2 dp<br>顏色：白或[強調色](../style/color.html#強調色)
+
+* 固定式
+
+> <p style="font-size: 12px">書籤<br>預設寬：螢幕寬 / 書籤量
+<br>最大寬：264 dp<br>最小寬：72（小螢幕），160 dp（大螢幕）<br>高：48 dp（圖或文字），72 dp（圖文）</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsR0pYZkJlYUUzZ3c/components_tabs_usage_specs1.png" style="max-width:50%"/>
+> <p style="font-size: 12px">純文字，規範如上述</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsS1lGVXlPdXVzRFk/components_tabs_usage_specs9.png" style="max-width:50%"/>
+> <p style="font-size: 12px">圖示<br>同[系統圖示](../style/icon.html#系統圖示)<br>上下間距：12 dp
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQscktCWWFUUld2U1E/components_tabs_usage_specs7.png" style="max-width:50%"/>
+> <p style="font-size: 12px">圖示<br>同[系統圖示](../style/icon.html#系統圖示)<br>上間距：14 dp<br>下間距：10 dp
+> <p style="font-size: 12px">文字<br>下間距：16 dp
+
+* 滾動式
+
+> <p style="font-size: 12px">書籤<br>預設寬：根據內容決定
+<br>最大寬：264 dp 或螢幕寬減 56 dp<br>最小寬：72（小螢幕），160 dp（大螢幕）<br>高：48 dp（圖或文字），72 dp（圖文）</p>
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsQ2l2R1lSU0hzZkE/components_tabs_usage_specs11.png" style="max-width:50%"/>
+> <p style="font-size: 12px">起始點：72 dp（與標頭相同），其餘和固定式相同</p>
