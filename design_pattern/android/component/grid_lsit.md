@@ -42,9 +42,11 @@
 
 ## 規範
 
-* 副標
+* 副標  
 
-
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7OFRBazBRbDdUMEk/components_subheaders5.png" style="max-width:50%"/>
+> <p style="font-size: 12px">欄高：48 dp<br>左間距：16 dp<br>字型：Roboto Medium<br>字體：14 sp<br></p>
+> <p style="font-size: 12px">文字<br>顏色：黑或主題色<br>不透明度：54 %（非主題色），100 %（主題色）<br></p>
 
 * 總覽
 
