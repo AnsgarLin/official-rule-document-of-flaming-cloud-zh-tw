@@ -29,7 +29,7 @@
            * [讀取條](design_pattern/android/component/progress.md)
            * [滑軌](design_pattern/android/component/slider.md)
            * [提示欄](design_pattern/android/component/snackbar.md)
+           * 文字輸入框
            * [書籤](design_pattern/android/component/tab.md)
            * [功能提示](design_pattern/android/component/tooltips.md)
-           * 文字輸入框
 
