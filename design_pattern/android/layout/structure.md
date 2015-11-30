@@ -60,7 +60,32 @@ Google官方對於物件的擺放有制定一套規範，並且依照平台又�
 在功能圖示過多，或其重要性不高時，可以略縮成單一圖示，必要時再以列表開啟其他選項。
 
 一般來說，所有應用欄的圖示顏色和標題相同，但也可以用不同的顏色提高辨識度。
+
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQselRDRFlzNkI0SFE/layout_structure_appbar_structure7.png" style="max-width:50%"/>
+
+工具列其他物件的階層排列有以下四種：
+* 上層  
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B9PCOJnbdRP6NVBZNXNqTi1EekU/layout_principles_papercraft_toolbars4.png)
+> <p style="font-size: 12px>工具列永遠高於物件</p>
+
+* 同層  
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B9PCOJnbdRP6NVBZNXNqTi1EekU/layout_principles_papercraft_toolbars4.png)
+> <p style="font-size: 12px>工具列與物件並列，用於物件是由工具列產生的時候</p>
+
+* 下層  
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B9PCOJnbdRP6NVBZNXNqTi1EekU/layout_principles_papercraft_toolbars4.png)
+> <p style="font-size: 12px>工具列永遠低於物件</p>
+
+* 同層至上層  
+
+![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B9PCOJnbdRP6NVBZNXNqTi1EekU/layout_principles_papercraft_toolbars4.png)
+> <p style="font-size: 12px>工具列等於或高於物件，通常用於物件是由工具列產生時，在物件滾動後移至上層</p>
+
+開啟選單時的圖層時，選單不可以將工具列上的功能隔開，因此工具列會進行壓縮，並將圖示集中到左或右邊。
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B9PCOJnbdRP6elVJaFhzQ3lKems/layout_principles_papercraft_toolbars2.png" style="max-width:50%"/>
 
 佈局數值可分以下三個情境：
 
