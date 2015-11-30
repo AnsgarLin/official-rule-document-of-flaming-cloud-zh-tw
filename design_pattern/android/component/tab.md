@@ -42,5 +42,7 @@
 * 滾動式  
 
 用於書籤量較多的情況，且使用者不用在意書籤之間的關係。
-<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsNHMyNDg1YWtVcHM/components_tabs_typesoftabs_mobile1.png" style="max-width:50%"/>
-> <p style="font-size: 12px">在畫面中左右滑動切換</p>
+<video height="auto" width="100%" preload="metadata" loop="" controls>
+  <source src=http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsY1JuWnJGSHpiQkE/components-tabs-typesoftabs_scrollable_tabs_01_xhdpi_003.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsY1JuWnJGSHpiQkE/components-tabs-typesoftabs_scrollable_tabs_01_xhdpi_003.mp4" type="video/mp4">
+</video>
