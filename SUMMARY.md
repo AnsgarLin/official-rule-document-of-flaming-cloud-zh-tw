@@ -33,5 +33,5 @@
            * [文字輸入欄](design_pattern/android/component/textfield.md)
            * [功能提示](design_pattern/android/component/tooltips.md)
        * [資料格式](design_pattern/android/data_format.md)
-       * 空白狀態
+       * [空白狀態](design_pattern/android/empty_state.md)
 
