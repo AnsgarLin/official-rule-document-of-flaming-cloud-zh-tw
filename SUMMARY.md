@@ -37,5 +37,5 @@
            * [空白狀態](design_pattern/android/pattern/empty_state.md)
            * [手勢](design_pattern/android/pattern/gesture.md)
            * [登入畫面](design_pattern/android/pattern/launch_screen.md)
-           * 圖片讀取
+           * [圖片讀取](design_pattern/android/pattern/loaging_image.md)
 
