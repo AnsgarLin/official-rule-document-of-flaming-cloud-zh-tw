@@ -11,7 +11,7 @@
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNM2xXbGwyN2pISUE/patterns-imagerytreatment-imageload-transition_large_xhdpi.webm" type="video/webm">
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNM2xXbGwyN2pISUE/patterns-imagerytreatment-imageload-transition_large_xhdpi.mp4" type="video/mp4">
 </video>
-> <p style="font-size: 12px">讀取圖片建議使用較長的時間間隔；在轉場過程則反之</p>
+> <p style="font-size: 12px">顯示圖片建議使用較長的時間間隔</p>
 
 <video height="auto" width="100%" preload="metadata" loop="" controls>
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B0NGgBg38lWWdlUtbnpFOUMzRUk/patterns-loadingimages-loading-070901_Load_Add_Animation_xhdpi_002.webm" type="video/webm">
