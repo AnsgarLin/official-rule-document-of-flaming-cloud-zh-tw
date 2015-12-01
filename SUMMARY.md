@@ -7,9 +7,6 @@
        * [概念](design_pattern/android/concept.md)
        * [陰影](design_pattern/android/shadow.md)
        * [動畫](design_pattern/android/animation.md)
-       * [資料格式](design_pattern/android/data_format.md)
-       * [空白狀態](design_pattern/android/empty_state.md)
-       * [手勢](design_pattern/android/gesture.md)
        * [風格](design_pattern/android/style/README.md)
            * [顏色](design_pattern/android/style/color.md)
            * [圖示](design_pattern/android/style/icon.md)
@@ -38,5 +35,8 @@
        * 圖片讀取
        * [模式](design_pattern/android/pattern/README.md)
            * [登入畫面](design_pattern/android/launch_screen.md)
+           * [資料格式](design_pattern/android/data_format.md) 
+           * [空白狀態](design_pattern/android/empty_state.md)
+           * [手勢](design_pattern/android/gesture.md)
 
 
