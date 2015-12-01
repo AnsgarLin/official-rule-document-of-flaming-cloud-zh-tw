@@ -34,9 +34,8 @@
            * [功能提示](design_pattern/android/component/tooltips.md)
        * 圖片讀取
        * [模式](design_pattern/android/pattern/README.md)
+           * [資料格式](design_pattern/android/data_format.md)
            * [登入畫面](design_pattern/android/launch_screen.md)
-           * [資料格式](design_pattern/android/data_format.md) 
            * [空白狀態](design_pattern/android/empty_state.md)
            * [手勢](design_pattern/android/gesture.md)
-
 
