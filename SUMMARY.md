@@ -32,5 +32,5 @@
            * [書籤](design_pattern/android/component/tab.md)
            * [文字輸入欄](design_pattern/android/component/textfield.md)
            * [功能提示](design_pattern/android/component/tooltips.md)
-       * 資料格式
+       * [資料格式](design_pattern/android/data_format.md)
 
