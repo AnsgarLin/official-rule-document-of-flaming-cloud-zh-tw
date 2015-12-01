@@ -9,6 +9,7 @@
        * [動畫](design_pattern/android/animation.md)
        * [資料格式](design_pattern/android/data_format.md)
        * [空白狀態](design_pattern/android/empty_state.md)
+       * [手勢](design_pattern/android/gesture.md)
        * [風格](design_pattern/android/style/README.md)
            * [顏色](design_pattern/android/style/color.md)
            * [圖示](design_pattern/android/style/icon.md)
@@ -34,5 +35,4 @@
            * [書籤](design_pattern/android/component/tab.md)
            * [文字輸入欄](design_pattern/android/component/textfield.md)
            * [功能提示](design_pattern/android/component/tooltips.md)
-       * [手勢](design_pattern/android/gesture.md)
 
