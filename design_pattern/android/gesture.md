@@ -74,3 +74,25 @@
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B1PhAWhtrRTrSWhBc0Ffa3E0Rlk/Patterns-Gestures-TouchActivities-02_large_xhdpi.png" style="max-width:50%"/>
 > <p style="font-size: 12px">滑動物件，物件移動速度和方向與手指同</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B1PhAWhtrRTrSWhBc0Ffa3E0Rlk/Patterns-Gestures-TouchActivities-02_large_xhdpi.png" style="max-width:50%"/>
+> <p style="font-size: 12px">新物件因滑動而滑出，滑出方向與手指同；反方向滑動則會關閉</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B1PhAWhtrRTrQnota1Q0eHpWbmM/Patterns-Gestures-TouchActivities-03_large_xhdpi.png" style="max-width:50%"/>
+> <p style="font-size: 12px">各個方向使用單指或兩指滑動，用於遊覽實際畫面大於螢幕的畫面</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B1PhAWhtrRTrUjhEaHo1d2otSDQ/Patterns-Gestures-TouchActivities-04_large_xhdpi.png" style="max-width:50%"/>
+> <p style="font-size: 12px">刪除或取消，滑動後刪除或取消當前項目</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B1PhAWhtrRTrV0hPR2ZwMjFtN28/Patterns-Gestures-TouchActivities-05_large_xhdpi.png" style="max-width:50%"/>
+> <p style="font-size: 12px">滑動後刷新列表</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B1PhAWhtrRTra2d2Ylp5ZXRaUGM/Patterns-Gestures-TouchActivities-06_large_xhdpi.png" style="max-width:50%"/>
+> <p style="font-size: 12px">滑動後切換頁面或是顯示螢幕外的內容</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B1PhAWhtrRTrZzBwQk9FRS1OV1k/Patterns-Gestures-TouchActivities-08_large_xhdpi.png" style="max-width:50%"/>
+> <p style="font-size: 12px">依照方向顯示下一階層的列表或是打開一個選單</p>
+
+<img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B08MbvYZK1iNenotUjEzT29NWEU/Patterns-Gestures-TouchActivities-10_large_xhdpi.png" style="max-width:50%"/>
+> <p style="font-size: 12px">雙指滑動使3D圖像傾斜</p>
+
