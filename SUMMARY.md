@@ -37,5 +37,6 @@
            * [功能提示](design_pattern/android/component/tooltips.md)
        * 圖片讀取
        * [模式](design_pattern/android/pattern/README.md)
-           * 登入畫面
+           * [登入畫面](design_pattern/android/launch_screen.md)
+
 
