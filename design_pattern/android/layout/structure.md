@@ -111,8 +111,10 @@ Google官方對於物件的擺放有制定一套規範，並且依照平台又�
 高：80dp（直）、72dp（橫）
 > <p style="font-size: 12px">次要輸入欄位<br>高：72dp（直）、64dp（橫）<br>下間距：16dp（直）、8dp（橫）</p>
 > <p style="font-size: 12px">輸入欄位間間距：8dp（直）、0dp（橫）</p>
-> <p style="font-size: 12px">標籤<br>字體：12 sp<br>上間距：16 dp（寬版），12 dp（窄版）<br>下間距：8 dp（寬版），4 dp（窄版）<br>顏色：同[分割線](divider.html)
-> <p style="font-size: 12px">文字<br>上間距：8 dp（寬版），4 dp（窄版）<br>下間距：16 dp（寬版），12 dp（窄版）
+> <p style="font-size: 12px">標籤<br>字體：12 sp<br>上間距：16 dp（主要），10 dp（次要）<br>下間距：10 dp（主要），8 dp（次要）<br>顏色：強調色（輸入中），同[分割線](divider.html)（未輸入）
+> <p style="font-size: 12px">文字<br>字體：24 sp（主要），20 dp（次要）<br>下間距：12 dp（主要），22 dp（次要）<br>顏色：同[文字顏色](../style/color#文字顏色)
+> <p style="font-size: 12px">下劃線<br>高：2 dp<br>下間距：8 dp<br>顏色：強調色（輸入中），同[分割線](divider.html)（未輸入）
+
 
 ### 內文區塊（Content area）
 各個區塊的高度必須要和螢幕寬達成一定比例，官方建議的比例表如下圖：
