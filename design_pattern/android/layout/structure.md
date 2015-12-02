@@ -118,6 +118,40 @@ Google官方對於物件的擺放有制定一套規範，並且依照平台又�
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsS1RKNFQtdy1sYkU/layout_metrics_ratiokeylines2.png" style="max-width:50%"/>
 > <p style="font-size: 12px">套用實例</p>
 
+## 滾動模式
+
+內文區塊在滾動時，會引發畫面結構的轉變，主要分有以下幾種模式：
+
+* 狀態列和工具列  
+狀態列可決定是否和工具列一起向上推移或是固定在畫面頂端。
+
+<video height="auto" width="100%" preload="metadata" loop="" controls>
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsR1lZQUxtWFRFMEU/patterns-scrolling-techniques_standard_appbar_xhdpi_004.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsR1lZQUxtWFRFMEU/patterns-scrolling-techniques_standard_appbar_xhdpi_004.mp4" type="video/mp4">
+</video>
+> <p style="font-size: 12px">狀態列固定在畫面頂端</p>
+
+* 狀態列、工具列和延伸空間
+狀態列固定在畫面頂端，工具列可決定是否與延伸空間一起上移。
+
+<video height="auto" width="100%" preload="metadata" loop="" controls>
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsRTM1M1lCWWZiN2c/patterns-scrolling-techniques-flexible_space_xhdpi_003.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsRTM1M1lCWWZiN2c/patterns-scrolling-techniques-flexible_space_xhdpi_003.mp4" type="video/mp4">
+</video>
+> <p style="font-size: 12px">工具列與狀態列一起固定在畫面頂端</p>
+
+<video height="auto" width="100%" preload="metadata" loop="" controls>
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQscXNQY3dNdVlYeTQ/patterns-scrolling-techniques_flex_space_image_xhdpi_003.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQscXNQY3dNdVlYeTQ/patterns-scrolling-techniques_flex_space_image_xhdpi_003.mp4" type="video/mp4">
+</video>
+> <p style="font-size: 12px">工具列與延伸空間一起上移，且圖片漸變成主題色</p>
+
+<video height="auto" width="100%" preload="metadata" loop="" controls>
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsRVpzZG0zZGVNSXM/patterns-scrolling-techniques_flex_space_overlap_xhdpi_003.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsRVpzZG0zZGVNSXM/patterns-scrolling-techniques_flex_space_overlap_xhdpi_003.mp4" type="video/mp4">
+</video>
+> <p style="font-size: 12px">工具列和延伸空間一開始在內文底下，在上移後換到內文以上</p>
+
 ## 觸控單元
 為了平衡圖示的清晰度和實用性，觸控應該至少48dp見方。
 
