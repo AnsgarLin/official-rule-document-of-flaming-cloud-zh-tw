@@ -41,7 +41,15 @@
 * 滑動
 列表中每一個選項應有一致的滑動動作
 
-＃＃
+## 更新
+列表下拉啟動更新。
+
+<video height="auto" width="100%" preload="metadata" loop="" controls>
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsUkpNWUx6NFI4clE/patterns-swipetorefresh-behavior_do_xhdpi_009.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsUkpNWUx6NFI4clE/patterns-swipetorefresh-behavior_do_xhdpi_009.mp4" type="video/mp4">
+</video>
+
+> <p style="font-size:12px"> 圖示會持續顯示到讀取完成，或是使用者進入其它頁面。同時使用者依然可以滾動列表</p>
 
 ## 規範
 主要操作會佔滿大部分空間，因此通常不會只是一個圖案；相反的次要操作通常以圖片表示。
