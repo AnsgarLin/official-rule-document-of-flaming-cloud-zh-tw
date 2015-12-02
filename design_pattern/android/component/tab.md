@@ -49,6 +49,19 @@
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsY1JuWnJGSHpiQkE/components-tabs-typesoftabs_scrollable_tabs_01_xhdpi_003.mp4" type="video/mp4">
 </video>
 
+## 滾動模式
+滾動時工具列和書籤可以向上推移，並分為以下三種情況：
+* 工具列上移，書籤保留
+* 工具列保留，書籤上移
+* 兩個依照順序上移
+
+<video height="auto" width="50%" preload="metadata" loop="" controls>
+  <source src=http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsQ0ZQalNKOGxTNjA/patterns-scrolling-techniques_tabs_xhdpi_004.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsQ0ZQalNKOGxTNjA/patterns-scrolling-techniques_tabs_xhdpi_004.mp4" type="video/mp4">
+</video>
+
+> <p style="font-size: 12px">工具列上移，書籤保留</p>
+
 ## 規範
 > <p style="font-size: 12px">書籤<br>高：48 dp（圖或文字），72 dp（圖文）</p>
 > <p style="font-size: 12px">文字<br>字型：Roboto Medium<br>字體：14 sp（單行），12 sp（雙行）<br>左右間距：至少 12 dp<br>上間距：18 dp（單行），12 dp（雙行）<br>下間距：20 dp（單行），12 dp（雙行）<br>顏色：白或[強調色](../style/color.html#強調色)（選取），白（未選取）<br>不透明度：100 %（選取），70 %（未選取）<br>
