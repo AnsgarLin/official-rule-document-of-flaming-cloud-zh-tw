@@ -33,5 +33,5 @@
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsSmRsTWRKdVk4MFU/patterns_search_persistent2.png" style="max-width:50%"/>
 > <p style="font-size: 12px">上下左右間距：12 dp</p>
 > <p style="font-size: 12px">文字<br>字體：20 sp<br>左間距：64 dp</p>
-> <p style="font-size: 12px">圖示<br>同[系統圖示](../style/icon.html#系統圖示)</p>
 > <p style="font-size: 12px">搜尋結果<br>同[列表](list.html)</p>
+> <p style="font-size: 12px">圖示<br>同[系統圖示](../style/icon.html#系統圖示)x
