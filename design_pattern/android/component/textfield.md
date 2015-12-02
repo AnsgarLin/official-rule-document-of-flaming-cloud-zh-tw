@@ -38,7 +38,7 @@
 ## 規範
 
 > <p style="font-size: 12px">文字<br>字體：16 sp（寬版），13  sp（窄版）<br>顏色：同[文字顏色](../style/color.html#文字顏色)
-> <p style="font-size: 12px">下劃線<br>下間距：8 dp（寬版），4 dp（窄版）<br>顏色：強調色（輸入中），同[分割線](divider.html)（未輸入）
+> <p style="font-size: 12px">下劃線<br>高：1 dp<br>下間距：8 dp（寬版），4 dp（窄版）<br>顏色：強調色（輸入中），同[分割線](divider.html)（未輸入）
 
 * 單行  
 
@@ -61,8 +61,8 @@
 * 含浮動標籤  
 
 > <p style="font-size: 12px">欄位高：至少 72 sp（寬版），至少 60 dp（窄版）</p>
-> <p style="font-size: 12px">標籤<br>字體：12 sp<br>上間距：16 dp（寬版），12 dp（窄版）<br>下間距：8 dp（寬版），4 dp（窄版）<br>顏色：同[分割線](divider.html)
-> <p style="font-size: 12px">文字<br>上間距：8 dp（寬版），4 dp（窄版）<br>下間距：16 dp（寬版），12 dp（窄版）
+> <p style="font-size: 12px">標籤<br>字體：12 sp<br>上間距：16 dp（寬版），12 dp（窄版）<br>下間距：8 dp（寬版），4 dp（窄版）<br>顏色：強調色（輸入中），同[分割線](divider.html)（未輸入）
+> <p style="font-size: 12px">文字<br>下間距：16 dp（寬版），12 dp（窄版）
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7V1hoemJNQk5UQlU/components_textfields_labels5.png" style="max-width:50%"/>
 > <p style="font-size: 12px">寬版多行</p>
