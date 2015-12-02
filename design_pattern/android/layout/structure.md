@@ -129,7 +129,7 @@ Google官方對於物件的擺放有制定一套規範，並且依照平台又�
 * 狀態列和工具列  
 狀態列可決定是否和工具列一起向上推移或是固定在畫面頂端。
 
-<video height="auto" width="100%" preload="metadata" loop="" controls>
+<video height="auto" width="50%" preload="metadata" loop="" controls>
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsR1lZQUxtWFRFMEU/patterns-scrolling-techniques_standard_appbar_xhdpi_004.webm" type="video/webm">
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsR1lZQUxtWFRFMEU/patterns-scrolling-techniques_standard_appbar_xhdpi_004.mp4" type="video/mp4">
 </video>
@@ -144,13 +144,13 @@ Google官方對於物件的擺放有制定一套規範，並且依照平台又�
 </video>
 > <p style="font-size: 12px">工具列與狀態列一起固定在畫面頂端</p>
 
-<video height="auto" width="100%" preload="metadata" loop="" controls>
+<video height="auto" width="50%" preload="metadata" loop="" controls>
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQscXNQY3dNdVlYeTQ/patterns-scrolling-techniques_flex_space_image_xhdpi_003.webm" type="video/webm">
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQscXNQY3dNdVlYeTQ/patterns-scrolling-techniques_flex_space_image_xhdpi_003.mp4" type="video/mp4">
 </video>
 > <p style="font-size: 12px">工具列與延伸空間一起上移，且圖片漸變成主題色</p>
 
-<video height="auto" width="100%" preload="metadata" loop="" controls>
+<video height="auto" width="50%" preload="metadata" loop="" controls>
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsRVpzZG0zZGVNSXM/patterns-scrolling-techniques_flex_space_overlap_xhdpi_003.webm" type="video/webm">
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsRVpzZG0zZGVNSXM/patterns-scrolling-techniques_flex_space_overlap_xhdpi_003.mp4" type="video/mp4">
 </video>
