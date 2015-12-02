@@ -91,7 +91,7 @@ Google官方對於物件的擺放有制定一套規範，並且依照平台又�
 
 佈局數值可分以下三個情境：
 
-> <p style="font-size: 12px">文字<br>字體：20sp</p>
+> <p style="font-size: 12px">文字<br>字體：20sp（一般），24 </p>
 
 * 預設  
 
