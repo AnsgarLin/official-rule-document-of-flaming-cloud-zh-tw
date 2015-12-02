@@ -56,7 +56,7 @@
 * 兩個依照順序上移
 
 <video height="auto" width="50%" preload="metadata" loop="" controls>
-  <source src=http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsQ0ZQalNKOGxTNjA/patterns-scrolling-techniques_tabs_xhdpi_004.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsQ0ZQalNKOGxTNjA/patterns-scrolling-techniques_tabs_xhdpi_004.webm" type="video/webm">
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsQ0ZQalNKOGxTNjA/patterns-scrolling-techniques_tabs_xhdpi_004.mp4" type="video/mp4">
 </video>
 
