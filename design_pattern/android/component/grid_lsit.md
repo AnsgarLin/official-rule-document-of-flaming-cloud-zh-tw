@@ -40,6 +40,14 @@
 * 調整  
 不建議使用拖拉方式手動排序。調整大小時，方塊會自動重新排序並填滿盡量空白。
 
+* 更新
+同[列表](#列表)。
+
+<video height="auto" width="100%" preload="metadata" loop="" controls>
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaDZOV1NmRlBVZjQ/patterns_swipetorefresh-appbar_refresh_xhdpi_007.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsaDZOV1NmRlBVZjQ/patterns_swipetorefresh-appbar_refresh_xhdpi_007.mp4" type="video/mp4">
+</video>
+
 ## 規範
 
 * 副標  
