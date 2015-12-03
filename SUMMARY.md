@@ -41,5 +41,5 @@
            * [圖片讀取](design_pattern/android/pattern/loaging_image.md)
            * [權限](design_pattern/android/pattern/permission.md)
        * 可行性
-           * 雙向性
+           * [雙向性](android/usability/bidirectionality.md)
 
