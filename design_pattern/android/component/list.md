@@ -4,8 +4,8 @@
 
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsTEYtcnczU3J5ZEU/components_lists_behavior1.png" style="max-width:50%"/>
 
-> [方塊組成](#方塊組成)
-> [操作](#操作)
+> [方塊組成](#方塊組成)  
+> [操作](#操作)  
 > [規範](#規範)
 
 ## 方塊組成
