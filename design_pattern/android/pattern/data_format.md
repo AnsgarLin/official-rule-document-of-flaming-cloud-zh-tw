@@ -36,3 +36,10 @@
 | 一般時間 | 8 AM<br>2 hr 32 min ago |
 
 ## 文字縮減
+```
+Visa  • • • 1234
+```
+
+> <p style="font-size: 12px">直接輸入:"Visa", space, space, bullet, thin space, bullet, thin space, bullet, thin space, "1234"</p>
+
+> <p style="font-size: 12px">Unicode: "Visa",U0020,U0020,U2022,U2006,U2022,U2006,U2022,U2006, "1234"</p>
