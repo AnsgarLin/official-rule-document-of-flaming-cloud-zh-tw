@@ -40,4 +40,5 @@
            * [登入畫面](design_pattern/android/pattern/launch_screen.md)
            * [圖片讀取](design_pattern/android/pattern/loaging_image.md)
            * [權限](design_pattern/android/pattern/permission.md)
+       * 可行性
 
