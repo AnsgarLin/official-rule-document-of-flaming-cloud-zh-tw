@@ -40,7 +40,7 @@
            * [登入畫面](design_pattern/android/pattern/launch_screen.md)
            * [圖片讀取](design_pattern/android/pattern/loaging_image.md)
            * [權限](design_pattern/android/pattern/permission.md)
-           * 導覽
+           * [導覽](design_pattern/android/pattern/navigation.md)
        * 可行性
            * [雙向性](android/usability/bidirectionality.md)
        * [資源](design_pattern/android/resource.md)
