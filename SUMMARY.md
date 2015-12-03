@@ -7,6 +7,7 @@
        * [概念](design_pattern/android/concept.md)
        * [陰影](design_pattern/android/shadow.md)
        * [動畫](design_pattern/android/animation.md)
+       * [樣板](design_pattern/android/template.md)
        * [風格](design_pattern/android/style/README.md)
            * [顏色](design_pattern/android/style/color.md)
            * [圖示](design_pattern/android/style/icon.md)
@@ -42,5 +43,4 @@
            * [權限](design_pattern/android/pattern/permission.md)
        * 可行性
            * [雙向性](android/usability/bidirectionality.md)
-       * [樣板](design_pattern/android/template.md)
 
