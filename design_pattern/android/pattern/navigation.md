@@ -84,3 +84,26 @@ http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3QjdEZk5TRUt6NXc/Expanding%20-%20Overscroll%20Top.webm" type="video/webm">
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bzhp5Z4wHba3QjdEZk5TRUt6NXc/Expanding%20-%20Overscroll%20Top.mp4" type="video/mp4">
 </video>
+
+## 轉場動畫
+導覽畫面切換可分成以下兩種動作：
+
+* 抬升和延展  
+
+<video height="auto" width="100%" preload="metadata" loop="" controls>
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsWjgyVU9kMWN0V2s/patterns_navigational-transitions_parent-to-child_list-02_xhdpi_019.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsWjgyVU9kMWN0V2s/patterns_navigational-transitions_parent-to-child_list-02_xhdpi_019.mp4" type="video/mp4">
+</video>
+
+<video height="auto" width="100%" preload="metadata" loop="" controls>
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsMUd1ZVRWX3p1Y3c/patterns_navigational-transitions_parent-to-child_calendar_tablet_xhdpi_004.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsMUd1ZVRWX3p1Y3c/patterns_navigational-transitions_parent-to-child_calendar_tablet_xhdpi_004.mp4" type="video/mp4">
+</video>
+
+* 書籤  
+
+<video height="auto" width="100%" preload="metadata" loop="" controls>
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsRWUyLVJ6b2ZHSFk/patterns_navigational-transitions_sibling-to-sibling_tabs-01_xhdpi_013.webm" type="video/webm">
+  <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsRWUyLVJ6b2ZHSFk/patterns_navigational-transitions_sibling-to-sibling_tabs-01_xhdpi_013.mp4" type="video/mp4">
+</video>
+
