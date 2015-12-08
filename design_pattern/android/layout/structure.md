@@ -92,7 +92,7 @@ Google官方對於物件的擺放有制定一套規範，並且依照平台又�
 佈局數值可分以下三個情境：
 
 > <p style="font-size: 12px">文字<br>字型：Roboto medium<br>字體：20sp（一般），24sp（延伸）</p>
-> <p style="font-size: 12px">左右間距：16dp<br>圖示上下間距：16dp<br>標題左間距：72dp<br>標題上間距：20dp（一般），82sp（延伸）<br>標題下間距：16dp（一般），26sp（延伸）</p>
+> <p style="font-size: 12px">左右間距：16dp<br>圖示上下間距：16dp<br>圖示間間距：1 dp<br>標題左間距：72dp<br>標題上間距：20dp（一般），82sp（延伸）<br>標題下間距：16dp（一般），26sp（延伸）</p>
 
 * 預設  
 
