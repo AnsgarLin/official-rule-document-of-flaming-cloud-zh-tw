@@ -43,7 +43,7 @@
 * 更新
 列表下拉啟動更新。
 
-<video height="auto" width="100%" preload="metadata" loop="" controls>
+<video height="auto" width="50%" preload="metadata" loop="" controls>
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsUkpNWUx6NFI4clE/patterns-swipetorefresh-behavior_do_xhdpi_009.webm" type="video/webm">
   <source src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B6Okdz75tqQsUkpNWUx6NFI4clE/patterns-swipetorefresh-behavior_do_xhdpi_009.mp4" type="video/mp4">
 </video>
