@@ -30,7 +30,10 @@
 3. 專案建立完成，右側可在設定專案名稱或是專案解析度
 
 ![](../../assets/plugin_zeplin_create_3.png)
-> <p style="font-size: 12px">專案解析度用於</p>
+
+![](../../assets/plugin_zeplin_create_4.png)
+
+![](../../assets/plugin_zeplin_create_5.png)
 
 ## 輸出
 
