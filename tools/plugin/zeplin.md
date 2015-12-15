@@ -11,7 +11,22 @@
 
 ## 功能介紹
 
-1. 
+* 可直接顯示圖形在Sketch中的大小和距離設定  
+
+![](../../assets/plugin_zeplin_intro_1.png) 
+
+* 一次顯示當前畫面所擁有的色票
+
+![](../../assets/plugin_zeplin_intro_2.png) 
+
+* 一次顯示當前畫面可輸出的圖片
+
+![](../../assets/plugin_zeplin_intro_3.png) 
+> <p style="font-size: 12px">需要在Sketch中預先設置圖層是Exported</p>
+
+* 可選擇畫面中使用到的色票，並輸出成專案平台使用的資源檔
+
+![](../../assets/plugin_zeplin_intro_4.png) 
 
 ## 安裝方式
 
