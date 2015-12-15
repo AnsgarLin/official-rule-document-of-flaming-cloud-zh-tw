@@ -48,4 +48,5 @@
 * [工具介紹](tools/README.md)
    * [Sketch](tools/sketch.md)
        * Plugin
+           * Zeplin
 
