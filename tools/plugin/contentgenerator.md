@@ -14,27 +14,27 @@
 
 ## 產生圖片
 1. 產生數個空白區塊  
-![](../../assets/plugin_content_pic_1.png)
+![](../../assets/plugin/content/pic_1.png)
 > <p style="font-size: 12px">如要產生的資料為大頭照，則區塊則限定只能正方或正圓</p>
 
 2. 圈選所有區塊
-![](../../assets/plugin_content_pic_2.png)
+![](../../assets/plugin/content/pic_2.png)
 
 3. 從Plugin -> Content Generator選擇一種屬於圖片的類型
-![](../../assets/plugin_content_pic_3.png)
+![](../../assets/plugin/content/pic_3.png)
 
 4. 完成
-![](../../assets/plugin_content_pic_4.png)
+![](../../assets/plugin/content/pic_4.png)
 
 ## 產生文字
 1. 產生數個文字區塊
-![](../../assets/plugin_content_text_1.png)
+![](../../assets/plugin/content/text_1.png)
 
 2. 圈選所有區塊
 
 3. 從Plugin -> Content Generator選擇一種屬於文字的類型
-![](../../assets/plugin_content_text_2.png)
+![](../../assets/plugin/content/text_2.png)
 
 4. 完成
-![](../../assets/plugin_content_text_3.png)
+![](../../assets/plugin/content/text_3.png)
 
