@@ -7,7 +7,19 @@
 ## 製作圖片
 
 1. 在Print或是Appreal分頁選擇想要的素材
+![](../../assets/placeit_pic_1.png)
 
+2. 
+![](../../assets/placeit_pic_2.png)
+
+3.
+![](../../assets/placeit_pic_3.png)
+
+4.
+![](../../assets/placeit_pic_4.png)
+
+5.
+![](../../assets/placeit_pic_5.png)
 
 
 ## 製作影片
