@@ -11,3 +11,15 @@
 1. 先至[Github](https://github.com/timuric/Content-generator-sketch-plugin)下載專案
 
 2. 參照[Plugin](README.md)章節安裝
+
+## 使用方式
+1. 產生數個不同的區塊  
+![](../../assets/plugin_content_1.png)
+> <p style="font-size: 12px">如要產生的資料為大頭照，則區塊則限定只能正方或正圓</p>
+
+2. 圈選所有區塊
+![](../../assets/plugin_content_2.png)
+
+3. 從Plugin -> Content Generator選擇一種屬於圖片的類型
+![](../../assets/plugin_content_3.png)
+
