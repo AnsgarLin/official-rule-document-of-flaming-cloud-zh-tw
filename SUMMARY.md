@@ -48,6 +48,6 @@
 * [工具介紹](tools/README.md)
    * [Sketch](tools/sketch.md)
        * [Plugin](tools/plugin/README.md)
+           * ContentGenerator
            * [Zeplin](tools/plugin/zeplin.md)
-       * ContentGenerator
 
