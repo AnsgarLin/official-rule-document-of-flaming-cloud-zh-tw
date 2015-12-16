@@ -51,5 +51,5 @@
            * [ContentGenerator](tools/plugin/contentgenerator.md)
            * [Zeplin](tools/plugin/zeplin.md)
    * [Website](tools/website/README.md)
-       * Placeit
+       * [Placeit](tools/website/placeit.md)
 
