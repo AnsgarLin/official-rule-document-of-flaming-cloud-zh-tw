@@ -52,4 +52,5 @@
            * [Zeplin](tools/plugin/zeplin.md)
    * [Placeit](tools/placeit.md)
    * Website
+       * Placeit
 
