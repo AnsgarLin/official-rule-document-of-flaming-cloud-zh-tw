@@ -13,7 +13,7 @@
 2. 參照[Plugin](README.md)章節安裝
 
 ## 產生圖片
-1. 產生數個不同的區塊  
+1. 產生數個的區塊  
 ![](../../assets/plugin_content_1.png)
 > <p style="font-size: 12px">如要產生的資料為大頭照，則區塊則限定只能正方或正圓</p>
 
@@ -26,5 +26,8 @@
 4. 完成
 ![](../../assets/plugin_content_4.png)
 
-## 產生圖文
+## 產生文字
+1. 產生數個區塊
+![](../../assets/plugin_content_5.png)
+
 
