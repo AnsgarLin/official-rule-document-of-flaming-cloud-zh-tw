@@ -12,7 +12,7 @@
 
 2. 參照[Plugin](README.md)章節安裝
 
-## 使用方式
+## 產生圖片
 1. 產生數個不同的區塊  
 ![](../../assets/plugin_content_1.png)
 > <p style="font-size: 12px">如要產生的資料為大頭照，則區塊則限定只能正方或正圓</p>
@@ -22,4 +22,9 @@
 
 3. 從Plugin -> Content Generator選擇一種屬於圖片的類型
 ![](../../assets/plugin_content_3.png)
+
+4. 完成
+![](../../assets/plugin_content_4.png)
+
+## 產生圖文
 
