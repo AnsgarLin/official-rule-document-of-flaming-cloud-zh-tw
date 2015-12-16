@@ -34,18 +34,15 @@
 
 ## 建立專案
 
-1. 開啟Zeplin後點選畫面上的Create  
+* 開啟Zeplin後點選畫面上的Create  
 ![](../../assets/plugin_zeplin_create_1.png) 
 
-2. 選擇平台  
+* 選擇平台  
 ![](../../assets/plugin_zeplin_create_2.png)
 
-3. 專案建立完成，右側可在設定專案名稱或是專案解析度
-
+* 專案建立完成，右側可在設定專案名稱或是專案解析度
 ![](../../assets/plugin_zeplin_create_3.png)
-
 ![](../../assets/plugin_zeplin_create_4.png)
-
 ![](../../assets/plugin_zeplin_create_5.png)
 
 ## 輸出
