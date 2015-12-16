@@ -28,19 +28,21 @@
 
 ![](../../assets/plugin_zeplin_intro_4.png) 
 
-## 安裝方式
+## 安裝使用
 
-1. 先至[官網](https://zeplin.io/)下載軟體
+1. 先至[官網](https://zeplin.io/)下載軟體並安裝
+
+2. 參照[輸出](#輸出)的步驟即可從Sketch開啟
 
 ## 建立專案
 
-* 開啟Zeplin後點選畫面上的Create  
+1. 開啟Zeplin後點選畫面上的Create  
 ![](../../assets/plugin_zeplin_create_1.png) 
 
-* 選擇平台  
+2. 選擇平台  
 ![](../../assets/plugin_zeplin_create_2.png)
 
-* 專案建立完成，右側可在設定專案名稱或是專案解析度
+3. 專案建立完成，右側可在設定專案名稱或是專案解析度
 ![](../../assets/plugin_zeplin_create_3.png)
 ![](../../assets/plugin_zeplin_create_4.png)
 ![](../../assets/plugin_zeplin_create_5.png)
