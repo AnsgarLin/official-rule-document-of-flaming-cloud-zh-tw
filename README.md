@@ -1,6 +1,6 @@
 # **簡介**
 
-此文件用於呈現產品所需的規範和設計指南，來讓工程師和設計師可以順利進行溝通合作，文件內容會分別以[**英文**](https://www.gitbook.com/book/ansgarlin/official-rule-document-of-fcloud/details)和[**
+此文件用於呈現產品所需的規範和設計指南，讓工程師和設計師可以順利進行溝通合作，文件內容會分別以[**英文**](https://www.gitbook.com/book/ansgarlin/official-rule-document-of-fcloud/details)和[**
 Traditional Chinese**](https://www.gitbook.com/book/ansgarlin/official-rule-document-of-flaming-cloud-zh-tw/details)撰寫。
 
 主題會著重在以下兩個方向：
