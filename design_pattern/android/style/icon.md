@@ -2,7 +2,8 @@
 Google 官方所使用的圖示已經發展出一套完整且靈活的單一系統，並且具有固定的規則可遵循。依照用途，圖示大致可分為產品圖示和系統圖示兩類：
 
 > [產品圖示](/icon.html#產品圖示)  
-> [系統圖示](/icon.html#系統圖示)
+> [系統圖示](/icon.html#系統圖示)  
+> [繪製](/icon.html#繪製)
 
 ## 產品圖示
 為產品標誌，用於商城。
@@ -225,5 +226,17 @@ Google 官方所使用的圖示已經發展出一套完整且靈活的單一系�
 同[顏色](color.html)章節中的[圖示顏色](color.html#圖示顏色)
 
 ## 繪製
+
+### 色彩
 <img src="https://wcc723.gitbooks.io/google_design_translate/content/images/style/style_icons_system_color2.png" style="max-width: 50%"/>
 > <p style="font-size: 12px">任何圖示的繪製，都必須要貼齊座標，而不是像素本身</p>
+
+### 比例
+| 解析度 | 倍數 | 產品 (px) | 系統 (px) | 
+| -- | -- | -- | -- |
+| mdpi | 1 | 48 | 24 |
+| hdpi | 1.5 | 72 | 36 |
+| xhdpi | 2 | 96 | 48 |
+| xxhdpi | 3 | 144 | 72 |
+| xxxhdpi | 4 | 192 | 96 |
+
