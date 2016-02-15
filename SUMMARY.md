@@ -45,7 +45,7 @@
        * 可行性
            * [雙向性](android/usability/bidirectionality.md)
        * [資源](design_pattern/android/resource.md)
-   * Fcloud
+   * [Fcloud](design_pattern/fcloud/README.md)
 * [工具介紹](tools/README.md)
    * [Sketch](tools/sketch.md)
        * [Plugin](tools/plugin/README.md)
