@@ -14,3 +14,6 @@
 [系統圖示](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0BwigBDH8AFrsS291eGVLWUdUaGM/System_Icon_StickerSheet.ai)  
 [產品圖示](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0BwigBDH8AFrsQ3Jya3RIMTdHWmM/Product_Icon_StickerSheet.zip)  
 [圖示](https://www.google.com/design/icons/)
+
+* 設備  
+[規格表](https://design.google.com/devices/)
