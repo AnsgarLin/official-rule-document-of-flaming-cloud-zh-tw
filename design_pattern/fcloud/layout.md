@@ -9,3 +9,4 @@
 **對應解析度**：xxhdpi
 
 ## 規範
+參照[佈局](../android/layout/README.md)章節。
