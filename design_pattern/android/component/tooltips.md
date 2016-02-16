@@ -1,6 +1,6 @@
 # 功能提示
 使用一暫時性的物件，包含簡短的文字敘述，來說明當前觸控的按鈕名稱，物件本身無法操作。
-
+ee
 <img src="http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0Bx4BSt6jniD7UTZwTkp6c2ctZVU/components_tooltips_touch3.png" style="max-width:50%"/>
 > <p style="font-size: 12px">一般狀態</p>
 
