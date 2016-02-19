@@ -43,7 +43,7 @@
            * [權限](design_pattern/android/pattern/permission.md)
            * [導覽](design_pattern/android/pattern/navigation.md)
        * 可行性
-           * [雙向性](design_pattern/usability/bidirectionality.md)
+           * [雙向性](design_pattern/android/usability/bidirectionality.md)
        * [資源](design_pattern/android/resource.md)
    * [Fcloud](design_pattern/fcloud/README.md)
        * [圖示](design_pattern/fcloud/icon.md)
