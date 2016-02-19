@@ -44,7 +44,8 @@
            * [導覽](design_pattern/android/pattern/navigation.md)
        * 可行性
            * [雙向性](design_pattern/android/usability/bidirectionality.md)
-       * [資源](design_pattern/android/resource.md)
+       * 資源
+           * [連結](design_pattern/android/lists.md)
    * [Fcloud](design_pattern/fcloud/README.md)
        * [圖示](design_pattern/fcloud/icon.md)
        * [佈局](design_pattern/fcloud/layout.md)
