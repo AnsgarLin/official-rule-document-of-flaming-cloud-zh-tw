@@ -22,7 +22,7 @@
            * [對話框](design_pattern/android/component/dialog.md)
            * [分割線](design_pattern/android/component/divider.md)
            * [列表](design_pattern/android/component/list.md)
-           * [網格列表](design_pattern/android/component/grid_lsit.md)
+           * [網格列表](design_pattern/android/component/grid_list.md)
            * [控制器](design_pattern/android/component/control.md)
            * [選單](design_pattern/android/component/menu.md)
            * [讀取條](design_pattern/android/component/progress.md)
