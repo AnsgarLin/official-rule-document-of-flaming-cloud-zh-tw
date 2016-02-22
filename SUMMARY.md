@@ -14,7 +14,7 @@
        * [佈局](design_pattern/android/layout/README.md)
            * [原則](design_pattern/android/layout/principle.md)
            * [結構](design_pattern/android/layout/structure.md)
-       * [物件](design_pattern/android/component/README.md)
+       * [元件](design_pattern/android/component/README.md)
            * [下表](design_pattern/android/component/bottom_sheet.md)
            * [按鈕](design_pattern/android/component/button.md)
            * [卡片](design_pattern/android/component/card.md)
