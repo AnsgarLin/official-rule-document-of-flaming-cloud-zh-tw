@@ -1,7 +1,6 @@
 # Summary
 
 * [簡介](README.md)
-   * [Markdown](intro/markdown.md)
 * [設計法則](design_pattern/README.md)
    * [Android](design_pattern/android/README.md)
        * [概念](design_pattern/android/concept.md)
