@@ -49,7 +49,7 @@
        * [設計流程](design_pattern/fcloud/design_flow.md)
        * [文字](design_pattern/fcloud/font.md)
        * [圖示](design_pattern/fcloud/icon.md)
-       * 顏色
+       * [顏色](design_pattern/fcloud/color.md)
        * [佈局](design_pattern/fcloud/layout.md)
 * [工具介紹](tools/README.md)
    * [Sketch](tools/sketch.md)
