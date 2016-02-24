@@ -48,9 +48,9 @@
    * [Fcloud](design_pattern/fcloud/README.md)
        * [設計流程](design_pattern/fcloud/design_flow.md)
        * [文字](design_pattern/fcloud/font.md)
+       * 顏色
        * [圖示](design_pattern/fcloud/icon.md)
        * [佈局](design_pattern/fcloud/layout.md)
-       * 顏色
 * [工具介紹](tools/README.md)
    * [Sketch](tools/sketch.md)
        * [Plugin](tools/plugin/README.md)
