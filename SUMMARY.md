@@ -46,7 +46,7 @@
        * 資源
            * [連結](design_pattern/android/resource/links.md)
    * [Fcloud](design_pattern/fcloud/README.md)
-       * 文字
+       * [文字](design_pattern/fcloud/font.md)
        * [圖示](design_pattern/fcloud/icon.md)
        * [佈局](design_pattern/fcloud/layout.md)
        * [設計流程](design_pattern/fcloud/design_flow.md)
