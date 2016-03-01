@@ -53,7 +53,7 @@
        * [顏色](fcloud/design_pattern/color.md)
        * [佈局](fcloud/design_pattern/layout.md)
 * [工具介紹](tools/README.md)
-   * [Sketch](tools/sketch.md)
+   * Sketch
        * [Plugin](tools/plugin/README.md)
        * [ContentGenerator](tools/plugin/contentgenerator.md)
        * [Zeplin](tools/plugin/zeplin.md)
