@@ -35,7 +35,7 @@
    * 模式
        * [資料格式](material_design/pattern/data_format.md)
        * [空白狀態](material_design/pattern/empty_state.md)
-       * [手勢](design_patter/pattern/gesture.md)
+       * [手勢](material_design/pattern/gesture.md)
        * [登入畫面](material_design/pattern/launch_screen.md)
        * [讀取圖片](material_design/pattern/loaging_image.md)
        * [權限](material_design/pattern/permission.md)
