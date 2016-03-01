@@ -45,13 +45,13 @@
            * [雙向性](design_pattern/android/usability/bidirectionality.md)
        * 資源
            * [連結](design_pattern/android/resource/links.md)
-   * [Fcloud](design_pattern/fcloud/README.md)
-       * 工作流程
-           * [設計流程](fcloud/work_flow/design_flow.md))      
-       * [文字](fcloud/design_pattern/font.md)
-       * [圖示](fcloud/design_pattern/icon.md)
-       * [顏色](fcloud/design_pattern/color.md)
-       * [佈局](fcloud/design_pattern/layout.md)
+* [Fcloud](design_pattern/fcloud/README.md)
+   * 工作流程
+       * [設計流程](fcloud/work_flow/design_flow.md))      
+   * [文字](fcloud/design_pattern/font.md)
+   * [圖示](fcloud/design_pattern/icon.md)
+   * [顏色](fcloud/design_pattern/color.md)
+   * [佈局](fcloud/design_pattern/layout.md)
 * [工具介紹](tools/README.md)
    * [Sketch](tools/sketch.md)
        * [Plugin](tools/plugin/README.md)
