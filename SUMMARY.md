@@ -23,7 +23,7 @@
        * [列表](material_design/component/list.md)
        * [網格列表](material_design/component/grid_list.md)
        * [控制器](material_design/component/control.md)
-       * [選單](design_pattern/component/menu.md)
+       * [選單](material_design/component/menu.md)
        * [讀取條](material_design/component/progress.md)
        * [滑軌](material_design/component/slider.md)
        * [提示欄](material_design/component/snackbar.md)
