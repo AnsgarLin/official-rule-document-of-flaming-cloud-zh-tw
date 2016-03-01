@@ -33,7 +33,7 @@
            * [功能提示](design_pattern/android/component/tooltips.md)
            * [搜尋器](design_pattern/android/component/search.md)
            * [側邊欄](design_pattern/android/component/drawer.md)
-       * [模式](design_pattern/android/pattern/README.md)
+       * 模式
            * [資料格式](design_pattern/android/pattern/data_format.md)
            * [空白狀態](design_pattern/android/pattern/empty_state.md)
            * [手勢](design_pattern/android/pattern/gesture.md)
