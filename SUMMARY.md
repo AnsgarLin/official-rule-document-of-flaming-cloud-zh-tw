@@ -55,8 +55,8 @@
 * [工具介紹](tools/README.md)
    * [Sketch](tools/sketch.md)
        * [Plugin](tools/plugin/README.md)
-           * [ContentGenerator](tools/plugin/contentgenerator.md)
-           * [Zeplin](tools/plugin/zeplin.md)
+       * [ContentGenerator](tools/plugin/contentgenerator.md)
+       * [Zeplin](tools/plugin/zeplin.md)
    * Placeit
        * [圖片製作](tools/placeit/imagemaking.md)
        * [影片製作](tools/placeit/videomaking.md)
