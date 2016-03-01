@@ -45,7 +45,6 @@
        * [雙向性](material_design/usability/bidirectionality.md)
    * 資源
        * [連結](material_design/resource/links.md)
-   * 基礎
 * [Fcloud](fcloud/README.md)
    * 工作流程
        * [設計流程](fcloud/work_flow/design_flow.md)
