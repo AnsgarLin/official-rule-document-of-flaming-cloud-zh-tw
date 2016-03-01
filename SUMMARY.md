@@ -8,7 +8,7 @@
    * 風格
        * [單位](material_design/layout/unit.md)
        * [顏色](material_design/style/color.md)
-       * [圖示](design_pattern/style/icon.md)
+       * [圖示](material_design/style/icon.md)
        * [文字](material_design/style/font.md)
    * 佈局
        * [原則](material_design/layout/principle.md)
