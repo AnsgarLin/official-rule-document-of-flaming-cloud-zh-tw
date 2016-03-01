@@ -46,13 +46,12 @@
        * 資源
            * [連結](design_pattern/android/resource/links.md)
    * [Fcloud](design_pattern/fcloud/README.md)
-       * [設計流程](design_pattern/fcloud/design_flow.md)
+       * 工作流程
+           * [設計流程]((design_pattern/fcloud/work_flow/design_flow.md))       
        * [文字](design_pattern/fcloud/font.md)
        * [圖示](design_pattern/fcloud/icon.md)
        * [顏色](design_pattern/fcloud/color.md)
        * [佈局](design_pattern/fcloud/layout.md)
-       * 工作流程
-           * [設計流程]((design_pattern/fcloud/work_flow/design_flow.md))
 * [工具介紹](tools/README.md)
    * [Sketch](tools/sketch.md)
        * [Plugin](tools/plugin/README.md)
