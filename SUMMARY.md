@@ -1,7 +1,7 @@
 # Summary
 
 * [簡介](README.md)
-* [設計法則](design_pattern/README.md)
+* 設計法則
    * [Android](design_pattern/android/README.md)
        * [概念](design_pattern/android/concept.md)
        * [陰影](design_pattern/android/shadow.md)
