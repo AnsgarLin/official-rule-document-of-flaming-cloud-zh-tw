@@ -2,7 +2,7 @@
 
 * [簡介](README.md)
 * 設計規範
-   * [Android](design_pattern/android/README.md)
+   * [Material Design](design_pattern/android/README.md)
        * [概念](design_pattern/android/concept.md)
        * [陰影](design_pattern/android/shadow.md)
        * [動畫](design_pattern/android/animation.md)
