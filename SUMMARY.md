@@ -33,18 +33,18 @@
        * [搜尋器](material_design/component/search.md)
        * [側邊欄](material_design/component/drawer.md)
    * 模式
-       * [資料格式](design_pattern/pattern/data_format.md)
-       * [空白狀態](design_pattern/pattern/empty_state.md)
+       * [資料格式](material_design/pattern/data_format.md)
+       * [空白狀態](material_design/pattern/empty_state.md)
        * [手勢](design_patter/pattern/gesture.md)
-       * [登入畫面](design_pattern/pattern/launch_screen.md)
-       * [讀取圖片](design_pattern/pattern/loaging_image.md)
-       * [權限](design_pattern/pattern/permission.md)
-       * [導覽](design_pattern/pattern/navigation.md)
+       * [登入畫面](material_design/pattern/launch_screen.md)
+       * [讀取圖片](material_design/pattern/loaging_image.md)
+       * [權限](material_design/pattern/permission.md)
+       * [導覽](material_design/pattern/navigation.md)
    * 可行性
-       * [雙向性](design_pattern/usability/bidirectionality.md)
+       * [雙向性](material_design/usability/bidirectionality.md)
    * 資源
-       * [連結](design_pattern/resource/links.md)
-* [Fcloud](design_pattern/fcloud/README.md)
+       * [連結](material_design/resource/links.md)
+* [Fcloud](fcloud/README.md)
    * 工作流程
        * [設計流程](fcloud/work_flow/design_flow.md)
    * 設計規範
