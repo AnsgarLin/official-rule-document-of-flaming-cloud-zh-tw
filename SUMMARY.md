@@ -2,9 +2,10 @@
 
 * [簡介](README.md)
 * [Material Design](material_design/README.md)
-   * [概念](material_design/concept.md)
-   * [陰影](material_design/shadow.md)
-   * [動畫](material_design/animation.md)
+   * 基礎
+       * [概念](material_design/basic/concept.md)
+       * [陰影](material_design/basic/shadow.md)
+       * [動畫](material_design/basic/animation.md)
    * 風格
        * [單位](material_design/layout/unit.md)
        * [顏色](material_design/style/color.md)
