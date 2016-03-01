@@ -57,6 +57,7 @@
        * [Plugin](tools/plugin/README.md)
            * [ContentGenerator](tools/plugin/contentgenerator.md)
            * [Zeplin](tools/plugin/zeplin.md)
-   * [Website](tools/website/README.md)
-       * [Placeit](tools/website/placeit.md)
+   * Placeit
+       * [圖片製作](tools/placeit/imagemaking.md)
+       * [影片製作](tools/placeit/videomaking.md)
 
