@@ -11,10 +11,10 @@
            * [顏色](design_pattern/android/style/color.md)
            * [圖示](design_pattern/android/style/icon.md)
            * [文字](design_pattern/android/style/font.md)
-       * [佈局](design_pattern/android/layout/README.md)
+       * 佈局
            * [原則](design_pattern/android/layout/principle.md)
            * [結構](design_pattern/android/layout/structure.md)
-       * [元件](design_pattern/android/component/README.md)
+       * 元件
            * [下表](design_pattern/android/component/bottom_sheet.md)
            * [按鈕](design_pattern/android/component/button.md)
            * [卡片](design_pattern/android/component/card.md)
