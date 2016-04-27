@@ -1,14 +1,15 @@
 {
     "language": "zh-TW",
-    "plugins": ["github", "japanese-support", "toc", "tree"],
+    "plugins": ["github", "expandable-chapters", "japanese-support", "toc", "tree"],
     "pluginsConfig": {
         "toc": {
             "addClass": true,
             "className": "toc"
-        }
+        },
         "github": {
             "url": "https://github.com/AnsgarLin/official-rule-document-of-flaming-cloud-zh-tw"
-        }
+        },
+        "expandable-chapters":{}
     },
     "pdf": {
         "fontSize": 12
