@@ -1,6 +1,6 @@
 {
     "language": "zh-TW",
-    "plugins": ["github", "japanese-support", "toc"],
+    "plugins": ["github", "japanese-support", "toc", "tree"],
     "pluginsConfig": {
         "toc": {
             "addClass": true,
