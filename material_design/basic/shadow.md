@@ -3,7 +3,7 @@
 > [抬升](#抬升)  
 > [陰影](#陰影)
 
-## 抬升  
+## 抬升
 
 抬升為 Material Design 重要的概念之一，其沿著Z方向變化，給予物件3D空間的概念，且物件會產生陰影來表現抬升的高度。
 
@@ -17,7 +17,7 @@
 ![](http://material-design.storage.googleapis.com/publish/material_v_4/material_ext_publish/0B8v7jImPsDi-cUtqZzE0REdJdnc/whatismaterial_3d_elevation3.png)
 > <p style="font-size: 12px">應用實例</p>
 
-## 陰影  
+## 陰影
 
 ![](http://material-design.storage.googleapis.com/images/layout-principles-dimensionality-shadows-01_large_mdpi.png)
 ![](http://material-design.storage.googleapis.com/images/layout-principles-dimensionality-shadows-08_large_mdpi.png)
