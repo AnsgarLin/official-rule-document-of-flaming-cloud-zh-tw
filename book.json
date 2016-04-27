@@ -6,7 +6,10 @@
             "addClass": true,
             "className": "toc"
         }
-	},
+        "github": {
+            "url": "https://github.com/AnsgarLin/official-rule-document-of-flaming-cloud-zh-tw"
+        }
+    },
     "pdf": {
         "fontSize": 12
     },
